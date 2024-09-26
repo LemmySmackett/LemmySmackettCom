@@ -1,15 +1,22 @@
 {{ define "main" }}
-<section>
-    <h1>{{ .Site.Title }}</h1>
-    {{ .Content }}
-    <h2>Recent Posts</h2>
+<!-- Recent Stories Section -->
+<section id="recent">
+    <h2>Recent Stories</h2>
     <ul>
-        {{ range first 10 .Site.RegularPages }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <time>{{ .Date.Format "2006-01-02" }}</time>
-        </li>
-        {{ end }}
+      {{ range first 5 (where .Site.RegularPages.ByDate "Section" "stories") }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "Jan 02, 2006" }}</li>
+      {{ end }}
     </ul>
-</section>
-{{ end }}
+  </section>
+  
+  <!-- Short Stories Section -->
+  <section id="short-stories">
+    <h2>Short Stories</h2>
+    <ul>
+      {{ range first 5 (where .Site.RegularPages "Params.lengths" "short-story") }}
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ end }}
+    </ul>
+  </section>
+  
+  {{ end }}

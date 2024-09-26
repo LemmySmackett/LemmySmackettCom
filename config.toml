@@ -1,0 +1,8 @@
+[
+taxonomies
+]
+  genres = "genres"
+  lengths = "/lengths/:slug/"
+  series = "series"
+  explicit = "explicit"
+  extreme = "extreme"

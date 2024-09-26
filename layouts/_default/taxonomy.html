@@ -1,27 +1,19 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} - {{ .Site.Title }}</title>
-    <style>
-        body {
-            font-family: Georgia, serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f0f0f0;
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <h1>{{ .Title }}</h1>
-    <ul>
-    {{ range .Pages }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ define "main" }}
+
+<section id="taxonomy">
+  <h1>{{ .Title }}</h1>
+
+  <ul>
+    {{ range .Pages.ByDate.Reverse }}
+      <li>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary }}</p>
+        <p>Published: {{ .Date.Format "Jan 02, 2006" }}</p>
+      </li>
     {{ end }}
-    </ul>
-</body>
-</html>
+  </ul>
+
+</section>
+
+{{ end }}
+
