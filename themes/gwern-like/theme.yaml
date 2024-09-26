@@ -1,0 +1,124 @@
+name: "Gwern-like"
+license: "MIT"
+licenselink: "https://github.com/yourusername/hugo-gwern-theme/blob/master/LICENSE"
+description: "A Hugo theme inspired by gwern.com with dark mode and reader mode"
+homepage: "https://github.com/yourusername/hugo-gwern-theme"
+tags:
+  - blog
+  - personal
+  - responsive
+  - dark mode
+  - reader mode
+features:
+  - dark mode toggle
+  - reader mode toggle
+  - responsive design
+  - table of contents
+min_version: "0.80.0"
+
+author:
+  name: "Your Name"
+  homepage: "https://yourwebsite.com"
+
+# Theme-specific parameters
+params:
+  # Enable/disable dark mode toggle
+  darkModeToggle: true
+  
+  # Enable/disable reader mode toggle
+  readerModeToggle: true
+  
+  # Default to dark mode
+  defaultDarkMode: false
+  
+  # Default to reader mode
+  defaultReaderMode: false
+  
+  # Font settings
+  fonts:
+    body: "Georgia, serif"
+    headings: "Arial, sans-serif"
+  
+  # Color settings
+  colors:
+    background: "#ffffff"
+    text: "#333333"
+    links: "#0000EE"
+    visitedLinks: "#551A8B"
+    darkBackground: "#1a1a1a"
+    darkText: "#e0e0e0"
+    darkLinks: "#6bf"
+    darkVisitedLinks: "#a8f"
+
+# Layout-specific settings
+layoutsDir: "layouts"
+layouts:
+  _default:
+    baseof: "baseof.html"
+    list: "list.html"
+    single: "single.html"
+  index: "index.html"
+
+# Partial templates
+partialsDir: "layouts/partials"
+partials:
+  - "header.html"
+  - "footer.html"
+  - "metadata.html"
+
+# Static assets
+static:
+  css:
+    - "css/main.css"
+  js:
+    - "js/main.js"
+
+# Archetypes (content templates)
+archetypesDir: "archetypes"
+archetypes:
+  - "default.md"
+
+# Theme dependencies (if any)
+# dependencies:
+#   - name: "some-dependency"
+#     version: "1.0.0"
+
+# Theme configuration options
+configOptions:
+  # Syntax highlighting options
+  pygmentsCodeFences: true
+  pygmentsUseClasses: true
+  
+  # Table of contents options
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+
+# Custom output formats (if needed)
+# outputs:
+#   home:
+#     - HTML
+#     - RSS
+#     - JSON
+
+# Menu configuration
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Posts"
+      url: "/posts/"
+      weight: 3
+
+# Taxonomies
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+# Additional metadata
+metaDataFormat: "yaml"

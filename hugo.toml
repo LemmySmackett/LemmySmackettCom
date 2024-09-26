@@ -1,0 +1,4 @@
+baseURL = "https://lemmysmackett.com/"
+languageCode = "en-us"
+title = "Lemmy Smackett"
+theme = "gwern-like"

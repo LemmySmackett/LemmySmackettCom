@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+        {{ partial "metadata.html" . }}
+    </header>
+    
+    <nav id="TableOfContents">
+        {{ .TableOfContents }}
+    </nav>
+    
+    <div id="content-container" class="content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }}

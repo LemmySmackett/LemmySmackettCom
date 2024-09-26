@@ -1,0 +1,14 @@
+<div class="metadata">
+    <time>Created: {{ .Date.Format "2006-01-02" }}</time>
+    {{ if ne .Lastmod .Date }}
+    <time>Last modified: {{ .Lastmod.Format "2006-01-02" }}</time>
+    {{ end }}
+    {{ with .Params.tags }}
+    <div class="tags">
+        Tags:
+        {{ range . }}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>

@@ -1,0 +1,92 @@
+body {
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    transition: all 0.3s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #0000EE;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #551A8B;
+}
+
+#TableOfContents {
+    position: fixed;
+    left: 20px;
+    top: 100px;
+    max-width: 200px;
+}
+
+.footnotes {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+/* Reader Mode Styles */
+body.reader-mode {
+    font-size: 20px;
+    line-height: 1.8;
+    max-width: 700px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.reader-mode #content-container {
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.reader-mode #TableOfContents,
+.reader-mode footer,
+.reader-mode .metadata {
+    display: none;
+}
+
+.reader-mode h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+.reader-mode h2 {
+    font-size: 2em;
+    margin-top: 1.5em;
+}
+
+.reader-mode p {
+    margin-bottom: 1.5em;
+}
+
+/* Dark mode styles */
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+}
+
+.dark-mode a {
+    color: #6bf;
+}
+
+.dark-mode a:visited {
+    color: #a8f;
+}
+
+.dark-mode.reader-mode {
+    background-color: #222;
+    color: #e0e0e0;
+}
+
+.dark-mode.reader-mode #content-container {
+    background-color: #333;
+    box-shadow: 0 0 10px rgba(255,255,255,0.1);
+}
