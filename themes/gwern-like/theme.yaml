@@ -2,7 +2,6 @@ name: "Gwern-like"
 license: "MIT"
 licenselink: "https://github.com/yourusername/hugo-gwern-theme/blob/master/LICENSE"
 description: "A Hugo theme inspired by gwern.com with dark mode and reader mode"
-homepage: "https://github.com/yourusername/hugo-gwern-theme"
 tags:
   - blog
   - personal
@@ -114,11 +113,6 @@ menu:
     - name: "Posts"
       url: "/posts/"
       weight: 3
-
-# Taxonomies
-taxonomies:
-  tag: "tags"
-  category: "categories"
 
 # Additional metadata
 metaDataFormat: "yaml"

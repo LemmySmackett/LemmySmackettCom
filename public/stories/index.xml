@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stories on Lemmy Smackett</title>
-    <link>http://localhost:39257/stories/</link>
+    <link>http://localhost:1313/stories/</link>
     <description>Recent content in Stories on Lemmy Smackett</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:39257/stories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whispers in the Void</title>
-      <link>http://localhost:39257/stories/test/</link>
+      <link>http://localhost:1313/stories/test/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39257/stories/test/</guid>
+      <guid>http://localhost:1313/stories/test/</guid>
       <description>&lt;p&gt;The starship creaked, a sound that shouldn&amp;rsquo;t be possible in the vacuum of space&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:39257/stories/house_of_mouse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39257/stories/house_of_mouse/</guid>
+      <title>My Content</title>
+      <link>http://localhost:1313/stories/test2/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/test2/</guid>
       <description></description>
     </item>
   </channel>

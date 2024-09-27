@@ -3,28 +3,42 @@
     <header>
         <h1>{{ .Title }}</h1>
         
-        <div class="taxonomy-box">
-            {{ with .Params.genres }}
-                <span class="taxonomy-item"><strong>Genres:</strong> 
-                {{ range $index, $genre := . }}
-                    {{- if $index }}, {{ end -}}
-                    <a href="{{ "/genres/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-                {{- end }}
-                </span>
-            {{ end }}
+				<div class="taxonomy-box">
+					{{ with .Params.genres }}
+					<span class="taxonomy-item"><strong>Genres:</strong>
+							{{ range $index, $genre := . }}
+									{{- if ne $index 0 }}, {{ end -}}
+									<a href="{{ "/genres/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+							{{- end }}
+					</span>
+					{{ end }}
 
-            {{ with .Params.lengths }}
-                <span class="taxonomy-item"><strong>Length:</strong> 
-                {{ range $index, $length := . }}
-                    {{- if $index }}, {{ end -}}
-                    <a href="{{ "/lengths/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-                {{- end }}
-                </span>
+            {{ with .Params.length }}
+            <span class="taxonomy-item"><strong>Length:</strong> 
+            {{ if reflect.IsSlice . }}
+              {{ range $index, $length := . }}
+                {{- if $index }}, {{ end -}}
+                <a href="{{ "/length/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+              {{- end }}
+            {{ else }}
+              <a href="{{ "/length/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
             {{ end }}
+            </span>
+          {{ end }}
 
             {{ with .Params.series }}
                 <span class="taxonomy-item"><strong>Series:</strong> <a href="{{ "/series/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
             {{ end }}
+
+            {{ with .Params.tags }}
+            <span class="taxonomy-item"><strong>Tags:</strong> 
+              	{{ range $index, $tag := . }}
+                	{{- if ne $index 0 }}, {{ end -}}
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+            </span>
+        {{ end }}
+
 
             {{ $warningClass := "" }}
             {{ if or (in .Params.explicit "true") (in .Params.extreme "true") }}

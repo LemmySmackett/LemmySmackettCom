@@ -1,14 +1,24 @@
 {{ define "main" }}
-<section id="terms">
-  <h1>{{ .Title }}</h1>
-
-  <ul>
-    {{ range .Data.Terms.Alphabetical }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .LinkTitle }} ({{ .Count }})</a>
-      </li>
+<main>
+    <h1>{{ .Title }}</h1>
+    
+    {{ with .Content }}
+        <div class="taxonomy-description">
+            {{ . }}
+        </div>
     {{ end }}
-  </ul>
 
-</section>
+    {{ if .Data.Terms }}
+        <ul class="terms-list">
+        {{ range $key, $value := .Data.Terms.ByCount }}
+            <li>
+                <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+                <span class="count">({{ .Count }})</span>
+            </li>
+        {{ end }}
+        </ul>
+    {{ else }}
+        <p>No terms to display.</p>
+    {{ end }}
+</main>
 {{ end }}

@@ -14,7 +14,7 @@
     <h2>Short Stories</h2>
     <ul>
       {{ range first 5 (where .Site.RegularPages "Params.lengths" "short-story") }}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
   </section>

@@ -2,8 +2,9 @@
 title: "Whispers in the Void"
 date: 2023-09-28
 genres: ["science-fiction", "horror"]
-lengths: ["short-story"]
+length: "short-story"
 series: "Cosmic Terrors"
+tags: ["fun","light"]
 explicit: ["true"]
 extreme: ["true"]
 ---
