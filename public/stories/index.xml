@@ -6,8 +6,15 @@
     <description>Recent content in Stories on Lemmy Smackett</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BUG OWNER</title>
+      <link>http://localhost:1313/stories/bug_owner/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/bug_owner/</guid>
+      <description>&lt;p&gt;Lydia Peregrine was checking her mascara in the sun visor mirror when she noticed her husband stroll out of the house, cradling a sleek, white rifle with an electric blue chamber.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;What in God&amp;rsquo;s name.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;She watched as he went to the trunk, stowed it away, then rounded the car and slid into what used to be called the driver&amp;rsquo;s seat—before the Safety in Autonomous Freedom and Efficiency Act criminalized all manual vehicle operation back in 2043.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>People Are The Real Monsters</title>
       <link>http://localhost:1313/stories/people_are_the_real_monsters/</link>
