@@ -1,9 +1,0 @@
-[
-taxonomies
-]
-  genre = "genres"
-  length = "length"
-  tag = "tags"
-  series ="series"
-  explicit = "explicit"
-  extreme = "extreme"

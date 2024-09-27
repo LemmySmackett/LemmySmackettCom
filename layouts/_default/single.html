@@ -39,6 +39,13 @@
             </span>
         {{ end }}
 
+        <span class="taxonomy-item"><strong>Reading Time:</strong> 
+            {{ if le .ReadingTime 1 }}
+              Less than a minute
+            {{ else }}
+              {{ .ReadingTime }} min
+            {{ end }}
+            </span>
 
             {{ $warningClass := "" }}
             {{ if or (in .Params.explicit "true") (in .Params.extreme "true") }}

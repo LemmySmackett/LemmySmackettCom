@@ -1,0 +1,30 @@
+<head></head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    
+    <!-- Adobe Source Serif Pro font -->
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700;900&display=swap" rel="stylesheet">
+    
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+    
+    <!-- Favicon -->
+    {{ with .Site.Params.favicon }}
+    <link rel="icon" href="{{ . | relURL }}">
+    {{ end }}
+    
+    <!-- RSS -->
+    {{ range .AlternativeOutputFormats -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+    
+    <!-- Open Graph and Twitter Cards -->
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    
+    <!-- Any custom head elements -->
+    {{ if templates.Exists "partials/head-custom.html" }}
+        {{ partial "head-custom.html" . }}
+    {{ end }}
+</head>

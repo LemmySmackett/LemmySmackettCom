@@ -2,3 +2,11 @@ baseURL = "https://lemmysmackett.com/"
 languageCode = "en-us"
 title = "Lemmy Smackett"
 theme = "gwern-like"
+
+[taxonomies]
+  genre = "genres"
+  length = "length"
+  tag = "tags"
+  series = "series"
+  explicit = "explicit"
+  extreme = "extreme"

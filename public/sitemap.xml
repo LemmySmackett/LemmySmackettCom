@@ -2,33 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/series/cosmic-terrors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/explicit/</loc>
+  </url><url>
+    <loc>http://localhost:1313/extreme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/extreme/false/</loc>
+  </url><url>
+    <loc>http://localhost:1313/explicit/false/</loc>
+  </url><url>
+    <loc>http://localhost:1313/genres/fiction/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/fun/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/light/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stories/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stories/test/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/future/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/test2/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/genres/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/hfy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/genres/horror/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/length/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/light/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/my-awesome-series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/stories/people_are_the_real_monsters/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/post-apocalypse/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/satire/</loc>
+  </url><url>
+    <loc>http://localhost:1313/genres/sci-fi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/genres/science-fiction/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/length/short-story/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/space/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/stories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/extreme/true/</loc>
+  </url><url>
+    <loc>http://localhost:1313/explicit/true/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/zombies/</loc>
   </url>
 </urlset>

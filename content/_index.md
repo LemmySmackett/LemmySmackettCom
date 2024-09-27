@@ -1,5 +1,5 @@
 ---
 title: "Lemmy Smackett"
 ---
-
-Thanks for stopping by.
+**Site build in progress.**  
+Feel free to peruse. Heed the tags.
