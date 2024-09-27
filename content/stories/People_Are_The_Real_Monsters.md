@@ -1,6 +1,6 @@
 ---
 title: "People Are The Real Monsters"
-date: 2023-09-0
+date: 2023-09-01
 genres: ["sci-fi"]
 length: "short-story"
 tags: ["satire","zombies","post-apocalypse"]

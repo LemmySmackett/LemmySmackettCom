@@ -6,34 +6,26 @@
     <description>Recent content in Tags on Lemmy Smackett</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fun</title>
-      <link>http://localhost:1313/tags/fun/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fun/</guid>
+      <title>Post-Apocalypse</title>
+      <link>http://localhost:1313/tags/post-apocalypse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/post-apocalypse/</guid>
       <description></description>
     </item>
     <item>
-      <title>Light</title>
-      <link>http://localhost:1313/tags/light/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/light/</guid>
+      <title>Satire</title>
+      <link>http://localhost:1313/tags/satire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/satire/</guid>
       <description></description>
     </item>
     <item>
-      <title>Future</title>
-      <link>http://localhost:1313/tags/future/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/future/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/space/</guid>
+      <title>Zombies</title>
+      <link>http://localhost:1313/tags/zombies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zombies/</guid>
       <description></description>
     </item>
   </channel>

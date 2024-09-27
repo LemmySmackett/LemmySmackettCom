@@ -8,7 +8,7 @@
     <h2 class="section-heading">NEWEST STORIES</h2>
     <ul class="content-list">
     {{ range first 5 (where .Site.RegularPages.ByDate "Section" "stories") }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a> <span class="date">- {{ .Date.Format "Jan 02, 2006" }}</span></li>
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a> <span class="date">- {{ .Date.Format "2006-01-02" }}</span></li>
     {{ end }}
     </ul>
   </div>

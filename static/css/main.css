@@ -36,8 +36,8 @@ a:hover {
 }
 
 .section-heading {
-    font-size: 1.2em; /* Slightly smaller */
-    font-weight: 900;
+    font-size: 1em; /* Slightly smaller */
+    font-weight: 00;
     border-bottom: 1px dotted #777;
     padding-bottom: 4px; /* Slightly more space below text */
     margin-bottom: 1em; /* More space below the border */
@@ -48,7 +48,7 @@ a:hover {
 }
 
 .section-heading::first-letter {
-    font-size: 1.3em; /* Makes the first letter slightly bigger */
+    font-size: 1.2em; /* Makes the first letter slightly bigger */
 }
 
 body, .section-heading {
@@ -178,6 +178,7 @@ body.reader-mode {
     border-radius: 5px;
     font-size: 0.9em;
     line-height: 1.4;
+    max-width: 800px; /* Control the width */
 }
 
 .taxonomy-item {
@@ -220,7 +221,7 @@ body.reader-mode {
 .story-content {
     margin-top: 20px;
     font-size: 1.1em;
-    line-height: 1.6;
+    line-height: 1.3;
 }
 
 @media (min-width: 768px) {

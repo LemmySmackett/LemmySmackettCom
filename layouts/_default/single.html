@@ -2,7 +2,7 @@
 <article>
     <header>
         <h1>{{ .Title }}</h1>
-        
+            <div class="taxonomy-box-container">
 				<div class="taxonomy-box">
 					{{ with .Params.genres }}
 					<span class="taxonomy-item"><strong>Genres:</strong>
@@ -30,22 +30,21 @@
                 <span class="taxonomy-item"><strong>Series:</strong> <a href="{{ "/series/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
             {{ end }}
 
+            <span class="taxonomy-item"><strong>Reading Time:</strong> 
+                {{ if le .ReadingTime 1 }}
+                  Less than a minute
+                {{ else }}
+                  {{ .ReadingTime }} min
+                {{ end }}
+                </span>
+
             {{ with .Params.tags }}
             <span class="taxonomy-item"><strong>Tags:</strong> 
-              	{{ range $index, $tag := . }}
-                	{{- if ne $index 0 }}, {{ end -}}
-                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                {{ range $index, $tag := . }}
+                {{- if ne $index 0 }}, {{ end }}<a href="{{ "/tags/" | relLangURL }}{{ $tag | urlize }}">{{ $tag }}</a>
+                {{- end }}
+              </span>
             {{ end }}
-            </span>
-        {{ end }}
-
-        <span class="taxonomy-item"><strong>Reading Time:</strong> 
-            {{ if le .ReadingTime 1 }}
-              Less than a minute
-            {{ else }}
-              {{ .ReadingTime }} min
-            {{ end }}
-            </span>
 
             {{ $warningClass := "" }}
             {{ if or (in .Params.explicit "true") (in .Params.extreme "true") }}
@@ -66,10 +65,14 @@
                 </span>
             {{ end }}
         </div>
+        </div>
     </header>
 
     <div class="story-content">
         {{ .Content }}
     </div>
 </article>
+
+{{ partial "footer.html" . }}
+
 {{ end }}
