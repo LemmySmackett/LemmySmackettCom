@@ -65,7 +65,12 @@
     <loc>http://localhost:1313/tags/satire/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/explicit/true/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/zombies/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/extreme/true/</loc>
   </url>
 </urlset>

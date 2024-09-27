@@ -3,12 +3,23 @@
   {{ .Content }}
 </div>
 <div class="content-wrapper">
+
   <!-- Recent Stories Section -->
   <div class="content-container">
     <h2 class="section-heading">NEWEST STORIES</h2>
     <ul class="content-list">
     {{ range first 5 (where .Site.RegularPages.ByDate "Section" "stories") }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a> <span class="date">- {{ .Date.Format "2006-01-02" }}</span></li>
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a> 
+        <span class="date">- {{ .Date.Format "2006-01-02" }}</span>
+        
+        <!-- Taxonomy check for explicit or extreme -->
+        {{ if .Params.extreme }}
+          <span class="tag-box">Extreme</span>
+        {{ else if .Params.explicit }}
+          <span class="tag-box">Explicit</span>
+        {{ end }}
+      </li>
     {{ end }}
     </ul>
   </div>
@@ -18,7 +29,16 @@
     <h2 class="section-heading">SHORT STORIES</h2>
     <ul class="content-list">
     {{ range first 5 (where .Site.RegularPages "Params.length" "short-story") }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        
+        <!-- Taxonomy check for explicit or extreme -->
+        {{ if .Params.extreme }}
+          <span class="tag-box">Extreme</span>
+        {{ else if .Params.explicit }}
+          <span class="tag-box">Explicit</span>
+        {{ end }}
+      </li>
     {{ end }}
     </ul>
   </div>
@@ -28,9 +48,19 @@
     <h2 class="section-heading">MICRO-FICTION</h2>
     <ul class="content-list">
     {{ range first 5 (where .Site.RegularPages "Params.length" "micro-fiction") }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        
+        <!-- Taxonomy check for explicit or extreme -->
+        {{ if .Params.extreme }}
+          <span class="tag-box">Extreme</span>
+        {{ else if .Params.explicit }}
+          <span class="tag-box">Explicit</span>
+        {{ end }}
+      </li>
     {{ end }}
     </ul>
   </div>
+
 </div>
 {{ end }}
