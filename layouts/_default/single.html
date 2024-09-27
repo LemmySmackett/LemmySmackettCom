@@ -47,18 +47,18 @@
             {{ end }}
 
             {{ $warningClass := "" }}
-            {{ if or (in .Params.explicit "true") (in .Params.extreme "true") }}
+            {{ if or (in .Params.mature "true") (in .Params.extreme "true") }}
                 {{ if in .Params.extreme "true" }}
                     {{ $warningClass = "extreme-warning" }}
                 {{ else }}
-                    {{ $warningClass = "explicit-warning" }}
+                    {{ $warningClass = "mature-warning" }}
                 {{ end }}
                 <span class="taxonomy-item content-warning {{ $warningClass }}">
                     <strong>Content Warning:</strong> 
-                    {{ if in .Params.explicit "true" }}
-                        <a href="/explicit/true">Mature content</a>
+                    {{ if in .Params.mature "true" }}
+                        <a href="/mature/true">Mature content</a>
                     {{ end }}
-                    {{ if and (in .Params.explicit "true") (in .Params.extreme "true") }} | {{ end }}
+                    {{ if and (in .Params.mature "true") (in .Params.extreme "true") }} | {{ end }}
                     {{ if in .Params.extreme "true" }}
                         <a href="/extreme/true">Extreme content</a>
                     {{ end }}

@@ -6,7 +6,7 @@ genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce","bugs"]
 series: "HFY"
-explicit: true
+mature: true
 extreme: false
 ---
 Aisha Starblazer stood in the packed spaceport elevator, struggling to not have any racist thoughts about the Mantidraxian in front of her.

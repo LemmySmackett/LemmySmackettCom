@@ -1,0 +1,21 @@
+<nav class="pagination">
+    <ul>
+      {{ with .Paginator }}
+        {{ if .HasPrev }}
+          <li><a href="{{ .Prev.URL }}">Previous</a></li>
+        {{ end }}
+        
+        {{ range .PageNumbers }}
+          {{ if eq . $.Paginator.PageNumber }}
+            <li class="current">{{ . }}</li>
+          {{ else }}
+            <li><a href="{{ $.Paginator.PageURL . }}">{{ . }}</a></li>
+          {{ end }}
+        {{ end }}
+        
+        {{ if .HasNext }}
+          <li><a href="{{ .Next.URL }}">Next</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>

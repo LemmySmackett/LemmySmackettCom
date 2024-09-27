@@ -6,7 +6,7 @@ genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce","bugs"]
 series: "HFY"
-explicit: false
+mature: false
 extreme: false
 ---
 Lydia Peregrine was checking her mascara in the sun visor mirror when she noticed her husband stroll out of the house, cradling a sleek, white rifle with an electric blue chamber.

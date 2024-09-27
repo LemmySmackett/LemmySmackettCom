@@ -5,7 +5,7 @@ genres: ["sci-fi"]
 length: "micro-fiction"
 tags: ["satire","zombies","post-apocalypse"]
 series: "HFY"
-explicit: false
+mature: false
 extreme: false
 ---
 As the sun sank below the horizon, and the long shadows stretched, two men leaned on a weathered wooden fence, gazing at the distant silhouette of an abandoned city.

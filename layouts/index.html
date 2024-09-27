@@ -13,11 +13,11 @@
         <a href="{{ .Permalink }}">{{ .Title }}</a> 
         <span class="date">- {{ .Date.Format "2006-01-02" }}</span>
         
-        <!-- Taxonomy check for explicit or extreme -->
+        <!-- Taxonomy check for mature or extreme -->
         {{ if .Params.extreme }}
           <span class="tag-box">Extreme</span>
-        {{ else if .Params.explicit }}
-          <span class="tag-box">Explicit</span>
+        {{ else if .Params.mature }}
+        <span class="tag-box-mature">Mature</span>
         {{ end }}
       </li>
     {{ end }}
@@ -32,11 +32,11 @@
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
         
-        <!-- Taxonomy check for explicit or extreme -->
+        <!-- Taxonomy check for mature or extreme -->
         {{ if .Params.extreme }}
           <span class="tag-box">Extreme</span>
-        {{ else if .Params.explicit }}
-          <span class="tag-box">Explicit</span>
+        {{ else if .Params.mature }}
+        <span class="tag-box-mature">Mature</span>
         {{ end }}
       </li>
     {{ end }}
@@ -51,11 +51,11 @@
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
         
-        <!-- Taxonomy check for explicit or extreme -->
+        <!-- Taxonomy check for mature or extreme -->
         {{ if .Params.extreme }}
           <span class="tag-box">Extreme</span>
-        {{ else if .Params.explicit }}
-          <span class="tag-box">Explicit</span>
+        {{ else if .Params.mature }}
+          <span class="tag-box-mature">Mature</span>
         {{ end }}
       </li>
     {{ end }}
