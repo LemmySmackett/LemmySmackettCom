@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Lemmy Smackett</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bugs</title>
+      <link>http://localhost:1313/tags/bugs/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bugs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Farce</title>
+      <link>http://localhost:1313/tags/farce/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/farce/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Post-Apocalypse</title>
       <link>http://localhost:1313/tags/post-apocalypse/</link>
