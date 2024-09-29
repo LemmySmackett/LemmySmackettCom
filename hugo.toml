@@ -8,10 +8,6 @@ theme = "gwern-like"
     name = "HOME"
     url = "/"
     weight = 1
-  [[menu.main]]
-    name = "ABOUT"
-    url = "/about/"
-    weight = 2
 
 [taxonomies]
   genre = "genres"
