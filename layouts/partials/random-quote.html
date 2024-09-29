@@ -1,5 +1,11 @@
-{{ $quotes := .Site.Data.quotes.quotes }}
-{{ $randomIndex := mod (now.UnixNano) (len $quotes) }}
-<div class="quote-box">
-  <p>{{ index $quotes $randomIndex }}</p>
-</div>
+{{ $quotes := .Site.Data.quotes.quotes | default (slice) }}
+{{ if gt (len $quotes) 0 }}
+  {{ $randomIndex := mod (now.UnixNano) (len $quotes) }}
+  <div class="quote-box">
+    <p>{{ index $quotes $randomIndex }}</p>
+  </div>
+{{ else }}
+  <div class="quote-box">
+    <p>No quotes available at the moment.</p>
+  </div>
+{{ end }}
