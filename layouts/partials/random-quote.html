@@ -1,0 +1,5 @@
+{{ $quotes := .Site.Data.quotes.quotes }}
+{{ $randomIndex := mod (now.UnixNano) (len $quotes) }}
+<div class="quote-box">
+  <p>{{ index $quotes $randomIndex }}</p>
+</div>
