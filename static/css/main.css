@@ -356,3 +356,10 @@ a.next {
     margin: 20px 0;
     width: 100%;
 }
+
+.quote-box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 20px 0;
+  font-style: italic;
+}
