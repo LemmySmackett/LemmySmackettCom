@@ -4,7 +4,6 @@ date: 2023-08-28
 genres: ["sci-fi","parody"]
 length: "micro-fiction"
 tags: ["satire","farce"]
-series: "HFY"
 mature: false
 extreme: false
 ---
