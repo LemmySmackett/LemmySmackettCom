@@ -20,7 +20,7 @@ body, .section-heading {
 
 /* Links */
 a {
-    color: #0000EE;
+    color: #4d4d4d;
     text-decoration: none;
 }
 
@@ -263,7 +263,7 @@ body.reader-mode {
 
 /* Story Content */
 .story-content {
-    margin-top: 20px;
+    margin-top: -1em;
     font-size: 1.1em;
     line-height: 1.3;
 }

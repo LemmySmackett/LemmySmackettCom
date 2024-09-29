@@ -1,6 +1,5 @@
-
 ---
-title: "BUG OWNER"
+title: "Bug Owner"
 date: 2023-09-12
 genres: ["sci-fi"]
 length: "short-story"

@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stories on Lemmy Smackett</title>
-    <link>http://localhost:43465/stories/</link>
+    <link>http://localhost:34185/stories/</link>
     <description>Recent content in Stories on Lemmy Smackett</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:43465/stories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AISHA STARBLAZER: SPACE RACIST</title>
-      <link>http://localhost:43465/stories/mature/aisha-starblazarspace-racist/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43465/stories/mature/aisha-starblazarspace-racist/</guid>
-      <description>&lt;p&gt;Aisha Starblazer stood in the packed spaceport elevator, struggling to not have any racist thoughts about the Mantidraxian in front of her.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not that she was racist against Mantidraxians. After all, some of her best friends at the Academy had been Mantidraxian. Why she even dated a Locustan once, which was practically the same thing!&lt;/p&gt;&#xA;&lt;p&gt;Wait. Was that racist?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ding!&lt;/strong&gt; The elevator doors opened and out filed half the passengers. But not Aisha. And not the Mantidraxian.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:34185/stories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

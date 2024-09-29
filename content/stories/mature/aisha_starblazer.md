@@ -1,6 +1,5 @@
-
 ---
-title: "AISHA STARBLAZER: SPACE RACIST"
+title: "Aisha Starblazer: Space Racist"
 date: 2023-09-01
 genres: ["sci-fi"]
 length: "short-story"

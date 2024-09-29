@@ -2,106 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43465/stories/extreme/sleeping-beauty/1/</loc>
+    <loc>http://localhost:34185/stories/extreme/sleeping-beauty/1/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/stories/extreme/sleeping-beauty/2/</loc>
+    <loc>http://localhost:34185/stories/extreme/sleeping-beauty/2/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/extreme/</loc>
+    <loc>http://localhost:34185/tags/bad-end/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/general/contract/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/extreme/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/tags/fable/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/series/fables-and-fairytales/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/mature/false/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/extreme/false/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/genres/fantasy/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/general/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/genres/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/length/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/mature/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/length/micro-fiction/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/series/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/tags/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/general/dogward_dog_day_afteroon/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/tags/farce/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/genres/parody/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/general/personal_improvement_ollar/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/genres/sci-fi/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/general/the_tabacky_kid/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/mature/seinfield_bed_stand_tabasco/</loc>
+    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/mature/</loc>
+    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/genres/pardoy/</loc>
+    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/mature/true/</loc>
+    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/extreme/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/stories/extreme/</loc>
+    <loc>http://localhost:34185/tags/happy-ending/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/series/fables-and-fairytales/</loc>
+    <loc>http://localhost:34185/stories/general/kinslayer/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/genres/fantasy/</loc>
+    <loc>http://localhost:34185/tags/non-con/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/tags/farce/</loc>
+    <loc>http://localhost:34185/length/short-story/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/genres/</loc>
+    <loc>http://localhost:34185/stories/extreme/sleeping-beauty/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/tags/happy-ending/</loc>
+    <loc>http://localhost:34185/extreme/true/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/</loc>
+    <loc>http://localhost:34185/tags/voyeurism/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/length/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/mature/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/tags/non-con/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/series/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/length/short-story/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/stories/extreme/sleeping-beauty/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/stories/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/tags/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/mature/true/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/extreme/true/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/tags/voyeurism/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/stories/general/bug_owner/</loc>
+    <loc>http://localhost:34185/stories/general/bug_owner/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/tags/bugs/</loc>
+    <loc>http://localhost:34185/tags/bugs/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/mature/false/</loc>
+    <loc>http://localhost:34185/series/hfy/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/extreme/false/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/stories/general/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/series/hfy/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/genres/sci-fi/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43465/stories/mature/aisha-starblazarspace-racist/</loc>
+    <loc>http://localhost:34185/stories/mature/aisha_starblazer/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/length/micro-fiction/</loc>
+    <loc>http://localhost:34185/stories/general/people_are_the_real_monsters/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/stories/general/people_are_the_real_monsters/</loc>
+    <loc>http://localhost:34185/tags/post-apocalypse/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/tags/post-apocalypse/</loc>
+    <loc>http://localhost:34185/tags/satire/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/tags/satire/</loc>
+    <loc>http://localhost:34185/tags/zombies/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:43465/tags/zombies/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:34185/stories/mature/neophile/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/series/x/twitter/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/general/enders_game_over/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/mature/the_mutant_cure/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/mature/animal_attraction_bingo/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/mature/bookaholic/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/mature/can_i_reall_get_the_chair/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/tags/isekai/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/stories/mature/the_perfect_organism/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34185/tags/happy-end/</loc>
+  </url><url>
+    <loc>http://localhost:34185/tags/somber/</loc>
   </url>
 </urlset>
