@@ -5,11 +5,11 @@ theme = "gwern-like"
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "HOME"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "About"
+    name = "ABOUT"
     url = "/about/"
     weight = 2
 
