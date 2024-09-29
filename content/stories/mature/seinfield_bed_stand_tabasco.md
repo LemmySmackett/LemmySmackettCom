@@ -1,13 +1,13 @@
 ---
 title: "Jerry Seinfield: Bed Stand Tabasco"
 date: 2023-10-29
-genres: ["pardoy"]
+genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 mature: true
 extreme: false
 ---
-"It's a spermicide, Jerry.*
+"It's a spermicide, Jerry."
 
 Seinfield glances between Kramer and the bottle in his hand. "Tabasco sauce?"
 
