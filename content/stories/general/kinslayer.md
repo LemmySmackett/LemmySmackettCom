@@ -24,9 +24,7 @@ A mob arrived. The townspeople demanded answers from the murderous stranger in t
 
 The townspeople seized the man and hung him.
 
-When later the sheriff arrived and interrogated the townspeople, they all said the same thing: 
-
-"What do the innocent have to hide?"
+When later the sheriff arrived and interrogated the townspeople, they all said the same thing: "What do the innocent have to hide?"
 
 **KINSLAYER**
 
@@ -44,9 +42,7 @@ The investigator demanded answers from the murderous stranger in his midst, who 
 
 Before he could escape, the easygoing man seized the investigator and strangled him to death.
 
-When later the sheriff arrived and interrogated the easygoing man, he claimed self-defense, saying: 
-
-"What do the innocent have to hide?"
+When later the sheriff arrived and interrogated the easygoing man, he claimed self-defense, saying: "What do the innocent have to hide?"
 
 **KINSLAYER**
 
