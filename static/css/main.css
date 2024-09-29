@@ -67,10 +67,11 @@ a:hover {
 }
 
 .content-list li {
-    font-size: 1.3em;
+    font-size: 1.1em;
     margin-bottom: -.05em;
     text-indent: -1em;
     padding-left: 1em;
+    line-height: 1em;
 }
 
 .content-list li::before {
@@ -82,7 +83,6 @@ a:hover {
 .content-list a {
     text-decoration: none;
     color: #686868;
-    line-height: 1;
 }
 
 .content-list a:hover {
