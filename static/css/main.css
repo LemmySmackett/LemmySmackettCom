@@ -71,7 +71,6 @@ a:hover {
     margin-bottom: -.05em;
     text-indent: -1em;
     padding-left: 1em;
-    line-height: -1em;
 }
 
 .content-list li::before {
