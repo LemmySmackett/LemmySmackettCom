@@ -3,6 +3,16 @@ languageCode = "en-us"
 title = "Lemmy Smackett"
 theme = "gwern-like"
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
 [taxonomies]
   genre = "genres"
   length = "length"
