@@ -1,9 +1,0 @@
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "mature") }}
-<ul>
-  {{ range $paginator.Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-  {{ end }}
-</ul>
-
-<!-- Add pagination controls -->
-{{ partial "pagination.html" . }}

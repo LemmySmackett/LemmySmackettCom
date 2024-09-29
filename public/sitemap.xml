@@ -2,103 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/extreme/</loc>
+    <loc>http://localhost:43465/stories/extreme/sleeping-beauty/1/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/extreme/</loc>
+    <loc>http://localhost:43465/stories/extreme/sleeping-beauty/2/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/fables-and-fairytales/</loc>
+    <loc>http://localhost:43465/extreme/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/genres/fantasy/</loc>
+    <loc>http://localhost:43465/stories/extreme/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/farce/</loc>
+    <loc>http://localhost:43465/series/fables-and-fairytales/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/genres/</loc>
+    <loc>http://localhost:43465/genres/fantasy/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/happy-ending/</loc>
+    <loc>http://localhost:43465/tags/farce/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:43465/genres/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/length/</loc>
+    <loc>http://localhost:43465/tags/happy-ending/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mature/</loc>
+    <loc>http://localhost:43465/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/non-con/</loc>
+    <loc>http://localhost:43465/length/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://localhost:43465/mature/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/length/short-story/</loc>
+    <loc>http://localhost:43465/tags/non-con/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/extreme/sleeping_beauty/1/</loc>
+    <loc>http://localhost:43465/series/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/extreme/sleeping_beauty/2/</loc>
+    <loc>http://localhost:43465/length/short-story/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/</loc>
+    <loc>http://localhost:43465/stories/extreme/sleeping-beauty/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:43465/stories/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mature/true/</loc>
+    <loc>http://localhost:43465/tags/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/extreme/true/</loc>
+    <loc>http://localhost:43465/mature/true/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/voyeurism/</loc>
+    <loc>http://localhost:43465/extreme/true/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/general/bug_owner/</loc>
+    <loc>http://localhost:43465/tags/voyeurism/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43465/stories/general/bug_owner/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bugs/</loc>
+    <loc>http://localhost:43465/tags/bugs/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mature/false/</loc>
+    <loc>http://localhost:43465/mature/false/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/extreme/false/</loc>
+    <loc>http://localhost:43465/extreme/false/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/hfy/</loc>
+    <loc>http://localhost:43465/stories/general/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/genres/sci-fi/</loc>
+    <loc>http://localhost:43465/series/hfy/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/mature/aisha-starblazarspace-racist/</loc>
+    <loc>http://localhost:43465/genres/sci-fi/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43465/stories/mature/aisha-starblazarspace-racist/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/mature/</loc>
+    <loc>http://localhost:43465/length/micro-fiction/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/length/micro-fiction/</loc>
+    <loc>http://localhost:43465/stories/general/people_are_the_real_monsters/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/general/people_are_the_real_monsters/</loc>
+    <loc>http://localhost:43465/tags/post-apocalypse/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/post-apocalypse/</loc>
+    <loc>http://localhost:43465/tags/satire/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/satire/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zombies/</loc>
+    <loc>http://localhost:43465/tags/zombies/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,6 +1,7 @@
+/* Base Styles */
 body {
     font-family: "Source Serif Pro", "Georgia", "Times", serif;
-    background-color: #f7f7f7; /* Very light gray */
+    background-color: #f7f7f7;
     line-height: 1.5;
     color: #333;
     max-width: 1200px;
@@ -12,19 +13,26 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Arial, sans-serif;
 }
 
+/* Typography */
+body, .section-heading {
+    font-family: "Source Serif Pro", "Times New Roman", Times, serif;
+}
+
+/* Links */
 a {
-    color: #0000EE; /* More accurate link color */
+    color: #0000EE;
     text-decoration: none;
 }
 
 a:visited {
-    color: #636363; /* More accurate visited link color */
+    color: #636363;
 }
 
 a:hover {
     text-decoration: underline;
 }
 
+/* Layout */
 .content-wrapper {
     display: flex;
     flex-wrap: wrap;
@@ -33,38 +41,34 @@ a:hover {
 
 .content-container {
     width: 100%;
-    margin-bottom: 2em;
 }
 
+/* Section Headings */
 .section-heading {
-    font-size: 1em; /* Slightly smaller */
-    font-weight: 00;
+    font-size: 1em;
     border-bottom: 1px dotted #777;
-    padding-bottom: 4px; /* Slightly more space below text */
-    margin-bottom: 1em; /* More space below the border */
+    padding-bottom: 4px;
     width: 100%;
     display: block;
     text-transform: uppercase;
     letter-spacing: 1px;
+    margin-bottom: -0.3em;  /* Reduce space below section heading */
+
 }
 
 .section-heading::first-letter {
-    font-size: 1.2em; /* Makes the first letter slightly bigger */
+    font-size: 1.2em;
 }
 
-body, .section-heading {
-    font-family: "Source Serif Pro", "Times New Roman", Times, serif;
-}
-
+/* Content Lists */
 .content-list {
-        list-style-type: none;
-        padding-left: 0;
-        margin-top: 0.5em;
+    list-style-type: none;
+    padding-left: 0;
 }
 
 .content-list li {
-    font-size: 1.3em; /* Increase font size */
-    margin-bottom: -0.3em; /* Reduce space between items */
+    font-size: 1.3em;
+    margin-bottom: -.05em;
     text-indent: -1em;
     padding-left: 1em;
 }
@@ -77,14 +81,13 @@ body, .section-heading {
 
 .content-list a {
     text-decoration: none;
-    color: #686868; /* Adjust link color as needed */
+    color: #686868;
 }
 
 .content-list a:hover {
     text-decoration: underline;
 }
 
-/* If you have dates in your list items */
 .content-list .date {
     font-size: 0.9em;
     color: #777;
@@ -95,6 +98,7 @@ body, .section-heading {
     font-size: 0.9em;
 }
 
+/* Table of Contents */
 #TableOfContents {
     position: fixed;
     left: 20px;
@@ -102,12 +106,13 @@ body, .section-heading {
     max-width: 200px;
 }
 
+/* Footnotes */
 .footnotes {
     border-top: 1px solid #ddd;
     padding-top: 20px;
 }
 
-/* Reader Mode Styles */
+/* Reader Mode */
 body.reader-mode {
     font-size: 20px;
     line-height: 1;
@@ -116,33 +121,36 @@ body.reader-mode {
     color: #333;
 }
 
+.reader-mode .content-list li {
+    margin-bottom: 0.3em;  /* Add more space between list items */
+}
+
 .reader-mode #content-container {
     background-color: white;
-    padding: 40px;
+    padding: 42px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
 .reader-mode #TableOfContents,
-.reader-mode footer,
 .reader-mode .metadata {
     display: none;
 }
 
 .reader-mode h1 {
     font-size: 2.5em;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.2em;
 }
 
 .reader-mode h2 {
     font-size: 2em;
-    margin-top: 1.5em;
+    margin-top: .5em;
 }
 
 .reader-mode p {
     margin-bottom: 1em;
 }
 
-/* Dark mode styles */
+/* Dark Mode */
 .dark-mode {
     background-color: #1a1a1a;
     color: #e0e0e0;
@@ -166,27 +174,10 @@ body.reader-mode {
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
 
+/* Taxonomy */
 .taxonomy-box-container {
     display: flex;
-    justify-content: flex-start; /* Aligns the box to the left */
-  }
-
-.tag-box {
-    background-color: rgb(150, 18, 18);
-    color: white;
-    padding: 2px 6px;
-    border-radius: 3px;
-    font-size: 0.8em;
-    margin-left: 10px;
-}
-
-.tag-box-mature {
-    background-color: rgb(158, 0, 132);
-    color: white;
-    padding: 2px 6px;
-    border-radius: 3px;
-    font-size: 0.8em;
-    margin-left: 10px;
+    justify-content: flex-start;
 }
 
 .taxonomy-box {
@@ -195,9 +186,22 @@ body.reader-mode {
     padding: 5px;
     margin-bottom: 20px;
     border-radius: 5px;
-    font-size: 0.9em;
+    font-size: 1em;
     line-height: 1.4;
-    max-width: 800px; /* Control the width */
+    max-width: 800px;
+}
+
+/* Dark mode for taxonomy box */
+.dark-mode .taxonomy-box {
+    color: #333;            /* Lighter text */
+}
+
+.dark-mode .taxonomy-box a {
+    color: #333;            /* Lighter link color */
+}
+
+.dark-mode .taxonomy-box a:hover {
+    color: #ffffff;            /* White link on hover */
 }
 
 .taxonomy-item {
@@ -219,6 +223,26 @@ body.reader-mode {
     text-decoration: underline;
 }
 
+/* Tags */
+.tag-box {
+    background-color: rgb(150, 18, 18);
+    color: white;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    margin-left: 10px;
+}
+
+.tag-box-mature {
+    background-color: rgb(158, 0, 132);
+    color: white;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    margin-left: 10px;
+}
+
+/* Content Warnings */
 .content-warning {
     padding: 3px 6px;
     border-radius: 3px;
@@ -232,30 +256,19 @@ body.reader-mode {
 }
 
 .extreme-warning {
-    color: #ffffff;
-    background-color: #dc3545;
-    border: 1px solid #dc3545;
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;;
 }
 
+/* Story Content */
 .story-content {
     margin-top: 20px;
     font-size: 1.1em;
     line-height: 1.3;
 }
 
-@media (min-width: 768px) {
-    .content-container {
-        width: 48%;
-    }
-}
-
-/* For screens wider than 1200px */
-@media (min-width: 1200px) {
-    .content-container {
-        width: 31%; /* Three columns */
-    }
-}
-
+/* Warning */
 .warning {
     background-color: yellow;
     color: red;
@@ -264,40 +277,82 @@ body.reader-mode {
     border: 2px solid red;
     margin-bottom: 20px;
     max-width: 800px;
-    max-width: 800px;
-  }
+}
 
-  nav {
+/* Navigation */
+nav {
     display: flex;
     align-items: center;
-    justify-content: flex-start; /* Aligns all items to the left */
-    gap: 10px; /* Adds minimal spacing between items */
-  }
-  
-  nav a, nav button {
-    margin-right: 0px; /* Optional: space between links/buttons */
-  }
+    justify-content: flex-start;
+    gap: 10px;
+}
 
-  nav.pagination {
+nav a, nav button {
+    margin-right: 0px;
+}
+/* Pagination container */
+.pagination {
     display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
-  }
-  
-  nav.pagination a {
+    justify-content: space-between;  /* Space between buttons */
+    align-items: center;
+    margin-top: 2em;
+    width: 100%;                     /* Ensure the container stretches across the page */
+}
+
+/* Styling for the buttons */
+.pagination a {
     padding: 10px 15px;
-    background-color: #007BFF;
-    color: white;
-    text-decoration: none;
+    background: #f0f0f0;
     border-radius: 5px;
-  }
-  
-  nav.pagination a:hover {
-    background-color: #0056b3;
-  }
-  
-  nav.pagination a:disabled {
-    background-color: #ccc;
-    pointer-events: none;
-  }
-  
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+}
+
+/* Change button background color on hover */
+.pagination a:hover {
+    background: #e0e0e0;
+}
+
+/* Arrow before the "Previous" link */
+a.prev::before {
+    content: "←";
+    margin-right: 5px;
+}
+
+/* Arrow after the "Next" link */
+a.next::after {
+    content: "→";
+    margin-left: 5px;
+}
+
+/* Force "Previous" to always be on the left */
+a.prev {
+    text-align: left;
+}
+
+/* Force "Next" to always be on the right */
+a.next {
+    text-align: right;
+}
+
+
+/* Media Queries */
+@media (min-width: 768px) {
+    .content-container {
+        width: 48%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .content-container {
+        width: 31%;
+    }
+}
+
+.dotted-line {
+    border: none;
+    border-top: 3px dotted #ccc;   /* Dotted line with light color */
+    margin: 20px 0;
+    width: 100%;
+}
