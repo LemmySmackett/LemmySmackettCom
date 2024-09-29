@@ -82,6 +82,7 @@ a:hover {
 .content-list a {
     text-decoration: none;
     color: #686868;
+    line-height: 1;
 }
 
 .content-list a:hover {
