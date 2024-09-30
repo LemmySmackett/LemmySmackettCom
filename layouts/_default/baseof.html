@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 </head>
 <body>
-    {{ partial "header.html" . }}
-    <main>
-        {{ block "main" . }}{{ end }}
-    </main>
-    {{ partial "footer.html" . }}
-    <script src="{{ "js/main.js" | relURL }}"></script>
+    <div class="global-wrapper">
+        {{ partial "header.html" . }}
+            <main>
+                {{ block "main" . }}{{ end }}
+            </main>
+        {{ partial "footer.html" . }}
+        <script src="{{ "js/main.js" | relURL }}"></script>
+    </div>   
 </body>
 </html>

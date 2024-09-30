@@ -29,4 +29,4 @@ Kramer lowers the bottle and mimics a jerk. "Flavor saver."
 
 Seinfield throws up hands. "I'm out."[^1]
 
-[^1]:Based on ![](/images/bed_stand_tabasco.jpeg)
+[^1]:Based on [this wikipedia excerpt. (Source: Wikipedia)](/images/bed_stand_tabasco.jpeg)
