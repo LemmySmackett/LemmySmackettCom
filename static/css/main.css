@@ -106,12 +106,12 @@ a.next {
   .section-heading {
     font-size: 1.2em;
     border-bottom: 1px dotted #777;
-    padding-bottom: 4px;
+    padding-bottom: 2px;
     width: 100%;
     display: block;
     text-transform: uppercase;
     letter-spacing: -0.06em;
-    margin-bottom: -0.3em;
+    margin-bottom: 0.2em;
   }
   
   .section-heading::first-letter {
@@ -122,7 +122,7 @@ a.next {
   .content-container {
     max-width: 1024px;
     margin: 0 auto;
-    padding: 0 5px;
+    padding: 0 2px;
   }
   
   .content-list {
@@ -132,17 +132,17 @@ a.next {
   
   .content-list li {
     font-size: 1.1em;
-    margin-bottom: 0.2em;
+    margin-bottom: 0.1em;
     text-indent: -1em;
     padding-left: 1em;
-    line-height: 1.1;
+    line-height: 1.2;
   }
 
 /* This targets wrapped lines and pulls them up slightly */
 .content-list li br {
   display: block;
   content: "";
-  margin-top: -0.8em;
+  margin-top: -0.6em;
 }
   
   .content-list li::before {
@@ -185,7 +185,7 @@ a.next {
   .quote-box {
     border: 1px solid var(--border-color);
     padding: 10px;
-    margin: 10px auto; /* Changed from 20px 0 to center the box */
+    margin: 5px auto; /* Changed from 20px 0 to center the box */
     font-style: italic;
     max-width: 1024px; /* Maximum width of the box */
     width: fit-content; /* Make the box fit its content */
