@@ -212,7 +212,6 @@ header {
 header a, header button {
     margin-right: 10px;
 }
-
   
 /* Responsive Design */
 @media (min-width: 600px) {

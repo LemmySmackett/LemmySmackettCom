@@ -17,9 +17,6 @@
         {{ range .Pages }}
             <li>
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                {{ with .Summary }}
-                    <p>{{ . | truncate 100 }}</p>
-                {{ end }}
             </li>
         {{ end }}
         </ul>
