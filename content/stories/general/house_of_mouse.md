@@ -1,7 +1,12 @@
 ---
-title:"House of Mouse, Heart of Stone
+title:"House of Mouse, Heart of Stone"
+date: 2023-08-21
+genres: ["parody"]
+length: "micro-fiction"
+tags: ["satire","farce"]
+mature: false
+extreme: false
 ---
-
 "Do you intend to haunt my door all night?" Mickey bellowed. "To linger in these halls like some widowed spirit?" The mouse sat with his back to the entrance, at a mahogany desk adorned with gilded brass accents.
 
 Minnie gulped and entered the palatial study, the hem of her sheer peignoir negligee skimming the lush Savonnerie carpet. She clutched her elbows, as if her slender, rubber-hose arms could shield her from his ire.
