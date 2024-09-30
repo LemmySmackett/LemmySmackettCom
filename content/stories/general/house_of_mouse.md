@@ -1,5 +1,5 @@
 ---
-title:"House of Mouse, Heart of Stone"
+title: "House of Mouse, Heart of Stone"
 date: 2023-08-21
 genres: ["parody"]
 length: "micro-fiction"
