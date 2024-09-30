@@ -26,7 +26,7 @@ The townspeople seized the man and hung him.
 
 When later the sheriff arrived and interrogated the townspeople, they all said the same thing: "What do the innocent have to hide?"
 
-**KINSLAYER**
+**KINSLAYER II**
 
 A cunning youth once killed his brother. Though many believed it to be an accident, he intended it all the same. Remorseless, he turned himself in and bided his time.
 
@@ -44,6 +44,6 @@ Before he could escape, the easygoing man seized the investigator and strangled 
 
 When later the sheriff arrived and interrogated the easygoing man, he claimed self-defense, saying: "What do the innocent have to hide?"
 
-**KINSLAYER**
+**KINSLAYER III**
 
 A youth once killed his brother. And none could ever know his heart.
