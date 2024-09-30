@@ -346,7 +346,7 @@ body.reader-mode {
 
 /* Dark mode for taxonomy box */
 .dark-mode .taxonomy-box {
-    color: var(--text-color);            /* Using the main text color */
+    color: #333;
 }
 
 .dark-mode .taxonomy-box a {
