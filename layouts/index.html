@@ -1,95 +1,69 @@
 {{ define "main" }}
-<div class="index-content">
-  {{ .Content }}
-  {{ partial "random-quote.html" . }}
-</div>
-<div class="content-wrapper">
+<div class="center-container">
+  <main>
+    <article class="index-content">
+      {{ .Content }}
+      {{ partial "random-quote.html" . }}
+    </article>
 
-  <!-- Recent Stories Section -->
-  <div class="content-container">
-    <h2 class="section-heading">NEWEST STORIES</h2>
-    <ul class="content-list">
-    {{ range first 5 (where .Site.RegularPages.ByDate "Section" "stories") }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a> 
-        <span class="date">- {{ .Date.Format "2006-01-02" }}</span>
-        
-        <!-- Taxonomy check for mature or extreme -->
-        {{ if .Params.extreme }}
-          <span class="tag-box">Extreme</span>
-        {{ else if .Params.mature }}
-        <span class="tag-box-mature">Mature</span>
-        {{ end }}
-      </li>
-    {{ end }}
-    </ul>
-  </div>
+    <div class="content-wrapper">
+      <div class="content-container">
+        <h2 class="section-heading"><a href="/stories">Newest Stories</a></h2>
+        <ul class="content-list">
+          {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              {{ if .Params.extreme }}
+              <span class="tag-box">E</span>
+            {{ else if .Params.mature }}
+              <span class="tag-box-mature">M</span>
+            {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
 
-  <!-- Short Stories Section -->
-  <div class="content-container">
-    <h2 class="section-heading">
-      <a href="/length/short-story" style="text-decoration: none; color: inherit;"> 
-        SHORT STORIES
-    </h2>
-  </a>
-    <ul class="content-list">
-    {{ range first 5 (where .Site.RegularPages "Params.length" "short-story") }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-        
-        <!-- Taxonomy check for mature or extreme -->
-        {{ if .Params.extreme }}
-          <span class="tag-box">Extreme</span>
-        {{ else if .Params.mature }}
-        <span class="tag-box-mature">Mature</span>
-        {{ end }}
-      </li>
-    {{ end }}
-    </ul>
-  </div>
+      <div class="content-container">
+        <h2 class="section-heading"><a href="/length/short-story">Short Stories</a></h2>
+        <ul class="content-list">
+          {{ range first 5 (where .Site.RegularPages "Params.length" "short-story") }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              {{ if .Params.extreme }}
+              <span class="tag-box">E</span>
+            {{ else if .Params.mature }}
+              <span class="tag-box-mature">M</span>
+            {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
 
-  <!-- Micro Stories Section -->
-  <div class="content-container">
-    <h2 class="section-heading">
-      <a href="/length/micro-fiction" style="text-decoration: none; color: inherit;"> 
-        MICRO-FICTION</h2>
-      </a>
-    </h2>
-    <ul class="content-list">
-    {{ range first 5 (where .Site.RegularPages "Params.length" "micro-fiction") }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-        
-        <!-- Taxonomy check for mature or extreme -->
-        {{ if .Params.extreme }}
-          <span class="tag-box">Extreme</span>
-        {{ else if .Params.mature }}
-          <span class="tag-box-mature">Mature</span>
-        {{ end }}
-      </li>
-    {{ end }}
-    </ul>
-  </div>
+      <div class="content-container">
+        <h2 class="section-heading"><a href="/length/micro-fiction">Micro-Fiction</a></h2>
+        <ul class="content-list">
+          {{ range first 5 (where .Site.RegularPages "Params.length" "micro-fiction") }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              {{ if .Params.extreme }}
+              <span class="tag-box">E</span>
+            {{ else if .Params.mature }}
+              <span class="tag-box-mature">M</span>
+            {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
 
-  <div class="content-container">
-    <h2 class="section-heading">
-      <a href="/stories" style="text-decoration: none; color: inherit;">ALL STORIES</a>
-    </h2>
-    <ul class="content-list">
-        <li>
-            <a href="/stories/general">General Stories</a>
-        </li>
-        <li>
-            <a href="/stories/mature">Mature Stories</a>
-            <span class="tag-box-mature">Mature</span>
-        </li>
-        <li>
-            <a href="/stories/extreme">Extreme Stories</a>
-            <span class="tag-box">Extreme</span>
-        </li>
-    </ul>
-</div>
-
-
+      <div class="content-container">
+        <h2 class="section-heading"><a href="/stories">All Stories</a></h2>
+        <ul class="content-list">
+          <li><a href="/stories/general">General Stories</a></li>
+          <li><a href="/stories/mature">Mature Stories</a> <span class="tag-box-mature">M</span></li>
+          <li><a href="/stories/extreme">Extreme Stories</a> <span class="tag-box">E</span></li>
+        </ul>
+      </div>
+    </div>
+  </main>
 </div>
 {{ end }}

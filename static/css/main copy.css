@@ -1,0 +1,358 @@
+/* Base Styles */
+body {
+    font-family: "Source Serif Pro", "Georgia", "Times", serif;
+    background-color: #f7f7f7;
+    line-height: 1.5;
+    color: #333;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, sans-serif;
+}
+
+/* Typography */
+body, .section-heading {
+    font-family: "Source Serif Pro", "Times New Roman", Times, serif;
+}
+
+/* Links */
+a {
+    color: #4d4d4d;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #636363;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Layout */
+.content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.content-container {
+    width: 100%;
+}
+
+/* Section Headings */
+.section-heading {
+    font-size: 1em;
+    border-bottom: 1px dotted #777;
+    padding-bottom: 4px;
+    width: 100%;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: -0.3em;  /* Reduce space below section heading */
+
+}
+
+.section-heading::first-letter {
+    font-size: 1.2em;
+}
+
+/* Content Lists */
+.content-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.content-list li {
+    font-size: 1.3em;
+    margin-bottom: -.05em;
+    text-indent: -1em;
+    padding-left: 1em;
+}
+
+.content-list li::before {
+    content: "• ";
+    color: #777;
+    margin-right: 0.3em;
+}
+
+.content-list a {
+    text-decoration: none;
+    color: #686868;
+}
+
+.content-list a:hover {
+    text-decoration: underline;
+}
+
+.content-list .date {
+    font-size: 0.9em;
+    color: #777;
+}
+
+.date {
+    color: #777;
+    font-size: 0.9em;
+}
+
+/* Table of Contents */
+#TableOfContents {
+    position: fixed;
+    left: 20px;
+    top: 100px;
+    max-width: 200px;
+}
+
+/* Footnotes */
+.footnotes {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+/* Reader Mode */
+body.reader-mode {
+    font-size: 20px;
+    line-height: 1;
+    max-width: 700px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.reader-mode .content-list li {
+    margin-bottom: 0.3em;  /* Add more space between list items */
+}
+
+.reader-mode #content-container {
+    background-color: white;
+    padding: 42px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.reader-mode #TableOfContents,
+.reader-mode .metadata {
+    display: none;
+}
+
+.reader-mode h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+}
+
+.reader-mode h2 {
+    font-size: 2em;
+    margin-top: .5em;
+}
+
+.reader-mode p {
+    margin-bottom: 1em;
+}
+
+/* Dark Mode */
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+}
+
+.dark-mode a {
+    color: rgb(190, 190, 190);
+}
+
+.dark-mode a:visited {
+    color: rgb(179, 179, 179);
+}
+
+.dark-mode.reader-mode {
+    background-color: #222;
+    color: #e0e0e0;
+}
+
+.dark-mode.reader-mode #content-container {
+    background-color: #333;
+    box-shadow: 0 0 10px rgba(255,255,255,0.1);
+}
+
+/* Taxonomy */
+.taxonomy-box-container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.taxonomy-box {
+    background-color: #9e9e9e;
+    border: 1px solid #4d1515;
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    line-height: 1.4;
+    max-width: 800px;
+}
+
+/* Dark mode for taxonomy box */
+.dark-mode .taxonomy-box {
+    color: #333;            /* Lighter text */
+}
+
+.dark-mode .taxonomy-box a {
+    color: #333;            /* Lighter link color */
+}
+
+.dark-mode .taxonomy-box a:hover {
+    color: #ffffff;            /* White link on hover */
+}
+
+.taxonomy-item {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.taxonomy-item:last-child {
+    margin-right: 0;
+}
+
+.taxonomy-box a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.taxonomy-box a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* Tags */
+.tag-box {
+    background-color: rgb(150, 18, 18);
+    color: white;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    margin-left: 10px;
+}
+
+.tag-box-mature {
+    background-color: rgb(158, 0, 132);
+    color: white;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    margin-left: 10px;
+}
+
+/* Content Warnings */
+.content-warning {
+    padding: 3px 6px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.mature-warning {
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+}
+
+.extreme-warning {
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;;
+}
+
+/* Story Content */
+.story-content {
+    margin-top: -1em;
+    font-size: 1.1em;
+    line-height: 1.3;
+}
+
+/* Warning */
+.warning {
+    background-color: yellow;
+    color: red;
+    padding: 10px;
+    font-weight: 900;
+    border: 2px solid red;
+    margin-bottom: 20px;
+    max-width: 800px;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+nav a, nav button {
+    margin-right: 0px;
+}
+/* Pagination container */
+.pagination {
+    display: flex;
+    justify-content: space-between;  /* Space between buttons */
+    align-items: center;
+    margin-top: 2em;
+    width: 100%;                     /* Ensure the container stretches across the page */
+}
+
+/* Styling for the buttons */
+.pagination a {
+    padding: 10px 15px;
+    background: #f0f0f0;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+}
+
+/* Change button background color on hover */
+.pagination a:hover {
+    background: #e0e0e0;
+}
+
+/* Arrow before the "Previous" link */
+a.prev::before {
+    content: "←";
+    margin-right: 5px;
+}
+
+/* Arrow after the "Next" link */
+a.next::after {
+    content: "→";
+    margin-left: 5px;
+}
+
+/* Force "Previous" to always be on the left */
+a.prev {
+    text-align: left;
+}
+
+/* Force "Next" to always be on the right */
+a.next {
+    text-align: right;
+}
+
+
+/* Media Queries */
+@media (min-width: 768px) {
+    .content-container {
+        width: 48%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .content-container {
+        width: 31%;
+    }
+}
+
+.dotted-line {
+    border: none;
+    border-top: 3px dotted #ccc;   /* Dotted line with light color */
+    margin: 20px 0;
+    width: 100%;
+}
