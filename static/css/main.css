@@ -85,6 +85,9 @@ header > *:first-child {
 header > *:last-child {
     margin-bottom: 0;
 }
+.home-link{
+    font-weight: bold;
+}
 
 /* Adjust the start of the main content */
 main {
