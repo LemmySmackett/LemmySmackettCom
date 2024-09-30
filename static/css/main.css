@@ -360,7 +360,7 @@ body.reader-mode {
 
 .taxonomy-item {
     display: inline-block;
-    margin-right:15px;
+    margin-right:0px;
 }
 
 .taxonomy-item:last-child {
