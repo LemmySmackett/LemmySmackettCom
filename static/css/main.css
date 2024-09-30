@@ -135,14 +135,14 @@ a.next {
     margin-bottom: 0.2em;
     text-indent: -1em;
     padding-left: 1em;
-    line-height: 1.1em;
+    line-height: 1.1;
   }
 
 /* This targets wrapped lines and pulls them up slightly */
 .content-list li br {
   display: block;
   content: "";
-  margin-top: -0.4em;
+  margin-top: -0.8em;
 }
   
   .content-list li::before {
@@ -272,6 +272,7 @@ body.reader-mode {
 }
 
 .reader-mode .content-list li {
+    line height: 1.2;
     margin-bottom: .03em;  /* Add more space between list items */
 }
 
