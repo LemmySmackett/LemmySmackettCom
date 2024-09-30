@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main>
-    <h1>{{ .Title }}</h1>
+   <div class="taxonomy-list-title"><h1>{{ .Title }}</h1></div>
     
     {{ with .Content }}
         <div class="taxonomy-description">
@@ -13,9 +13,9 @@
         {{ range .Pages }}
             <li>
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                {{ with .Summary }}
+                <!-- {{ with .Summary }}
                     <p>{{ . | truncate 100 }}</p>
-                {{ end }}
+                {{ end }} -->
             </li>
         {{ end }}
         </ul>
@@ -23,6 +23,5 @@
         <p>No entries found in this {{ .Data.Singular }}.</p>
     {{ end }}
 
-    {{ template "_internal/pagination.html" . }}
 </main>
 {{ end }}

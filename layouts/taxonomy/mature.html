@@ -1,28 +1,32 @@
 {{ define "main" }}
 <main>
-    <h1>Mature</h1>
+    <div class="taxonomy-list-title"><h1>Mature</h1></div>
 
     <div class="warning">
         <strong>Warning:</strong> This section contains stories that feature strong sexual content, violence, and/or mature themes. Heed the tags.
       </div>
     
-    {{ with .Content }}
-        <div class="taxonomy-description">
-            {{ . }}
-        </div>
-    {{ end }}
+    
+      {{ with .Content }}
+      <div class="taxonomy-description">
+          {{ . }}
+      </div>
+  {{ end }}
 
-    {{ if .Pages }}
-        <ul class="taxonomy-list">
-        {{ range .Pages }}
-            <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </li>
-        {{ end }}
-        </ul>
-    {{ else }}
-        <p>No entries found in this {{ .Data.Singular }}.</p>
-    {{ end }}
+  {{ if .Pages }}
+      <ul class="taxonomy-list">
+      {{ range .Pages }}
+          <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <!-- {{ with .Summary }}
+                  <p>{{ . | truncate 100 }}</p>
+              {{ end }} -->
+          </li>
+      {{ end }}
+      </ul>
+  {{ else }}
+      <p>No entries found in this {{ .Data.Singular }}.</p>
+  {{ end }}
 
 </main>
 {{ end }}

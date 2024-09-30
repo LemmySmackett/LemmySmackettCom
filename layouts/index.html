@@ -8,7 +8,7 @@
 
     <div class="content-wrapper">
       <div class="content-container">
-        <h2 class="section-heading"><a href="/stories">Newest Stories</a></h2>
+        <h2 class="section-heading">Newest Stories</h2>
         <ul class="content-list">
           {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
             <li>
@@ -56,7 +56,7 @@
       </div>
 
       <div class="content-container">
-        <h2 class="section-heading"><a href="/stories">All Stories</a></h2>
+        <h2 class="section-heading">All Stories</h2>
         <ul class="content-list">
           <li><a href="/stories/general">General Stories</a></li>
           <li><a href="/mature/true">Mature Stories</a> <span class="tag-box-mature">M</span></li>
