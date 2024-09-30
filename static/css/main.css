@@ -265,7 +265,7 @@ body.reader-mode {
 }
 
 .reader-mode .content-list li {
-    margin-bottom: 0.3em;  /* Add more space between list items */
+    margin-bottom: 0.6em;  /* Add more space between list items */
 }
 
 .reader-mode #content-container {
