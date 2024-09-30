@@ -338,15 +338,15 @@ body.reader-mode {
 
 /* Dark mode for taxonomy box */
 .dark-mode .taxonomy-box {
-    color: #333;            /* Lighter text */
+    color: var(--text-color);            /* Using the main text color */
 }
 
 .dark-mode .taxonomy-box a {
-    color: #333;            /* Lighter link color */
+    color: var(--link-color);            /* Using the main link color */
 }
 
 .dark-mode .taxonomy-box a:hover {
-    color: #ffffff;            /* White link on hover */
+    color: var(--visited-link-color);    /* Using the visited link color for hover */
 }
 
 .taxonomy-item {
