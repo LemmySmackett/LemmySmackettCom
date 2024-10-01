@@ -1,7 +1,7 @@
 ---
 title: "Bat and Switch"
 date: 2024-08-13
-genres: ["sci-fi"."parody"]
+genres: ["sci-fi","parody"]
 length: "micro-fiction"
 tags: ["farce","superheroes"]
 mature: false
