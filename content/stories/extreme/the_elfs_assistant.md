@@ -3,7 +3,7 @@ title: "The Elf's Assistant or, Have You Ever Seen A Goblin Crank It For Science
 date: 2023-09-03
 genres: ["fantasy"]
 length: "short-story"
-tags: ["farce","non-con","bondage","happy ending"]
+tags: ["erotica","farce","non-con","bondage","happy ending"]
 mature: true
 extreme: true
 ---
