@@ -1,5 +1,5 @@
 ---
-title: "Humans are the Real Racists"
+title: "Humans Are The Real Racists"
 date: 2024-08-15
 genres: ["fantasy"]
 length: "micro-fiction"
