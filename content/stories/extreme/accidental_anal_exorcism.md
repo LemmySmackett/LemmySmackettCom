@@ -1,5 +1,11 @@
 ---
-title: "Accidental Anal Exorcism
+title: "Accidental Anal Exorcism"
+date: 2023-09-15
+genres: ["fantasy"]
+length: "short-story"
+tags: ["farce","non-con","sadomasochism","happy ending"]
+mature: true
+extreme: true
 ---
 "My, my, my," the Succubus purred. "I guess even a holy man can't resist tying up a bad girl."
 
