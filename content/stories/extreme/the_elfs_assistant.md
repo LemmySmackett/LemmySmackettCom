@@ -1,3 +1,12 @@
+---
+title: "The Elf's Assistant or, Have You Ever Seen A Goblin Crank It For Science?"
+date: 2023-09-03
+genres: ["fantasy"]
+length: "short-story"
+tags: ["farce","non-con","bondage","happy ending"]
+mature: true
+extreme: true
+---
 The bespectacled elf busied about the apothecary, measuring out chromatic powders, mixing odd liquids in even odder flasks, and all the while, in the crisscross shadows of the rafters above, a lanky green ape, what is most commonly known as goblin, fondled himself.
 
 His name was Pisslips.
@@ -186,7 +195,7 @@ The elf nodded her head. She wanted to explain the intricacy of chemically-induc
 
 "Blarble yarb yarb," he happily blurbbled.
 
-That was goblin for "Ready Up, Big Butt.\*
+That was goblin for "Ready Up, Big Butt."
 
 The elf snorted, narrowing her eyes. She had endured grueling years at the academy, countless hours of study, and the derision of flaccid, micro dick elven men who wouldn't be able to penetrate a fat ass even if they got their hands on it. If this was what she had to endure in the name of Science, so be it! She would be respected! Renowned! The world over would finally know the name of the woman who made elven dicks matter and that name was-
 
