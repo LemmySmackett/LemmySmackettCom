@@ -1,6 +1,6 @@
 ---
 title: "Aisha Starblazer: Space Racist"
-date: 2023-09-01
+date: 2024-09-01
 genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce","bugs"]

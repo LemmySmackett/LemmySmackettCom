@@ -1,6 +1,6 @@
 ---
 title: "Can I Really Get The Chair for Killing a Goblin?"
-date: 2023-08-23
+date: 2024-08-23
 genres: ["sci-fi","parody"]
 length: "micro-fiction"
 tags: ["farce","isekai"]

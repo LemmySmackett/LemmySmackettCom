@@ -1,9 +1,9 @@
 ---
 title: "People Are The Real Monsters"
-date: 2023-09-01
+date: 2024-09-01
 genres: ["sci-fi"]
 length: "micro-fiction"
-tags: ["satire","zombies","post-apocalypse"]
+tags: ["farce","zombies","post-apocalypse"]
 series: "HFY"
 mature: false
 extreme: false

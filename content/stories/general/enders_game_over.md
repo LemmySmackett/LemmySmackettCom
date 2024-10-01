@@ -1,9 +1,9 @@
 ---
 title: "Ender's Game Over"
-date: 2023-08-28
+date: 2024-08-28
 genres: ["sci-fi","parody"]
 length: "micro-fiction"
-tags: ["satire","farce"]
+tags: ["farce"]
 mature: false
 extreme: false
 ---

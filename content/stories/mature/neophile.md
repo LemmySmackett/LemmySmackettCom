@@ -1,7 +1,7 @@
 ---
 title: "Neophiles"
-date: 2023-08-31
-genres: ["sci-fi","parody"]
+date: 2024-08-31
+genres: ["sci-fi"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"

@@ -1,6 +1,6 @@
 ---
 title: "Coyote vs. ACME: Leaked Script"
-date: 2023-10-29
+date: 2024-10-29
 genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]

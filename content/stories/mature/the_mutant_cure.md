@@ -1,6 +1,6 @@
 ---
 title: "X-Men: The Mutant Cure"
-date: 2023-08-24
+date: 2024-08-24
 genres: ["sci-fi","parody"]
 length: "micro-fiction"
 tags: ["farce"]

@@ -1,6 +1,6 @@
 ---
 title: "Accidental Anal Exorcism"
-date: 2023-09-15
+date: 2024-09-15
 genres: ["fantasy"]
 length: "short-story"
 tags: ["farce","non-con","sadomasochism","happy ending"]

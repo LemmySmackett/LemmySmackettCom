@@ -1,6 +1,6 @@
 ---
 title: "Bug Owner"
-date: 2023-09-12
+date: 2024-09-12
 genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce","bugs"]
