@@ -11,7 +11,7 @@ The goblin rolled his d6 dice. "At last, the adventure begins!"
 
 "Why are you rolling?" The gnome DM griped. "We haven't started."
 
-"Just warmin' up the girls," The goblin beamed, taking his dice back in hand. "Okay, so I'm a human paladin. And what he's going to be?" He nodded to the man across the table.
+"Just warmin' up the girls." The goblin beamed, taking his dice back in hand. "Okay, so I'm a human paladin. And what he's going to be?" He nodded to the man across the table.
 
 "A goblin rogue," the human replied.
 
