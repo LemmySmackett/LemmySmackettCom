@@ -2,7 +2,7 @@
 title: "Aisha Starblazer: Space Racist"
 date: 2024-09-01
 genres: ["sci-fi"]
-length: "short-story"
+length: "micro-fiction"
 tags: ["farce","bugs"]
 series: "HFY"
 mature: true
