@@ -39,7 +39,7 @@ The bard shrunk back. "Wha-what?"
 
 "Okay, okay," the bard put up her hands. "Gnomes and dwarves aren't the same at all. They're totally different!"
 
-"That we are!" The dward huffed. "And you'll never speak such tripe again, lest I use your head to plant my axe!"
+"That we are!" The dwarf huffed. "And you'll never speak such tripe again, lest I use your head to plant my axe!"
 
 The elf clicked his tongue. "You humans are all the same, boundless in your ignorance and bigotry. It's a natural outcome of your miserably short, mayfly lives."
 
