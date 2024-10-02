@@ -141,6 +141,12 @@ a.next {
     text-align: right;
 }
 
+section {
+    max-width: 1024px; /* or whatever width you prefer */
+    margin: 0 auto; /* This centers the content */
+    padding: 0 20px; /* This adds some space on the sides */
+}
+
 /* Section Headings */
 .section-heading {
     font-size: 1.2em;
@@ -196,12 +202,61 @@ a.next {
     line-height: 1;
 }
 
+/* Default Lists */
+
+.default-list {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0px;
+}
+
+.default-list li {
+    font-size: 1.1em;
+    text-indent: -1em;
+    padding-left: 1em;
+    line-height: 1.2;
+}
+
+.default-list li br {
+    display: block;
+    content: "";
+    margin-top: -0.6em;
+}
+
+.default-list li::before {
+    content: "• ";
+    color: #777;
+    margin-right: 0.3em;
+}
+
+.default-list a {
+    text-decoration: none;
+    color: #686868;
+    line-height: 1.2;
+    font-size:1.1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.default-list p{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+}
+
+.default-list-title h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 2rem;
+}
+
 /* Taxonomy Lists */
 
 .taxonomy-list {
     list-style-type: none;
     padding-left: 0;
-    margin-top: 0px;
+    margin-top: -5px;
 }
 
 .taxonomy-list li {
@@ -506,7 +561,7 @@ body.reader-mode {
     padding: 10px;
     font-weight: 900;
     border: 2px solid red;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     max-width: 1024px;
 }
 

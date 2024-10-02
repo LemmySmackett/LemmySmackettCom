@@ -1,9 +1,9 @@
 ---
 title: "Resident Evil: The Perfect Organism"
 date: 2024-08-23
-genres: ["sci-fi"]
+genres: ["sci-fi","parody"]
 length: "micro-fiction"
-tags: ["farce","parody"]
+tags: ["farce"]
 series: "x/twitter"
 mature: true
 extreme: false
