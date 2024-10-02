@@ -66,4 +66,4 @@ extreme: false
 
 "Ugh, God. Can you *imagine~*"[^1]
 
-[^1]: Based on this tweet: [DelusionPosting's tweet](https://x.com/DelusionPosting/status/1827027212656374196)
+[^1]: Based on this [tweet](https://x.com/DelusionPosting/status/1827027212656374196)
