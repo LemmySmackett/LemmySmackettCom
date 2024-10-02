@@ -41,7 +41,7 @@ The gnome DM leaned in. "You really want to bring that kind of energy into the g
 
 "Well, yeah, but that's all true."
 
-The gnome nodded. "Despite making up 8% of the population of Waterdeep, goblins are responsible for 67% of all sexual offenses."
+The gnome nodded. "Despite making up 8% of the population of Waterdeep, goblins are responsible for 67% of all sexual assaults."
 
 "Oh, okay. So I can't say grimeback, but he gets to quote Sword Coast crime statistics at me," the goblin fumed. "Nevermind that it was the City Guard who raided 𝑚𝑦 ancestral nest with a flame wizard and blew it to high hell!"
 
