@@ -1,5 +1,10 @@
 ---
 title:"Take Only One"
+date: 2023-11-01
+genres: ["horror"]
+length: "micro-fiction"
+mature: false
+extreme: false
 ---
 They had come from beyond the walls—or at least from outside the neighborhood—as all invaders do. The portly trick-or-treaters descended on the unattended candy bowl like a mob of rampaging walruses. The group was more adults than children, all clad only in cheap hoodies and sweatpants. Not even the youngest among them had been given a plastic sword or faerie wand to wield. They should have known better.
 
