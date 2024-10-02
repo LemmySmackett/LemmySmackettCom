@@ -1,5 +1,5 @@
 ---
-title:"Take Only One"
+title: "Take Only One"
 date: 2023-11-01
 genres: ["horror"]
 length: "micro-fiction"
