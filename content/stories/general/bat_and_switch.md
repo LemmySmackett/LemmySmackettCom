@@ -7,7 +7,7 @@ tags: ["farce","superheroes"]
 mature: false
 extreme: false
 ---
-Bruce, removing the cowl. "I give up, Alfred. Batman is dead."
+Bruce removes the cowl. "I give up, Alfred. Batman is dead."
 
 Alfred's voice carries from across the Bat-Cave. "But Master Wayne, you've never been one to quit. Gotham needs you!"
 
@@ -15,11 +15,11 @@ Alfred's voice carries from across the Bat-Cave. "But Master Wayne, you've never
 
 "There is no good in this world without sacrifices, Master Wayne—both physical and mental. Your father knew that."
 
-"It's not that, Alfred." Bruce sighed, dragging a calloused hand across his weary face. "I just can't keep beating women."
+"It's not that, Alfred." Bruce sighs, dragging a calloused hand across his weary face. "I just can't keep beating women."
 
 "Beating women, sir?"
 
-"Freeze is a woman. Penguin is a woman. Every last supervillain in Gotham now shops at Victoria Secret." Bruce tossed up his hands. "Even the common thug wears a brassiere!"
+"Freeze is a woman. Penguin is a woman. Every last supervillain in Gotham now shops at Victoria Secret." Bruce tosses up his hands. "Even the common thug wears a brassiere!"
 
 "I see. Well, even so, crime is crime..."
 
@@ -35,12 +35,12 @@ Alfred's voice carries from across the Bat-Cave. "But Master Wayne, you've never
 
 "I don't, sir."
 
-"'Batman's presence cultivates a climate of misogyny.' Can you believe Kent let them write that?" Bruce slumped his head on the table. "It's over."
+"'Batman's presence cultivates a climate of misogyny.' Can you believe Kent let them write that?" Bruce slumps his head on the table. "It's over."
 
-"Take heart, Master Wayne." Alfred  crossed the Bat-Cave and placed a tender hand on his shoulder. "We've endured worst than this."
+"Take heart, Master Wayne." Alfred  crosses he Bat-Cave and lays a tender hand on his shoulder. "We've endured worst than this."
 
-Bruce turned and looked up at Alfred, who now had flowing alabaster locks with an ample bust to match. 
+Bruce turns and looks up at Alfred, who now has flowing alabaster locks with an ample bust to match. 
 
-"If only I had stopped Braniac from activating the Photon Flux Feminizer," Bruce lamented. "None of this would have happened."
+"If only I had stopped Braniac from activating the Photon Flux Feminizer," Bruce laments. "None of this would have happened."
 
-"There, there, Master Bruce." Alfred took him in both arms, nestling her master's head in her plush, soothing cleavage. "There, there."
+"There, there, Master Bruce." Alfred takes him in both arms, nestling her master's head in her plush, soothing bosom. "There, there."
