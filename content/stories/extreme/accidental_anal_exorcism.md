@@ -3,7 +3,7 @@ title: "Accidental Anal Exorcism"
 date: 2024-09-15
 genres: ["fantasy"]
 length: "short-story"
-tags: ["erotica","farce","non-con","sadomasochism","happy ending"]
+tags: ["erotica","non-con","sadomasochism","happy ending"]
 mature: true
 extreme: true
 ---
