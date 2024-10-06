@@ -3,7 +3,7 @@ title: "Helper"
 date: 2024-10-06
 genres: ["fantasy"]
 length: "micro-fiction"
-tags: ["fable","bad end","bleak"]
+tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
 extreme: false
