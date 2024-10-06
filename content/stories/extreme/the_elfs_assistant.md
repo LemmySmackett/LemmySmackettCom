@@ -4,7 +4,7 @@ date: 2023-09-03
 genres: ["fantasy"]
 length: "short-story"
 tags: ["erotica","non-con","bondage","happy ending"]
-mature: true
+mature: false
 extreme: true
 ---
 The bespectacled elf busied about the apothecary, measuring out chromatic powders, mixing odd liquids in even odder flasks, and all the while, in the crisscross shadows of the rafters above, a lanky green ape, what is most commonly known as goblin, fondled himself.
