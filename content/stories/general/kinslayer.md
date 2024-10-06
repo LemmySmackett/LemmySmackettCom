@@ -3,7 +3,7 @@ title: "Kinslayer"
 date: 2023-09-21
 genres: ["fantasy"]
 length: "micro-fiction"
-tags: ["fable","bad end"]
+tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
 extreme: false
