@@ -10,7 +10,7 @@
       <div class="content-container">
         <h2 class="section-heading">Newest Stories</h2>
         <ul class="content-list">
-          {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
+          {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") "Parama.extreme" "!=" true }}
             <li>
               <a href="{{ .Permalink }}">{{ .Title }}</a>
               {{ if .Params.extreme }}
