@@ -10,8 +10,9 @@
       <div class="content-container">
         <h2 class="section-heading">Newest Stories</h2>
         <ul class="content-list">
-          {{ $stories := where (where .Site.RegularPages.ByDate.Reverse "Section" "stories") "not" (func (p) (strings.HasPrefix p.File.Path "content/stories/extreme")) }}
-{{ range first 5 $stories }}
+          {{ $stories := where (where .Site.RegularPages.ByDate.Reverse "Section" "stories") ".File.Path" "not in" "content/stories/extreme" }}
+{{ $filteredStories := where $stories ".File.Path" "not" (strings.HasPrefix .File.Path "content/stories/extreme") }}
+{{ range first 5 $filteredStories }}
             <li>
               <a href="{{ .Permalink }}">{{ .Title }}</a>
               {{ if .Params.extreme }}
