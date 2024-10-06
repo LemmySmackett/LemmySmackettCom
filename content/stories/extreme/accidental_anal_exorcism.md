@@ -4,7 +4,7 @@ date: 2024-09-15
 genres: ["fantasy"]
 length: "short-story"
 tags: ["erotica","non-con","sadomasochism","happy ending"]
-mature: true
+mature: false
 extreme: true
 ---
 "My, my, my," the Succubus purred. "I guess even a holy man can't resist tying up a bad girl."
