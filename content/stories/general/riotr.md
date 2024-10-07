@@ -1,6 +1,10 @@
 ---
 title: "Riotr"
+genres: ["sci-fi"]
 length: "short-story"
+tags: ["farce"]
+mature: false
+extreme: false
 ---
 Podcast Transcript
 ***
