@@ -81,6 +81,6 @@ After we finished, as she was buttoning up her blouse, she said, "I think I'll s
 
 In one blow, I caved her forehead—with the wrench I kept behind a trash can.
 
-Her body fell limp, and I proceeded bagged it up, intending to dispose of it like all the others.
+Her body fell limp, and I proceeded to bag it up, intending to dispose of it like all the others.
 
 I have never met a man or woman of virtue. Ω
