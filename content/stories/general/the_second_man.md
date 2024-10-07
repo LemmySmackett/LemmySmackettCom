@@ -18,7 +18,7 @@ The First Man reached into his rucksack, the store of all his talents—which al
 
 "It's hopeless!" the Second Man chuckled. "Every man who jumps dies. You'd know that if you knew anything about the world."
 
-In the valley far below, a cluster of jagged rocks waited, and strewn across this merciless serrated crag, lay the broken bodies of spited dreamers.
+In the valley far below, a cluster of jagged rocks waited, and strewn across this merciless serrated crag lay the broken bodies of spited dreamers.
 
 "You see?" The Second Man pointed. "The result is inevitable. Resign yourself to fate!"
 
