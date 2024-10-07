@@ -26,7 +26,7 @@ The First Man reached into his rucksack and pulled out a handful of feathers. "I
 
 "How rich! How droll!" The Second Man tumbled through the air, cackling with manic glee. "I see now what you hope to do! But it won't be enough. Your hand is unsteady! Your feathers are brittle! Your work is slipshod! If you had built your wings before you jumped, you might have stood a chance! But now, haha, but now!" The Second Man devolved into fits and spasms as he tumbled, his laughter one with the howling wind.
 
-"If I waited," the First Man said."I would have died on that cliff."
+"If I waited," the First Man said. "I would have perished on that cliff."
 
 The jagged rocks neared. The First Man threw his arms wide, placing the sum of his faith in the labor of his hand. His wings unfurled, a majestic span, but shuddered against the lashing winds, threatening to come apart.
 
