@@ -12,7 +12,7 @@ Two men stood on a cliff. One leapt, the other followed.
 
 "Well you've done it now," the Second Man snickered. "You're certain to hit the ground and die."
 
-The First Man reached into his rucksack, the store of all his talents, which all men carry with them always. He took in a hand a single needle and a spool of thread.
+The First Man reached into his rucksack, the store of all his talents—which all men carry with them always—and took in a hand a single needle and a spool of thread.
 
 "I'll make it," the First Man winced, pushing the needle into the flesh of his arm.
 
