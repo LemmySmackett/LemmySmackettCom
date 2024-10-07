@@ -1,21 +1,20 @@
 ---
 title: "The After"
 date: 2024-10-06
-genres: ["fantasy", "horror"]
+genres: ["fantasy","horror"]
 length: "micro-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
 extreme: false
 ---
-
 One day, the Hero of Destiny defeated the Dark Lord, freeing the High Kingdom.
 
-From sea to sea, a joyous cry went up, for the Great Prophecy had been fulfilled, and the once-enslaved King was restored to his rightful throne. 
+From sea to sea, a joyous cry went up, for the Great Prophecy had been fulfilled, and the once-enslaved King was restored to his rightful throne.
 
 God was in his heaven and all was right with the world.
 
-The Hero, however, found himself adrift. For twenty years he had trained his blade, driven by holy cause, to the exclusion of all else. 
+The Hero, however, found himself adrift. For twenty years he had trained his blade, driven by holy cause, to the exclusion of all else.
 
 Now only the after remained.
 
@@ -25,7 +24,7 @@ In short, the Hero had no aptitude for politics. Time and again, he was betrayed
 
 At wits' end, the Hero went into a rampage and slew his tormentors. Man, woman, and child, all were butchered by his blade. And as he swung through those so deserving, something welled up within.
 
-It was an emotion he had not felt in thirty years' time. An emotion that once suffused his very soul, flowing through every strike, long missing since the fated day. 
+It was an emotion he had not felt in thirty years' time. An emotion that once suffused his very soul, flowing through every strike, long missing since the fated day.
 
 The emotion was gratitude.
 
@@ -41,7 +40,6 @@ Seeing no other option, a choice was made.
 
 The next day, a new executioner was appointed by the king.
 
-In the execution square, the people watched in horror as the burlap-masked man took head after head with a ruthless efficiency. 
+In the execution square, the people watched in horror as the burlap-masked man took head after head with a ruthless efficiency.
 
-All the more horrifying was his soft, contented grin.
-
+All the more horrifying was his soft, contented grin. Ω

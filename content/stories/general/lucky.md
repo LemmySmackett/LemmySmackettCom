@@ -25,4 +25,4 @@ Even as her hair greyed and her skin wrinkled like rotting fruit, the son lived 
 
 Then a morning came, different from all the rest. 
 
-The son awoke to a quiet room in a quiet house, and no one was there to tell him how lucky he finally was. Ω 
+The son awoke to a quiet room in a quiet house, and no one was there to tell him how lucky he finally was. Ω

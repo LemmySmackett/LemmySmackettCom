@@ -46,4 +46,4 @@ Within the tortured lines of legal jargon, she found her own words pointed back 
 
 Before she could say another word, the Cobold slew her. "If you weren't going to honor my kindness," he snarled, drawing the blade from her chest. "You should've turned it away at the start."
 
-He tossed her lifeless body through the door and burned the cabin to the ground.
+He tossed her lifeless body through the door and burned the cabin to the ground. Ω
