@@ -2,7 +2,7 @@
 title: "HEADLINE: Neighbors Say Local Ghost Kitchens Are Out Of Control"
 date: 2024-10-07
 genres: ["horror"]
-length: "short-story"
+length: "micro-fiction"
 tags: ["farce"]
 mature: false
 extreme: false

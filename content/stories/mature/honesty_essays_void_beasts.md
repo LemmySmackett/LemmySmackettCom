@@ -2,7 +2,7 @@
 title: "Honesty, Essays, and Void-Beasts"
 date: 2024-10-07
 genres: ["fantasy"]
-length: "short-story"
+length: "micro-fiction"
 mature: true
 extreme: false
 ---
