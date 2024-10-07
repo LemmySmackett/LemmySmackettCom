@@ -1,7 +1,7 @@
 ---
 title: "Contract"
 date: 2023-11-23
-genres: ["fantasy"]
+genres: ["fantasy","horror"]
 length: "micro-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
