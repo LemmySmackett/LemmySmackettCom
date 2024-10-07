@@ -52,6 +52,6 @@ With blurring sight, he looked up to see the brothers standing over him, bricks 
 
 Before the old man could say anything, they beat him to death.
 
-An old white tiger with a spear through it's heart. That's what the brothers had tattooed on their chests to commemorate the killing of a great warrior.
+An old white tiger with a spear through its heart—that's what the brothers had tattooed on their chests to commemorate the killing of a great warrior.
 
 Many tattoos followed after. Ω
