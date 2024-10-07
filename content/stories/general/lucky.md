@@ -10,7 +10,7 @@ extreme: false
 ---
 There once was a son who lived alone with his mother.  
 
-Every morning, the mother went into his room and woke him, saying, "Wipe the sleep from your eyes, little plum, for today you're the luckiest boy in the whole world. Do you know why?"
+Every morning, the mother went into his room and woke him, saying, "Wipe the sleep from your eyes, my little plum, for today you're the luckiest boy in the whole world. Do you know why?"
 
 "Because I'm the slowest, weakest, dumbest boy in the world," the son answered with a yawn. "And none of that matters, because you're my mom."
 
