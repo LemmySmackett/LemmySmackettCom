@@ -3,7 +3,7 @@ title: "House of Mouse, Heart of Stone"
 date: 2024-08-21
 genres: ["parody"]
 length: "micro-fiction"
-tags: ["farce"]
+tags: ["farce","bleak"]
 mature: false
 extreme: false
 ---
