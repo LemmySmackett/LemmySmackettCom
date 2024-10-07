@@ -17,7 +17,7 @@ Each time she passed us on the street, the young man sighed with a deep, pained 
 
 "Take your chance," I said. "Talk to her."
 
-"I can't bear to," he replied. "All I can think about is our future together as eternally devoted wife and husband."
+"I can't bear to," he replied. "All I can think about is our future together as eternally devoted husband and wife."
 
 "You'll scare her off with all that," I said. "Ease in. Keep it fun."
 
