@@ -14,7 +14,7 @@ In the deepest depths of an underground research facility built off the sprawlin
 
 "Umbrella's reign of terror is over," Chris declares, his veined muscles bulging like an over-stuffed speedo.
 
-"No, Chris." Wesker sneers. "For eons, the vermin called humanity have infested this planet." He turns, raising his hands in triumph. "Today, only one reign ends!" 
+"No, Chris." Wesker sneers. "For eons, the vermin called humanity have infested this planet." He turns, raising his hands in triumph. "Today, only one reign ends!"
 
 "Wrong, Wesker." Leon quips, re-training his gun. "The only rain today is on your sick parade!"
 
