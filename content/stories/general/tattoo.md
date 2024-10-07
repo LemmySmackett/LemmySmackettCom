@@ -30,7 +30,7 @@ On his hips and stomach, he wore a spited white crane, nestled in four white lil
 
 They were all dead.
 
-On his legs and thighs he wore chains, and wrapped in the chains, frozen in agony, was the faces of four men.
+On his legs and thighs he wore chains, and wrapped in the chains, frozen in agony, were the faces of four men.
 
 They had killed the old man's beloved.
 
