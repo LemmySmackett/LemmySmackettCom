@@ -1,6 +1,11 @@
-
 ---
 title: "Dignity"
+date: 2024-10-06
+length: "micro-fiction"
+tags: ["fable"]
+series: "fables and fairytales"
+mature: false
+extreme: false
 ---
 There once was a man who died a thousand deaths.
 
