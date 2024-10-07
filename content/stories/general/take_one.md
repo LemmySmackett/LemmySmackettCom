@@ -20,7 +20,7 @@ As far as Momma Welkins was concerned, the world had turned on her long ago: her
 
 TAKE ONLY ONE, the voice boomed again, modulated by unnerving distortion. 
 
-One of the adults - a friend of Momma Welkins who was already three wine glasses deep - shot the bird at it. They all cackled.
+One of the adults—a friend of Momma Welkins who was already three wine glasses deep—shot the bird at it. They all cackled.
 
 The plastic plate on the doorbell camera cracked and split as a mound of red flesh pushed through. The mound itself split, revealing a single gazing eye. 
 
