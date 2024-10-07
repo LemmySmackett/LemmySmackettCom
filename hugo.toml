@@ -16,3 +16,8 @@ theme = "gwern-like"
   series = "series"
   mature = "mature"
   extreme = "extreme"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = ["max-age=3600, must-revalidate"]
