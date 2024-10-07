@@ -27,7 +27,7 @@ But once people realized they could skip their daily two hour commute, they were
 
 When cars were first made, there were concerns that the human body couldn't handle speeds over 35 MPH. There was a panic that you'd turn to mush right in there in the Model-T. And later on, there was outcry over pollution and land loss from all the roads, health concerns over no one walking anymore, yadda yadda.
 
-But nobody stopped using cars because they were fast and convenient, and eventually you were just expected to have. So fears about safety, health, and the environment, that all went out the window.
+But nobody stopped using cars because they were fast and convenient, and eventually you were just expected to have one. So fears about safety, health, the environment—that all went out the window.
 
 And hey, that's just the way the world works. Tough tits.
 
