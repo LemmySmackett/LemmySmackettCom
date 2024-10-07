@@ -4,7 +4,6 @@ date: 2023-08-14
 genres: ["fantasy", "parody"]
 length: "micro-fiction"
 tags: ["farce"]
-series: "x/twitter"
 mature: false
 extreme: false
 ---
