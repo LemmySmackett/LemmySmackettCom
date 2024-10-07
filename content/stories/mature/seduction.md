@@ -79,8 +79,8 @@ I took her in a back alley, in my favorite spot.
 
 After we finished, as she was buttoning up her blouse, she said, "I think I'll say yes to him. I ran because I'd never met someone so sincere. And now I'm here with you." She turned to me, smiling. "It's rather silly, isn't it?"
 
-In one blow, I caved her forehead with the wrench I kept behind a trash can.
+In one blow, I caved her forehead—with the wrench I kept behind a trash can.
 
-Her body fell limp and I bagged it up, intending to dispose of it as I have all the others.
+Her body fell limp, and I bagged it up, intending to dispose of it like all the others.
 
 I have never met a man or woman of virtue. Ω
