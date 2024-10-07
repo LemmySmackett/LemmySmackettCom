@@ -36,4 +36,4 @@ The prince gagged as the Xeno-maid's hard proboscis jutted into the depth of his
 His willing flesh would prove a glorious seedbed, the first of many in the tide to come.
 
 "It's a beautiful thing, your highness." Sebastian sniffed, wiping a tear from his eyes. "A beautiful thing." Ω [^1]
-[^1]: Based on [this painting (Source:Oleg Bulakh on X/Twitter)]
+[^1]: Based on [this painting (Source:Oleg Bulakh on X/Twitter)](/images/little_xenomaid.jpg)
