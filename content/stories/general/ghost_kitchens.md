@@ -38,4 +38,4 @@ Many residents, however, aren't so enthusiastic. "Call me old fashioned, but the
 Brown added that delivering burgers for Mr. Beast was a nice break from purgatory, which he described as "agonizingly boring."
 
 With multiple protests and counter-protests slated for the coming months, and traffic worsening by the day, it's likely that neither the dead nor the living will know peace in Grimwood any time soon.[^1]
-[^1]: Rewrite/riff on [this random news article. (Source: unknown)](/images/ghost_kitchens.png)
+[^1]: Rewrite/riff on [this random news article. (Source: unknown)](/images/ghost_kitchens.jpg)
