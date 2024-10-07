@@ -41,5 +41,7 @@ Seeing no other option, a choice was made.
 
 The next day, a new executioner was appointed by the king.
 
-In the execution square, the people watched in horror as the burlap-masked man took head after head with a ruthless efficiency. All the more horrifying was his soft, contented grin.
+In the execution square, the people watched in horror as the burlap-masked man took head after head with a ruthless efficiency. 
+
+All the more horrifying was his soft, contented grin.
 
