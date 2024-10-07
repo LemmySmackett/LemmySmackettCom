@@ -15,4 +15,4 @@ When the sun was low and the sky like wine, the old man went out to the garden a
 
 "Huh?" The boy squinted. "I don't see anyone."
 
-"One day you will."
+"One day you will." Ω
