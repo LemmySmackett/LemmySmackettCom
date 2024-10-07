@@ -11,7 +11,9 @@ extreme: false
 
 One day, the Hero of Destiny defeated the Dark Lord, freeing the High Kingdom.
 
-From sea to sea, a joyous cry went up, for the Great Prophecy had been fulfilled, and the once-enslaved King was restored to his rightful throne. God was in his heaven and all was right with the world.
+From sea to sea, a joyous cry went up, for the Great Prophecy had been fulfilled, and the once-enslaved King was restored to his rightful throne. 
+
+God was in his heaven and all was right with the world.
 
 The Hero, however, found himself adrift. For twenty years he had trained his blade, driven by holy cause, to the exclusion of all else. 
 
