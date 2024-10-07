@@ -21,7 +21,7 @@ Each time she passed us on the street, the young man sighed with a deep, pained 
 
 "You'll scare her off with all that," I said. "Ease in. Keep it fun."
 
-"She's not like your harlots," he protested. "She is a woman of virtue."
+"She's not like your harlots," he protested. "She's a woman of virtue."
 
 "Of course she is," I said.
 
