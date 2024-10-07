@@ -110,4 +110,4 @@ She removed her gauntlet and offered her hand. The doe took one sniff and turned
 "It's more of a well-worn aphorism." Mitch observed. "And isn't that covered by rule three?"
 
 "Augh!" Leona howled.[^1]
-[^1]:Scenario based on [this painting (Source: Yorsy Hernandez)](/images/revenant_in_the_wood.png)
+[^1]:Scenario based on [this painting (Source: Yorsy Hernandez)](/images/revenant_in_the_wood.jpg)
