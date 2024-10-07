@@ -28,6 +28,6 @@ It is a lie. They know it.
 
 In every job in corporate America, I have been or will be tasked, with betraying my family.
 
-We are told it can't be helped - that there is no pleasure in the fresh trickle of warm blood. That there is no taste to be savored.
+We are told it can't be helped—that there is no pleasure in the fresh trickle of warm blood. That there is no taste to be savored.
 
 It is a lie. I know it. Ω
