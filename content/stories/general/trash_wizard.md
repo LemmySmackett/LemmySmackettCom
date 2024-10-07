@@ -1,5 +1,10 @@
 ---
 title: "Trash Wizard"
+date: 2024-10-07
+genres: ["fantasy"]
+length: "micro-fiction"
+mature: false
+extreme: false
 ---
 It was another bright day as Eldrasar the Wise strolled through the college courtyard, admiring the living garden. The topiary sculptures of men and women, their verdant leaves lovingly shaped to the classical standards of an ancient age, danced and swayed in the gentle breeze. Being headmaster of the world's preeminent university for magical studies and ethereal sciences was a demanding task, no doubt, but the garden always proved a source of much needed respite.
 
