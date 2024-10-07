@@ -504,7 +504,7 @@ body.reader-mode {
 
 .taxonomy-item {
     display: inline-block;
-    margin-right:0px;
+    margin-left:2px;
 }
 
 .taxonomy-item:last-child {
