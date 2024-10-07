@@ -1,9 +1,9 @@
 ---
 title: "The After"
 date: 2024-10-06
-genres: ["fantasy"]
+genres: ["fantasy", "horror
 length: "micro-fiction"
-tags: ["fable","bleak","horror"]
+tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
 extreme: false
