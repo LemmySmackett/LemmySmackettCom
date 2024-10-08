@@ -33,4 +33,4 @@ The quill swooped across the page, unimpeded.
 
 "Is there any love in your heart? For anything in this world?" She pressed a hand to her chest, gazing at her husband from across the yawning gulf. "If there is none for me, so be it. Though I have lived these years in deprivation, I have never known want. Your father's coffers are as wide as any ocean, and reach to the depths of hell itself. Such breadth is matched only by your appetite for my misery and humiliation." Her voice rose, quivering. "But if only I knew...that you loved anyone...anything at all..then I might...I might..."
 
-Her sobs gave way to the scratching of the pen. In time, the hour struck. When at last the work was finished, he turned in his seat, and found her gone.
+Her sobs gave way to the scratching of the pen. In time, the hour struck. When at last the work was finished, he turned in his seat, and found her gone. Ω

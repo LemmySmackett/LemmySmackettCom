@@ -47,4 +47,4 @@ The dwarf shook his head in agreement.
 
 The bard opened her mouth to protest, but the silhouette of a gnome darkened the doorway.
 
-"A long-shank, a leaf-licker, and a mud-midget, huh?" The gnome scoffed. "At least there's no pig-shaggin' half-orcs!"
+"A long-shank, a leaf-licker, and a mud-midget, huh?" The gnome scoffed. "At least there's no pig-shaggin' half-orcs!" Ω

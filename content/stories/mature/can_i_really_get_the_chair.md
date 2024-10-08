@@ -68,7 +68,7 @@ Officer Kindlewood yanked me upright. I slumped in her grip, struggling to stand
 
 "Good," the elf said. She gingerly set the goblin's body aside, stormed up, and spat in my face. "Rot in hell, homewrecker!"
 
-As I blacked out, I thought about all the Brazilian Miku lewds I was missing on twitter.
+As I blacked out, I thought about all the Brazilian Miku lewds I was missing on twitter. Ω
 
 -----------------------
 

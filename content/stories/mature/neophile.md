@@ -82,4 +82,4 @@ Taking a moment to compose herself, she rose and straightened her clothes. Her m
 
 "Right then," she said in a wavering voice, her  bloodshot eyes still watering. "Let's get to work."
 
-With a brisk step, she marched out of the CEO's office, and the android obediently followed.
+With a brisk step, she marched out of the CEO's office, and the android obediently followed. Ω

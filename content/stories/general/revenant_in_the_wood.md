@@ -21,13 +21,13 @@ There was no response. Even the trees seemed to sway in leisurely defiance.
 
 Leona drew her sword and set to work, hacking her way through the dense underbrush. The ill-fitting armor jostled with each swing, chafing against her neck and arms. The cost of wearing glorified hand-me-downs. 
 
-As branches shattered and sweat pooled, she looked forward to the end of this interminable mission and her rightful prize—a new, properly fitted suit and the title to match. 
+As branches shattered and sweat pooled, she looked forward to the end of this interminable mission and her rightful prize—a new, properly fitted suit and the title to match.
 
 The rightful rewards for her years of long-suffering devotion.
 
 With a final determined slash, she found herself in a clearing, witness to an idyllic scene out of an old minstrel's tune: a babbling brook meandered through a lush sward where fawns frolicked and sparrows swooped. In the middle of the clearing, tranquil doe and curious squirrels gathered beside a stone, upon which a lone figure sat with a small pouch in hand.
 
-Leona opened her mouth to shout. "Abomi-" 
+Leona opened her mouth to shout. "Abomi-"
 
 "Ssh." A voice, clear as a whisper in her ear, loud as a ceremonial gong, obliterated her thoughts. "No yelling, please."
 
@@ -109,5 +109,5 @@ She removed her gauntlet and offered her hand. The doe took one sniff and turned
 
 "It's more of a well-worn aphorism." Mitch observed. "And isn't that covered by rule three?"
 
-"Augh!" Leona howled.[^1]
+"Augh!" Leona howled. Ω[^1]
 [^1]:Scenario based on [this painting (Source: Yorsy Hernandez)](/images/revenant_in_the_wood.jpg)

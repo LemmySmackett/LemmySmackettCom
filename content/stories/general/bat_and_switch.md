@@ -43,4 +43,4 @@ Bruce turns and looks up at Alfred, who now has flowing alabaster locks with an 
 
 "If only I had stopped Braniac from activating the Photon Flux Feminizer," Bruce laments. "None of this would have happened."
 
-"There, there, Master Bruce." Alfred takes him in both arms, nestling her master's head in her plush, soothing bosom. "There, there."
+"There, there, Master Bruce." Alfred takes him in both arms, nestling her master's head in her plush, soothing bosom. "There, there." Ω

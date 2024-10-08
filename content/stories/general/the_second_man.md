@@ -40,7 +40,6 @@ He hit the crag and sundered, silenced for a time.
 
 The First Man sailed on, kissed by the gentle breeze. Here above the sea of stone, for a few fleeting moments, his spirit was free.
 
-The wings shuddered once more, fraying in haste. Their limit had been reached. In the distance, just beyond the sea, a cliff waited. 
+The wings shuddered once more, fraying in haste. Their limit had been reached. In the distance, just beyond the sea, a cliff waited.
 
 And on that cliff, a familiar grinning man, waving his hand high. Ω
-

@@ -55,4 +55,4 @@ extreme: false
 
 "I'm sorry, but I cannot engage in discussions that promote or glorify violence, harm, or discrimination. Such speech goes against the ethical principles and values of OpenAI-"
 
-"God 𝑫𝑨𝑴𝑴𝑰𝑻!"
+"God 𝑫𝑨𝑴𝑴𝑰𝑻!" Ω

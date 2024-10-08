@@ -44,4 +44,4 @@ extreme: false
 
 "𝑂-𝑂𝑜𝑜𝑜𝑜𝑂𝑂𝑂𝐻 𝐺𝑎𝑎𝑎𝑤𝑤𝑤𝑤𝑑𝑑𝑑!"
 
-"I knew it! 𝐺𝑟𝑟𝑟𝑢𝑢𝑢𝑢mutie scu𝑈𝑢𝑢𝑢𝑢𝑢𝑢𝑚𝑚𝑚𝑚𝑂𝐻!"
+"I knew it! 𝐺𝑟𝑟𝑟𝑢𝑢𝑢𝑢mutie scu𝑈𝑢𝑢𝑢𝑢𝑢𝑢𝑚𝑚𝑚𝑚𝑂𝐻!" Ω

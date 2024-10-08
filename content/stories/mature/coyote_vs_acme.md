@@ -113,5 +113,4 @@ _(raising his voice)_ You knew that the ball gags were defective! You knew they
 
 **The President**
 
-_(lunging out of his seat)_ HE RAPED THAT BIRD! HE RAPED THAT BIRD AND HE MURDERED HER!
-
+_(lunging out of his seat)_ HE RAPED THAT BIRD! HE RAPED THAT BIRD AND HE MURDERED HER! Ω

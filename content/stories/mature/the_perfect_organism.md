@@ -60,4 +60,4 @@ Red lights flash. Alarms blare. Wave after wave of bio-tanks emerge, stretching 
 
 On cue, ten thousand cocks sprout from the ten thousand orifices.
 
-Chris narrows his gaze. "*Damn you, Wesker.*"
+Chris narrows his gaze. "*Damn you, Wesker.*" Ω

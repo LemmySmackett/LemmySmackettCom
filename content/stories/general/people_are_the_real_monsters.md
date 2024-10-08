@@ -88,4 +88,4 @@ Finch stared at the man beside him, baffled.
 
 "You're crazy!" Finch smacked the post and stomped off back to the colony. "Maybe we should throw you off a building!" He shouted back.
 
-Ike closed his eyes and nodded. "I knew this day would come."
+Ike closed his eyes and nodded. "I knew this day would come." Ω

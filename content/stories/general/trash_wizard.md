@@ -28,7 +28,7 @@ Eldrasar waited patiently.
 
 Ringtail snapped his finger. "OK! Consider this."
 
-"I'm considering." 
+"I'm considering."
 
 "First you get a bin, yes? Toss in bunch of old leaves and dirt, like from this here garden. Then you take this here apple, right?  And you chop it up and toss it in. Then you toss in more leaves and more used fruit, keep it wet, rotate regularly, and eventually you'll have the perfect treat to spread over these roots and keep these here dancers nice and fed!"
 

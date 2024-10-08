@@ -46,4 +46,4 @@ When later the sheriff arrived and interrogated the easygoing man, he claimed se
 
 **KINSLAYER III**
 
-A youth once killed his brother. And none could ever know his heart.
+A youth once killed his brother. And none could ever know his heart. Ω

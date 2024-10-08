@@ -23,5 +23,5 @@ The Old Man felt her body press against his shoulder blades. She wasn't shiverin
 
 Hell. What's one more in the sauce?
 
-"I hope you've worked up a tolerance, son." The Old Man's hand hung like a guillotine over his holster. "Cuz I still got the heat."[^1]
+"I hope you've worked up a tolerance, son." The Old Man's hand hung like a guillotine over his holster. "Cuz I still got the heat." Ω[^1]
 [^1]:Based on [this picture. (Source: unknown)](/images/tabacky_kid.png)

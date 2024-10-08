@@ -21,13 +21,13 @@ The DM nodded. "Sure. Go ahead."
 
 "Alright! Ahem," the goblin put on his best human voice. "Why you slime-sniffing, rotgut, grimeback, bog-jumping, muck-sucking scrag. I didn't know they let greenskin scumstains like you in here."
 
-The pair stared at the goblin. 
+The pair stared at the goblin.
 
 "...what?"
 
 "Wow," the human said. "𝑊𝑜𝑤."
 
-The gnome DM leaned in. "You really want to bring that kind of energy into the game?" 
+The gnome DM leaned in. "You really want to bring that kind of energy into the game?"
 
 "What energy?" The goblin puzzled. "That's how humans talk to goblins."
 
@@ -57,4 +57,4 @@ The gnome nodded. "Despite making up 8% of the population of Waterdeep, goblins 
 
 "I knew it," the human rasped as the world went dim. "#@$&ing goblins!"
 
--𝗧𝗛𝗨𝗡𝗞-
+-𝗧𝗛𝗨𝗡𝗞- Ω

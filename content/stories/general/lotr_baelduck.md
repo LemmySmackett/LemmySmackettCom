@@ -9,9 +9,11 @@ extreme: false
 ---
 "Ai! ai!" wailed Legolas. "A Balrog! A Balrog is come!"
 
-Gimli stared with wide eyes. "Durin’s Bane!" he cried, andletting his axe fall he covered his face.
+Gimli stared with wide eyes. "Durin’s Bane!" he cried, and
+letting his axe fall he covered his face.
 
-"A Balrog," muttered Gandalf. "Now I understand." He faltered and leaned heavily on his staff. "What an evil fortune!And I am already weary."
+"A Balrog," muttered Gandalf. "Now I understand." He faltered and leaned heavily on his staff. "What an evil fortune!
+And I am already weary."
 
 The dark figure, streaming with fire, raced towards them. It's massive, webbed feet slapped the ground, leaving a trail of scorched earth. Its neck, long and serpentine, twisted like smoke rising upward. Its flat, massive bill, forged from obsidian and edged with a burning glow, opened wide to release its terrifying bellow.
 
@@ -47,7 +49,7 @@ Samwise held his dear companion. "I know. It’s all wrong. By rights we shouldn
 
 Suddenly, the ground beneath their feet erupted and the hobbits were sent flying. The Balrog rose from the depths, its feathered wings of shadow spread wide.
 
-"QUACK!" It roared. 
+"QUACK!" It roared.
 
 As molten rock rained from above, Frodo cried out, his leg pinned beneath a jagged stone. "Sam! Sam, where are you?!"
 
@@ -56,4 +58,3 @@ In the distance, he spotted his cherished friend, Samwise Gamgee, hopping down t
 "Sam!"
 
 "To hell with this, Mr. Frodo!" The horrified Harfoot shouted over his shoulder. "I'm going back to the shire!" Ω
-

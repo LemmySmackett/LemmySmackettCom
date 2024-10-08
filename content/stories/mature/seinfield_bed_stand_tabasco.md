@@ -27,6 +27,6 @@ Jerry turns to leave. Kramer stops him.
 
 Kramer lowers the bottle and mimics a jerk. "Flavor saver."
 
-Seinfield throws up hands. "I'm out."[^1]
+Seinfield throws up hands. "I'm out." Ω[^1]
 
 [^1]:Based on [this wikipedia excerpt. (Source: Wikipedia)](/images/bed_stand_tabasco.jpeg)

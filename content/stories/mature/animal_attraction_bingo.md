@@ -64,6 +64,6 @@ extreme: false
 
 "What do I think? I think you should be arrested, and I think the cops should throw you into a steel cage with a rampaging gorilla."
 
-"Ugh, God. Can you *imagine~*"[^1]
+"Ugh, God. Can you *imagine~*" Ω[^1]
 
 [^1]: Based on this [tweet](https://x.com/DelusionPosting/status/1827027212656374196)

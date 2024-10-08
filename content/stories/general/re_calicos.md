@@ -24,9 +24,9 @@ Leon sighed and glanced back at the kittens. "I guess I'll take the calico in th
 
 The Merchant gave an almost imperceptible shake of the head. His eyes flitted up and to the left.
 
-"Or, uh," Leon blinked. "I'll take the tabby?" 
+"Or, uh," Leon blinked. "I'll take the tabby?"
 
-"Ah, a wise choice, mate!" The Merchant took the grey tabby from his coat and handed it over. "You've got a rare eye for quality." 
+"Ah, a wise choice, mate!" The Merchant took the grey tabby from his coat and handed it over. "You've got a rare eye for quality."
 
 Leon took the kitten in hand and scratched under its chin. "Nice. If this doesn't win her over, nothing will."
 

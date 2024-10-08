@@ -44,4 +44,4 @@ Serena averts her eyes. "Well..."
 
 "Serena." The Old Cruncher shoots her a look.
 
-Serena shrugs with a sheepish grin. "Girls can have a little bad boy millionaire bdsm power exchange smut as a 𝑡𝑟𝑒𝑎𝑡?"
+Serena shrugs with a sheepish grin. "Girls can have a little bad boy millionaire bdsm power exchange smut as a 𝑡𝑟𝑒𝑎𝑡?" Ω

@@ -66,4 +66,4 @@ Across from the bank, on the highest possible ledge, a SWAT sniper peered throug
 “Very good,” River said. “Namaste.”
 Moretti’s voice came over the radio strapped to the sniper’s chest.
 
-“That’s the signal. Take ‘em out.”
+“That’s the signal. Take ‘em out.” Ω

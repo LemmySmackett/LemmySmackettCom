@@ -25,4 +25,4 @@ Sauron gasped and turned away. "Bigot."
 
 Aragon walked up from behind and gently wrapped his arms around Sauron's waist. "Hush now, my little fire eye."
 
-"Oh, by Eru Ilúvatar." The Dark Lord nestled his spiked helmet on Aragon's cascading, sable locks. "If you weren't so handsome, I'd hit you."
+"Oh, by Eru Ilúvatar." The Dark Lord nestled his spiked helmet on Aragon's cascading, sable locks. "If you weren't so handsome, I'd hit you." Ω
