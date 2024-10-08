@@ -44,7 +44,7 @@ From the largest bookshelf, portraits of the boy he'd once been, with dimpled ch
 
 The two long fingers on his right hand brushed the cushion. As a child, he hated this couch—the texture made his skin crawl. Now he couldn't feel it at all.
 
-Edith entered the room with two glasses. "Tsk tsk," she said. "You know that guests in this house are always offered a glass of ice tea." She set Jonathan's glass on a wooden coaster in front of him. "What they choose to do with it is there business."
+Edith entered the room with two glasses. "Tsk tsk," she said. "You know that guests in this house are always offered a glass of ice tea." She set Jonathan's glass on a wooden coaster in front of him. "What they choose to do with it is their business."
 
 "Right." Jonathan stared at Edith with the polymer lenses of his compound eyes. His carbon composite mandible clicked nervously. "How are you and Dad doing?"
 
@@ -198,7 +198,7 @@ The egrets and angels watched in silence from the bookshelves.
 
 "Mom, please..."
 
-"I know your worried about us, honey. I do. But I can't damn him to one hell to save him from another. If the LORD says it's our time then..." She shrugged. "It's our time."
+"I know you're worried about us, honey. I do. But I can't damn him to one hell to save him from another. If the LORD says it's our time then..." She shrugged. "It's our time."
 
 Jonathon bent forward and cupped his head. Distorted, screeching static emitted from his vocalizer.
 
