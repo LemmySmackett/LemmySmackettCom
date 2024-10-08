@@ -56,7 +56,7 @@ Edith entered the room with two glasses. "Tsk tsk," she said. "You know that gue
 
 "That's," Jonathon paused diplomatically, "not likely."
 
-Edith nodded. "Just you wait. Tornado's in the Midwest are getting weaker and the water level stopped rising in Georgia."
+Edith nodded. "Just you wait. Tornadoes in the Midwest are getting weaker and the water level stopped rising in Georgia."
 
 "Which might mean something if Florida wasn't completely submerged last week," Jonathon said flatly.
 
