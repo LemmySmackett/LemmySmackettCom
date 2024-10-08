@@ -1,7 +1,7 @@
 ---
 title: "HIVE SON"
 date: 2024-10-08
-genres: ["sci-fi]
+genres: ["sci-fi"]
 length: "short-story"
 mature: false
 extreme: false
