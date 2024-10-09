@@ -20,4 +20,4 @@ theme = "gwern-like"
 [[headers]]
   for = "/*.html"
   [headers.values]
-    Cache-Control = ["max-age=3600, must-revalidate"]
+    Cache-Control = ["max-age=86400, must-revalidate"]
