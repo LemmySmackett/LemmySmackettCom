@@ -1,6 +1,11 @@
-***
-title: "When the Prophet Died
-***
+---
+title: "When the Prophet Died"
+date: 2024-10-10
+genres: ["fantasy"]
+length: "short-story"
+mature: false
+extreme: false
+---
 The prophet died when I was twelve, and for a week after, the Elders kept the body in Ms.MacQuarie's bathtub, awaiting his resurrection. 
 
 My mother traded words with the town gossips and brought home revelations regarding the prophet's transformation. I don't remember most, but two stuck with me.
