@@ -1,7 +1,6 @@
 ---
 title: "Animal Attraction Bingo"
 date: 2024-08-23
-genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
