@@ -189,7 +189,7 @@ I pulled up a wooden chair and took her hand. I placed my fingers on her cheek a
 
 "Hello," I said.
 
-"Hello." Her voice was fragile. Small. Whether it was the disease or treatment that had stolen the bulk of her strength, I wasn't sure.
+"Hello." Her voice was fragile. Small. Whether it was the disease or treatment that had stolen the bulk of her strength, I couldn't tell.
 
 There was a silence. 
 
