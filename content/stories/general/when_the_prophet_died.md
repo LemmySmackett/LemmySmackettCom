@@ -22,7 +22,7 @@ Hell, I caught the prophet picking his nose when I was about nine. He did it whi
 
 I told my mother after and she tanned my hide red. Then when she was good and done, and I was a blubbering mess, she sat me down and asked what I had to say for myself.
 
-So I wiped the snot from my nose and tried to articulate a theological point, the best my young mind and mouth could conjure up, which was this:
+So I wiped the snot from my nose and tried to articulate a theological point, the best my young mind and mouth could conjure, which was this:
 
 "If a booger-picking man could be a prophet, then most anybody could find salvation." 
 
