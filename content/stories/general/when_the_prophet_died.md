@@ -283,10 +283,4 @@ The Quintessence, the Prophet, whatever it was, stumbled and fell back into the 
 
 I holstered my gun and watched the tide carry the body out to the sea.
 
-Then I mounted my horse and went home.
-
-
- 
-
- 
-
+Then I mounted my horse and went home. Ω
