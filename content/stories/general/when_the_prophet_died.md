@@ -107,7 +107,7 @@ The wind blew fierce, knocking our houses down like they were little more than s
 
 She was down in our cellar, holding me tight, praying to God. 
 
-I can tell you about the  aftermath
+I can tell you about the aftermath.
 
 The commune was a ruin—all scattered bodies and splintered wood. The whole place was kicked-over, like an anthill. What remained stood hollow, frames twisted open like torn ribs.
 
