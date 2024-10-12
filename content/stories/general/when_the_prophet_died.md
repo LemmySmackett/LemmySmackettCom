@@ -277,9 +277,9 @@ The words came slow to my quivering lips. "My mother waited for you. She said yo
 
 "Then she waited in vain. But do not despair, for starting now, no man or women need age. The Transfiguration is at hand. I shall build my city on this hill and all who follow me shall know everlasti-"
 
-The shot rang out across the sand and rolling water. 
+The shot rang out across the sand and rolling water.
 
-The Quintessence, the Prophet, whatever it was, stumbled and fell back into the crashing white waves. 
+The Quintessence, the Prophet, whatever it was, stumbled and fell back into the crashing white waves.
 
 I holstered my gun and watched the tide carry the body out to the sea.
 
