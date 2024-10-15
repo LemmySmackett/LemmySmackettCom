@@ -1,5 +1,6 @@
 ---
 title: "Riotr"
+date: 2024-10-12
 genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce"]
