@@ -1,5 +1,6 @@
 ---
 title: "Think Different"
+date: 2024-10-15
 genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce"]
