@@ -55,4 +55,4 @@ The dog, blindfolded and gagged by translucent sashes made of shimmering midnigh
 
 "NOW WE CAN DO THIS ONE OF TWO WAYS MAYFLY:  SEELIE." Another faerie, armed with an illegal scoped assault wand, flew up and aimed it at Oscar's furry temple. "OR UNSEELIE."
 
-The bandana faerie lowered the microphone, grinning mischievously. "And you wouldn't like us unseelie."
+The bandana faerie lowered the microphone, grinning mischievously. "And you wouldn't like us unseelie." Ω
