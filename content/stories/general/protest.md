@@ -11,7 +11,7 @@ Lionel Cornelius Hawthorne, Professor of Sidhean Prehistory at the Oxford colleg
 
 Indeed, he thought little of the gentle tap-tap-tap as his nylon brush caressed the delicate imprint of a small humanoid skeleton. The outline of each tiny bone was immaculately preserved in the palm-sized chunk of calcium carbonite, etched like fine lace against the stone.
 
-While the faint rapping failed to catch the Professor's attention, the sudden THUD and subsequent YIPE caused him to bolt upright. 
+While the faint rapping failed to catch the Professor's attention, the sudden *THUD* and subsequent *YIPE* caused him to bolt upright. 
 
 "Oscar?" With the fossil in hand, he rushed to the window and threw the shutters wide. 
 
