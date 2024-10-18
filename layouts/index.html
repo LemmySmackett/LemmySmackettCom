@@ -6,8 +6,8 @@
 {{ $latestStory := (where (where .Site.RegularPages.ByDate.Reverse "Section" "stories") ".Params.extreme" "!=" true) | first 1 }}
 {{ if $latestStory }}
   {{ $story := index $latestStory 0 }}
-  {{ $storyDate := index $story.Params.date 0 }}
-  Latest Story: {{ $story.Title }} - {{ $storyDate }}
+  {{ $storyDate := $story.Params.date }}
+  Latest Story: {{ $story.Title }} - {{ $storyDate.Format "Jan 2, 2006" }}
 {{ end }}
       {{ partial "random-quote.html" . }}
     </article>
