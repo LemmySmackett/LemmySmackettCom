@@ -1,5 +1,11 @@
 ---
 title: "The Lobby"
+date: 2024-10-18
+genres: ["fantasy"]
+length: "short-story"
+tags: ["farce"]
+mature: false
+extreme: false
 ---
 While it is doubtful that any soul, living or dead, has ever been eager to wait in a lobby—say, for an orthodontist appointment or to receive a loved one's freshly cremated ashes from the local funeral director—there is a certain glassy-eyed dread, a waning of the human spirit, that can only be found in the lobbies of government agencies and administrations like the one Agnes Dunn sat in now.
 
