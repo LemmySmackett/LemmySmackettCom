@@ -3,6 +3,7 @@ title: "The Lobby"
 date: 2024-10-18
 genres: ["horror","fantasy"]
 length: "short-story"
+tags: ["farce"]
 mature: false
 extreme: false
 ---
