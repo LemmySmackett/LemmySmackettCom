@@ -107,7 +107,7 @@ He sighed. "I see. And how did that go?"
 
 The clerk shook his head. "Some people."
 
-"It's alright," she chimed. "I got my money back in the end. As he was leaving, I grabbed my grandson’s metal bat and struck him across the back of the head."
+"It's alright," she chimed. "I got my money back in the end. As he was walking out, I grabbed my grandson’s metal bat and struck him across the back of the head."
 
 The man's eyes widened. "You what?"
 
