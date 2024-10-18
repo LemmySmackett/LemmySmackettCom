@@ -180,7 +180,7 @@ The security guards pinned her to the floor, beating her into submission with th
 
 "FUCK YOU!" She howled again, her voice corroding into a hideous gurgle.
 
-As the security guards struggled with the demon-infested grandmother, the clerk pulled himself up, trembling.
+As the security guards struggled with the demon-infested grandmother, the blood-drenched clerk pulled himself up, trembling.
 
 His supervisor appeared beside him. "You alright, Paul?" 
 
