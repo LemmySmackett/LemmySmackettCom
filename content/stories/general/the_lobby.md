@@ -143,7 +143,7 @@ While she stared dumbfounded at the display, he slid the papers back through the
 
 "Only the Purging Center can remove your demon. I’m also going to have to report you for, well, murder."
 
-"I understand." She reached into her bag and pulling out a long kitchen knife. "You're just doing your job, dearie."
+"I understand." She reached into her bag and pulled out a long kitchen knife. "You're just doing your job, dearie."
 
 He pressed the alert button under the desk and slid back in his chair. "Ma'am."
 
