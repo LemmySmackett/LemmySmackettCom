@@ -170,7 +170,9 @@ When the deluge ceased, he frantically wiped his eyes and found her squatting on
 
 An alarm went off, bathing the lobby in strobes of white and blue.
 
-Two security guards in tactical crusader gear burst through a nearby door, leaped over the man on the floor and tackled Agnes off the counter.  "In the name of the Lord, you have the right to remain silent, demon!"
+Two security guards in tactical crusader gear burst through a nearby door, leaped over the man on the floor and tackled Agnes off the counter.
+
+"In the name of the Lord, you have the right to remain silent, demon!" they shouted.
 
 "Fuck you!" Agnes howled.
 
@@ -178,11 +180,11 @@ The security guards pinned her to the floor, beating her into submission with th
 
 "FUCK YOU!" She howled again, her voice corroding into a hideous gurgle.
 
-As the security guards struggled with the demon-infested grandmother, the man pulled himself up, trembling.
+As the security guards struggled with the demon-infested grandmother, the clerk pulled himself up, trembling.
 
 His supervisor appeared beside him. "You alright, Paul?" 
 
-"Y-yeah."
+"Y-yeah." Blood dripped from the clerk's stunned face.
 
 "Good." The supervisor gave his shoulder a brisk pat. "Clean yourself up and move to station R19. We're slammed today." Ω
 
