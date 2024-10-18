@@ -7,7 +7,7 @@
 {{ if $latestStory }}
   {{ $story := index $latestStory 0 }}
   {{ $storyDate := $story.Params.date }}
-  Latest Story: {{ $story.Title }} - {{ $storyDate.Format "Jan 2, 2006" }}
+  Latest Story: <a href="{{ $story.RelPermalink }}">{{ $story.Title }}</a> - {{ $storyDate.Format "Jan 2, 2006" }}
 {{ end }}
       {{ partial "random-quote.html" . }}
     </article>
