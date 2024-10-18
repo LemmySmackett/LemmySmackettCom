@@ -184,7 +184,7 @@ As the security guards struggled with the demon-infested grandmother, the clerk 
 
 His supervisor appeared beside him. "You alright, Paul?" 
 
-"Y-yeah." Blood dripped from the clerk's stunned face.
+"Y-yeah."
 
 "Good." The supervisor gave his shoulder a brisk pat. "Clean yourself up and move to station R19. We're slammed today." Ω
 
