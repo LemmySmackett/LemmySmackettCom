@@ -3,6 +3,11 @@
   <main>
     <article class="index-content">
       {{ .Content }}
+{{ $latestStory := (where (where .Site.RegularPages.ByDate.Reverse "Section" "stories") ".Params.extreme" "!=" true) | first }}
+{{ if $latestStory }}
+  {{ $storyDate := index $latestStory.Params.date 0 }}
+  Latest Story: {{ $latestStory.Title }} - {{ $storyDate }}
+{{ end }}
       {{ partial "random-quote.html" . }}
     </article>
 
