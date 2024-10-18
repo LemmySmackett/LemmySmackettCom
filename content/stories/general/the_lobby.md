@@ -7,7 +7,7 @@ tags: ["farce"]
 mature: false
 extreme: false
 ---
-While it is doubtful that any soul, living or dead, has ever been eager to wait in a lobby—say, for an orthodontist appointment or to receive a loved one's freshly cremated ashes from the local funeral director—there is a certain glassy-eyed dread, a waning of the human spirit, that can only be found in the lobbies of government agencies and administrations like the one Agnes Dunn sat in now.
+While it is doubtful that any soul, living or dead, has ever been eager to wait in a lobby—say, for an orthodontist appointment or to receive a loved one's freshly cremated ashes from the local funeral director—there is a certain glass-eyed dread, a waning of the human spirit, that can only be found in the lobbies of government agencies and administrations like the one Agnes Dunn sat in now.
 
 Like everyone in that suffocating, tightly-packed hell, she hated being there—hated it with every fiber of her being, every cell in her body, right down to the cancer-primed liver spots on her frail, wrinkled hands. But there was nothing to do, for her or anyone else, but stare dead ahead for minutes at a time. The only reprieve was recurring glances at her queue ticket each time the buzzing, ceiling-mounted speakers announced a number that wasn't hers.
 
