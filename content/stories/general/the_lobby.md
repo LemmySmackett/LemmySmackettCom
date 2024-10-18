@@ -1,9 +1,8 @@
 ---
 title: "The Lobby"
 date: 2024-10-18
-genres: ["fantasy"]
+genres: ["horror","fantasy"]
 length: "short-story"
-tags: ["farce"]
 mature: false
 extreme: false
 ---
@@ -159,7 +158,7 @@ Suddenly, she stopped.
 
 Her head jerked up, the whites of her eyes now blood-black.
 
-"Ma'am, I’m sure we can sort this out—"
+"Ma'am," he held up his hands. "I’m sure we can sort this out—"
 
 Like a fire hydrant, a torrent of blood erupted from her wounds, blowing the plastic pane off its hinges.
 
