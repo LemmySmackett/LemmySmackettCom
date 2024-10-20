@@ -7,6 +7,7 @@ tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
 extreme: false
+layout: poem
 ---
 My love was lost in darkness  
 and I provided a light.  
