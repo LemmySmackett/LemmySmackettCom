@@ -458,6 +458,10 @@ body.reader-mode {
     color: #e0e0e0;
 }
 
+.dark-mode h2 {
+    color: #e0e0e0;    
+}
+
 .dark-mode a {
     color: rgb(190, 190, 190);
 }
@@ -579,6 +583,10 @@ body.reader-mode {
     padding-right: 0.1em;
     margin-right: 0.05em;
     color: #000;
+  }
+
+.dark-mode .story-content > p:first-of-type::first-letter {
+    color: #e0e0e0;
   }
 
 /* New styles for paragraph indentation */
