@@ -7,6 +7,7 @@ tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
 extreme: false
+layout: poem
 ---
 When will I find a love,  
 When will I find a love,  
