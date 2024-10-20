@@ -1,0 +1,117 @@
+{{ define "main" }}
+<!-- TEMPLATE: Default Single -->
+<article>
+    <header>
+        <div class="story-title"><h1>{{ .Title }}</h1></div>
+            <div class="taxonomy-box-container">
+                                <div class="taxonomy-box">
+                                        {{ with .Params.genres }}
+                                        <span class="taxonomy-item"><strong>Genres:</strong>
+                                                        {{ range $index, $genre := . }}
+                                                                        {{- if ne $index 0 }}, {{ end -}}
+                                                                        <a href="{{ "/genres/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                                                        {{- end }}
+                                        </span>
+                                        {{ end }}
+
+            {{ with .Params.length }}
+            <span class="taxonomy-item"><strong>Length:</strong> 
+            {{ if reflect.IsSlice . }}
+              {{ range $index, $length := . }}
+                {{- if $index }}, {{ end -}}
+                <a href="{{ "/length/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+              {{- end }}
+            {{ else }}
+              <a href="{{ "/length/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+            </span>
+          {{ end }}
+
+            {{ with .Params.series }}
+                <span class="taxonomy-item"><strong>Series:</strong> <a href="{{ "/series/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+            {{ end }}
+
+            <span class="taxonomy-item"><strong>Reading Time:</strong> 
+                {{ if le .ReadingTime 1 }}
+                  Less than a minute
+                {{ else }}
+                  {{ .ReadingTime }} min
+                {{ end }}
+                </span>
+
+            {{ with .Params.tags }}
+            <span class="taxonomy-item"><strong>Tags:</strong> 
+                {{ range $index, $tag := . }}
+                {{- if ne $index 0 }}, {{ end }}<a href="{{ "/tags/" | relLangURL }}{{ $tag | urlize }}">{{ $tag }}</a>
+                {{- end }}
+              </span>
+            {{ end }}
+
+            {{ $warningClass := "" }}
+            {{ if or (in .Params.mature "true") (in .Params.extreme "true") }}
+                {{ if in .Params.extreme "true" }}
+                    {{ $warningClass = "extreme-warning" }}
+                {{ else }}
+                    {{ $warningClass = "mature-warning" }}
+                {{ end }}
+                <span class="taxonomy-item content-warning {{ $warningClass }}">
+                    <strong>Content Warning:</strong> 
+                    {{ if in .Params.mature "true" }}
+                        <a href="/mature/true">Mature content</a>
+                    {{ end }}
+                    {{ if and (in .Params.mature "true") (in .Params.extreme "true") }} | {{ end }}
+                    {{ if in .Params.extreme "true" }}
+                        <a href="/extreme/true">Extreme content</a>
+                    {{ end }}
+                </span>
+            {{ end }}
+        </div>
+        </div>
+    </header>
+
+    <div class="poem-content">
+        {{ .Content }}
+    </div>
+</article>
+<hr class="dotted-line">
+{{ $currentPage := . }}
+{{ $currentDir := .File.Dir }}
+
+<!-- List of directories where pagination buttons should not be shown -->
+{{ $excludedDirs := slice "stories/general/" "stories/mature/" "stories/extreme/" }}
+
+<!-- Check if the current directory is in the excluded list -->
+{{ if not (in $excludedDirs $currentDir) }}
+
+    <!-- Sort pages in the current directory by their file name -->
+    {{ $sectionPages := sort (where .Site.RegularPages "File.Dir" $currentDir) ".File.Path" "asc" }}
+
+    {{ if gt (len $sectionPages) 1 }}
+        <nav class="pagination">
+
+            <!-- Find the current page's index -->
+            {{ $currentIndex := 0 }}
+            {{ range $i, $page := $sectionPages }}
+                {{ if eq $page $currentPage }}
+                    {{ $currentIndex = $i }}
+                {{ end }}
+            {{ end }}
+
+            <!-- Render "Previous" button manually (Only if not on the first page) -->
+            {{ if gt $currentIndex 0 }}
+                {{ $prevPage := index $sectionPages (sub $currentIndex 1) }}
+                <a href="{{ $prevPage.RelPermalink }}" class="prev">Previous: {{ $prevPage.Title }}</a>
+            {{ end }}
+
+            <!-- Render "Next" button manually (Only if not on the last page) -->
+            {{ if lt $currentIndex (sub (len $sectionPages) 1) }}
+                {{ $nextPage := index $sectionPages (add $currentIndex 1) }}
+                <a href="{{ $nextPage.RelPermalink }}" class="next">Next: {{ $nextPage.Title }}</a>
+            {{ end }}
+
+        </nav>
+    {{ end }}
+
+{{ end }}
+
+{{ end }}
