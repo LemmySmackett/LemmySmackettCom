@@ -10,9 +10,7 @@ Edith was adjusting her husband's respirator—a coiled hose and silicone mask t
 
 "Who could that be?" She wondered aloud.
 
-Edith's husband, a bed-bound emaciated husk, had no suggestions.
-
-Tubes and wires hung from his frail body like the roots of a mangrove tree, and a white, egg-shaped dome—a VR helmet—covered his eyes and ears.
+Edith's husband, a bed-bound emaciated husk, had no suggestions.Tubes and wires hung from his frail body like the roots of a mangrove tree, and a white, egg-shaped dome—a VR helmet—covered his eyes and ears.
 
 Edith tightened the respirator's strap and leaned in to kiss his exposed cheek. "I'll be right back, dear."
 

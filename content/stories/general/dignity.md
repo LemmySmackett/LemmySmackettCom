@@ -9,6 +9,8 @@ extreme: false
 ---
 There once was a man who died a thousand deaths.
 
+&nbsp;
+
 The man, when young, was sent to war. He came back in a casket, bearing his country's flag.
 
 The man, now middle-aged, owned a nice home in a nice neighborhood. The police found him bled out, shielding his infant son.

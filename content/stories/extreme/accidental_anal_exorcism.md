@@ -8,7 +8,7 @@ erotica_tags: ["erotica","non-con","sadomasochism","happy ending"]
 mature: false
 extreme: true
 ---
-"My, my, my," the Succubus purred. "I guess even a holy man can't resist tying up a bad girl."
+My, my, my," the Succubus purred. "I guess even a holy man can't resist tying up a bad girl."
 
 The scarlet demoness lay bound to the temple floor, arms and legs splayed wide, wrists and ankles pulled taut by thick, coarse rope.
 

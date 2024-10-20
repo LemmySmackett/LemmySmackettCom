@@ -7,7 +7,7 @@ tags: ["farce"]
 mature: false
 extreme: false
 ---
-"Colonel Graff, this is Mazer Rackham reaching you via ansible. Do you read?"
+Colonel Graff, this is Mazer Rackham reaching you via ansible. Do you read?"
 
 "This is Colonel Graff, Mazer. We read you loud and clear.
 

@@ -7,7 +7,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Hey Tony, HR asked me to host a team building event. I'm thinking Bingo."
+Hey Tony, HR asked me to host a team building event. I'm thinking Bingo."
 
 "Bingo? Does the winner get a 5 gallon bucket of Metamucil?"
 

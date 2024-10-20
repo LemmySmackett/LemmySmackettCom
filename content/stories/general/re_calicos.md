@@ -6,9 +6,7 @@ length: "micro-fiction"
 mature: false
 extreme: false
 ---
-"Got a selection of good things on sale today stranger!"
-
-The Merchant unfurled his tattered trenchcoat, revealing two columns of kittens. Each snug in their own comfy pocket. Eight in total.
+Got a selection of good things on sale today stranger!" The Merchant unfurled his tattered trenchcoat, revealing two columns of kittens. Each snug in their own comfy pocket. Eight in total.
 
 STRATCOM Field Agent Leon Kennedy perused the mewling wares, weighing his choice carefully.  His attache case was already stuffed with a USP Tactical sidearm, a Remington 870, an M1903 sniper rifle, three incendiary grenades, two flashbangs, five eggs (1 white, 3 brown, 1 rotten), a stone tablet depicting a braying goat, and one large black bass. There was barely enough room to fit another ornate heirloom or macabre occult sigil, and yet the simple fact remained: you could never underestimate the utility of a good kitten.
 

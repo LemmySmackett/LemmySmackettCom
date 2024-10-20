@@ -3,15 +3,15 @@
   <main>
     <article class="index-content">
       {{ .Content }}
-{{ $latestStory := (where (where .Site.RegularPages.ByDate.Reverse "Section" "stories") ".Params.extreme" "!=" true) | first 1 }}
-{{ if $latestStory }}
-  {{ $story := index $latestStory 0 }}
-  {{ $storyDate := $story.Params.date }}
-  Latest Story: <a href="{{ $story.RelPermalink }}">{{ $story.Title }}</a> - {{ $storyDate.Format "Jan 2, 2006" }}
-{{ end }}
-      {{ partial "random-quote.html" . }}
     </article>
-
+    <div class="latest-story">
+      {{ $latestStory := (where (where .Site.RegularPages.ByDate.Reverse "Section" "stories") ".Params.extreme" "!=" true) | first 1 }}
+      {{ if $latestStory }}
+        {{ $story := index $latestStory 0 }}
+        {{ $storyDate := $story.Params.date }}
+        Latest Story: <a href="{{ $story.RelPermalink }}">{{ $story.Title }}</a> - {{ $storyDate.Format "Jan 2, 2006" }}
+      {{ end }}</div>  
+      {{ partial "random-quote.html" . }}
     <div class="content-wrapper">
       <div class="content-container">
         <h2 class="section-heading">Newest Stories</h2>

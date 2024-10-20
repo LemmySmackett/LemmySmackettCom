@@ -7,8 +7,11 @@ tags: ["farce"]
 mature: false
 extreme: false
 ---
-"Ai! ai!" wailed Legolas. "A Balrog! A Balrog is come!"
+Ai! ai!" wailed Legolas. "A Balrog! A Balrog is come!"
 
+&nbsp;
+
+&nbsp;
 Gimli stared with wide eyes. "Durin’s Bane!" he cried, and
 letting his axe fall he covered his face.
 

@@ -10,6 +10,8 @@ extreme: false
 ---
 People always ask me, "Why did you become a therapist?"
 
+&nbsp;
+
 "Well, people become therapists for all kinds of reasons," I say.
 
 "Many become therapists because they benefited from the insights of psychology, and want to pay it forward."

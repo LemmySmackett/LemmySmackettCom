@@ -8,7 +8,8 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-In the back room of a YMCA, six people, varied in class and temperament, sit in a sharing circle. A rotund woman wearing a wrinkled black T-shirt stands up. The shirt reads: 𝗠𝗬 𝗛𝗨𝗦𝗕𝗔𝗡𝗗 𝗜𝗦 𝙃𝙐𝙁𝙁𝙇𝙀𝙋𝙐𝙁𝙁 𝗕𝗨𝗧 𝗠𝗬 𝗕𝗢𝗬𝗙𝗥𝗜𝗘𝗡𝗗 𝗕𝗘 𝙎𝙇𝙔𝙏𝙃𝙀𝙍𝙄𝙉
+In the back room of a YMCA, six people, varied in class and temperament, sit in a sharing circle. A rotund woman wearing a wrinkled black T-shirt stands up. The shirt reads:
+𝗠𝗬 𝗛𝗨𝗦𝗕𝗔𝗡𝗗 𝗜𝗦 𝙃𝙐𝙁𝙁𝙇𝙀𝙋𝙐𝙁𝙁 𝗕𝗨𝗧 𝗠𝗬 𝗕𝗢𝗬𝗙𝗥𝗜𝗘𝗡𝗗 𝗕𝗘 𝙎𝙇𝙔𝙏𝙃𝙀𝙍𝙄𝙉
 
 "Hello, my name's Serena and I'm a bookaholic."
 

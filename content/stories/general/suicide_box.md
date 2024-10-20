@@ -9,6 +9,8 @@ extreme: false
 ---
 My editor asked me to do a piece on teleporters.
 
+&nbsp;
+
 I thought "That sounds pretty boring." Everybody uses them, right? What's to tell?
 
 A long time ago, people used to worry about the implications. The whole suicide box thing.

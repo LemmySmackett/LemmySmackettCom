@@ -8,7 +8,7 @@ theme = "gwern-like"
     name = "HOME"
     url = "/"
     weight = 1
-
+    
 [taxonomies]
   genre = "genres"
   length = "length"

@@ -338,6 +338,12 @@ section {
     display: block;
 }
 
+.latest-story {
+    padding-top: 8px !important;
+    font-size: larger !important;
+    font-weight: bold !important;
+}
+
 /* Center container for all content */
 .center-container {
     width: 100%;
@@ -554,6 +560,35 @@ body.reader-mode {
     margin-bottom: 0px;
     font-size: 2rem;
 }
+
+@font-face {
+    font-family: 'Goudy Initialen';
+    src: url('/fonts/GoudyInitialen.woff2') format('woff2'),
+         url('/fonts/GoudyInitialen.woff') format('woff'),
+         url('/fonts/GoudyInitialen.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.story-content > p:first-of-type::first-letter {
+    font-family: 'Goudy Initialen', serif;
+    font-size: 4em;
+    float: left;
+    line-height: 0.8;
+    padding-top: 0.1em;
+    padding-right: 0.1em;
+    margin-right: 0.05em;
+    color: #000;
+  }
+
+/* New styles for paragraph indentation */
+.story-content p {
+    text-indent: 1.5em;
+  }
+  
+  .story-content p:first-of-type {
+    text-indent: 0;
+  }
 
 /* Warning */
 .warning {

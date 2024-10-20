@@ -8,10 +8,7 @@ series: "fables and fairytales"
 mature: true
 extreme: false
 ---
-In a certain town, I knew a young man who longed for a girl from afar.
-
-He was the serious sort, not given to jests or flights of fancy. She was a budding rose, yet unblemished by life's trials.
-
+In a certain town, I knew a young man who longed for a girl from afar. He was the serious sort, not given to jests or flights of fancy. She was a budding rose, yet unblemished by life's trials.
 
 Each time she passed us on the street, the young man sighed with a deep, pained yearning.
 

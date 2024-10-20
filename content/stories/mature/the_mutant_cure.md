@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Hello, you're watching NBC. I'm Ellen Skunt. For the past twenty years, 𝐻𝑛𝑔ℎ America has grappled with the Mutant Question. With the FDA's approval of Trask Industries so-called Mutant Cure, some now  argue it should be administered along with the Hepatitis B vaccine, a mandatory immunization given to all newborns. 𝑀𝑚𝑚. Tonight, we're speaking with an assortment of voters across the political spectrum, one of whom is secretly a mutant. We'll reveal it at the end of the show. 𝑈𝑔ℎ. 𝑎ℎ𝑒𝑚𝑚. Let's start with you, Ivanna."
+Hello, you're watching NBC. I'm Ellen Skunt. For the past twenty years, 𝐻𝑛𝑔ℎ America has grappled with the Mutant Question. With the FDA's approval of Trask Industries so-called Mutant Cure, some now  argue it should be administered along with the Hepatitis B vaccine, a mandatory immunization given to all newborns. 𝑀𝑚𝑚. Tonight, we're speaking with an assortment of voters across the political spectrum, one of whom is secretly a mutant. We'll reveal it at the end of the show. 𝑈𝑔ℎ. 𝑎ℎ𝑒𝑚𝑚. Let's start with you, Ivanna."
 
 "Hi, I'm Ivanna Rutt. 𝐻𝑛𝑔ℎ. Minnesota Democrat. And I just think 𝑀𝑚𝑚 it's such a shame what they're doing to the homo superior people."
 
