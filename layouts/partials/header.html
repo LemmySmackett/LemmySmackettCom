@@ -1,10 +1,9 @@
 <header>
     <nav>
-        {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}">{{ .Name }}</a>
-        {{ end }}
-        <button id="dark-mode-toggle">Toggle Dark Mode</button>
-        <button id="reader-mode-toggle">Toggle Reader Mode</button>
+       <a href="{{ .Site.Home.RelPermalink }}" class="home-link">
+           <span class="goudy-l">L</span>
+       </a>
+       <button id="dark-mode-toggle">Dark Mode</button>
+       <button id="reader-mode-toggle">Reader Mode</button>
     </nav>
-
-</header>
+   </header>

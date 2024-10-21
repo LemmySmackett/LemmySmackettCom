@@ -7,11 +7,9 @@ tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
 extreme: false
+layout: poem
 ---
 **KINSLAYER I**
-
-&nbsp;
-
 
 A reckless youth once killed his brother. It wasn't his intention, but it happened all the same. Remorseful, he turned himself in and served his time. 
 
