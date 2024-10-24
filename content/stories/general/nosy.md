@@ -7,7 +7,7 @@ tags: ["bleak"]
 mature: false
 extreme: false
 ---
-"Henry," the old woman yelped down the hall. "He's doing it again!"
+Henry," the old woman yelped down the hall. "He's doing it again!"
 
 Her rotund husband lounged in the other room—sprawled out on his genuine leather, cup-holder armrest recliner—lazily watching Euphoria on his wall-mounted 80 inch Sony Bravia. He wasn't sure what the whole show was about, but the girls were cute. 
 
