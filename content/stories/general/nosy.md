@@ -20,7 +20,7 @@ Henry turned the volume up.
 
 "But he's just out there! Floating!" Mabel peeked through the blinds again. 
 
-Across the street, seventy feet up, the pitch-black silhouette of their next door neighbor hovered, arms outstretched, casting an eerie relief against the thick dusk mist—an oppressive sky tainted with the glow of dying daylight.
+Across the street, seventy feet up, the pitch-black silhouette of their next door Neighbor hovered, arms outstretched, casting an eerie relief against the thick dusk mist—an oppressive sky tainted with the glow of dying daylight.
 
 "It's a free country, Mabel!" Henry shouted over the moans of the television. "Forget about it!"
 
