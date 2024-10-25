@@ -105,7 +105,7 @@ Dash nodded. "My father should meet the children he's sired."
 
 "Children?" Lemmy repeated in surprised. There was little doubt, in anyone's mind, that the incorrigible cad known far and wide as Leminus "Lemmy" Attemus had a hundred or so bastards running loose in this world. But Ol' Lemmy was, if nothing else, a firm believer in the traditional one night stand. 
 
-A night to remember and the right to loathe him in the morning. That was the gentleman's way.
+(A night to remember and the right to loathe him in the morning—that was the gentleman's way.)
 
 "Let me guess," he said. "Momma's a Beastkin. Like you."
 
