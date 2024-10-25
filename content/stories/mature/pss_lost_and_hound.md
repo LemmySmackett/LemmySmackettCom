@@ -77,7 +77,7 @@ Lemmy held up a hand. "No judgment if you are lad. Revenge is good business. Tru
 
 "I know."
 
-Remmy let out another whine.
+Remmy let out a whine.
 
 "You got that big bone!" Lemmy swiped at the dog with his hat. " What more you want!"  He set it back on his head. "Anyway, what's he do for money? Every man has to make a living."
 
