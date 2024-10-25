@@ -42,4 +42,4 @@ Mabel slumped to the floor, wheezing, her forehead beaded with sweat. Out in the
 
 As her breathing eased, Mabel's gaze drifted from the blinds to the lighter on the coffee table. And when she picked it up, a calm tide swept through her. For the first time in her life, she knew exactly where to begin.
 
-She never liked that recliner anyway.Ω
+She never liked that recliner anyway. Ω
