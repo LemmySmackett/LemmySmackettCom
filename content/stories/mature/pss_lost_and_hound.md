@@ -67,7 +67,7 @@ Lemmy smirked. "And why are you looking for your momma's shagger?"
 
 "He's my father. I think."
 
-Remmy glanced between Dash and Lemmy
+Remmy glanced between Dash and Lemmy.
 
 Lemmy nodded. "Figured as much. It had to be that or revenge. Sometimes it's both." He pointed. "You lookin' for revenge?"
 
