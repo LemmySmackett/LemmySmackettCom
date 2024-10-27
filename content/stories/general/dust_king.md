@@ -12,7 +12,7 @@ There once was a mote of dust who declared himself King. This striving was not f
 
 The Dust King sought justice in an unjust world.
 
-To this end, he waged a one-speck war against his brethren, against the Great Colonies of the book shelves, floors, and counter tops. Ad he was, for a time, successful.
+To this end, he waged a one-speck war against his brethren, against the Great Colonies of the book shelves, floors, and counter tops. And he was, for a time, successful.
 
 The broken bodies of smote motes lay scattered on his long and winding path of conquest, but never once did he savor the killing.
 
