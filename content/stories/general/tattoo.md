@@ -10,7 +10,7 @@ extreme: false
 ---
 There once was a wrinkled body, covered in tattoos.
 
-The body belonged to an old man, feared by neighbors and strangers alike, for his tale was told in the ink.
+The body belonged to an old man, feared by neighbors and strangers alike, for the ink told his tale.
 
 The tattoos, you see, served as tally, oath, and testament.
 
