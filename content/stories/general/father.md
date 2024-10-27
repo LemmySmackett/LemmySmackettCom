@@ -10,8 +10,6 @@ extreme: false
 ---
 I used to know this kid from the Enders. The fire eye'd boy.
 
-&nbsp;
-
 He lived out on the levies, where they got that intraspatial runoff. You know, all that crap that flows out the back of the Planar Fabrication Plant. The Escher Institute.
 
 Back then, the Enders were a ramshackle dump, a place where nothing shined.
