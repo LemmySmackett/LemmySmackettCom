@@ -30,7 +30,8 @@ Hello, you're watching NBC. I'm Ellen Skunt. For the past twenty years, 𝐻𝑛
 
 "𝑀𝑚𝑚 Mr. Himen, please𝑒𝑒𝑒."
 
-"It's alright, Skunt. As you said at the start of the show, one of us is a mutie, as our friend here so brashly put it. And I am that mutie."
+"It's alright, Skunt. As you said at the start of the show, one of us is a mutant.
+Or a mutie, as our friend here so brashly put it. And I am that mutie."
 
 "Mr. Gelder, why come out now? Are you concerned that Trask's vaccine could 𝑈𝑔ℎ end the mutant species?"
 
