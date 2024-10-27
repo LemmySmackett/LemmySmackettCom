@@ -6,6 +6,7 @@ length: "micro-fiction"
 tags: ["farce"]
 mature: true
 extreme: false
+layout: poem
 ---
 **INT. THE COURTROOM - DAY**
 

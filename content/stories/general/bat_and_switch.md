@@ -9,9 +9,6 @@ extreme: false
 ---
 Bruce removes the cowl. "I give up, Alfred. Batman is dead."
 
-
-&nbsp;
-
 Alfred's voice carries from across the Bat-Cave. "But Master Wayne, you've never been one to quit. Gotham needs you!"
 
 "I can't do it anymore." Bruce walks to the Bat-Computer and slumps in his chair. "The cost is too great."

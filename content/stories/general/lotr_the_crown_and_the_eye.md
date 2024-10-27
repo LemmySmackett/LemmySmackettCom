@@ -8,7 +8,6 @@ series: "x/twitter"
 mature: false
 extreme: false
 ---
-
 It's a signature dish!" The Dark Lord rasped. "The orcs want meat on the menu!"
 
 "By my right as Gondor's King," Aragon stood imperious, slapping his wash rag on the counter. "We will not serve flayed hobbit in this establishment!"

@@ -11,7 +11,7 @@ layout: poem
 ---
 **KINSLAYER I**
 
-A reckless youth once killed his brother. It wasn't his intention, but it happened all the same. Remorseful, he turned himself in and served his time. 
+A reckless youth once killed his brother. It wasn't his intention, but it happened all the same. Remorseful, he turned himself in and served his time.
 
 After twenty years the youth, now an anxious man, was released. He traveled from town to town, taking odd jobs under assumed names.
 

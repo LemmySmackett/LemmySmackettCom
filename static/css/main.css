@@ -616,21 +616,27 @@ body.reader-mode {
     color: #000;
   }
 
+/* Dark mode drop cap */
 .dark-mode .story-content > p:first-of-type::first-letter {
     color: #e0e0e0;
   }
 
-/* New styles for paragraph indentation */
+/* Base paragraph styling */
 .story-content p {
     text-indent: 1.5em;
-  }
-  
-  .story-content p:first-of-type {
+ }
+ 
+ .story-content p:first-of-type {
     text-indent: 0;
-  }
+ }
+ 
+/* When beside drop cap, remove all spacing */
+.story-content p.beside-drop-cap {
+    text-indent: 0;
+    margin-left: 0;
+}
 
 /* Poem content */
-/* Story Content */
 .poem-content {
     margin-top: -1.7em;
     font-size: 1.1em;
