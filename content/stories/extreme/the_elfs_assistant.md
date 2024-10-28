@@ -164,7 +164,7 @@ The pungent scent of elf cunt had brought Pisslips to the edge and now, as his l
 
 A ball of cum shot straight up and splattered across the ceiling, forming a spider's web among the rafters.
 
-The elf looked up. "It worked! 2 for 2!" She immediately scribbled a note in the journal. "With results like this, the high council will finally support my research. She glanced back at the goblin. "And I'll finally be able to get a proper assistant who doesn't try to lick my-"
+The elf looked up. "It worked! 2 for 2!" She immediately scribbled a note in the journal. "With results like this, the high council will finally support my research." She glanced back at the goblin. "And I'll finally be able to get a proper assistant who doesn't try to lick my-"
 
 **THWAP!**
 
