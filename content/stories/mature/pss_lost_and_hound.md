@@ -29,15 +29,12 @@ The moment lingered and the man's predator gaze with it. Truth told, the Youth f
 
 "You came all this way, lad. What can we do for you?"
 
-***
-
-Or rather, Lemmy idly pondered, what can you do for us?
+*Or rather,* Lemmy idly pondered, *what can you do for us?*
 
 He'd been aware of the youth's approach, long before his arrival. A single howl acted as herald's trumpet. Such was just one of the many benefits of owning the greatest perimeter defense system known to man: fifteen to twenty half-trained mutts.
 
 (Truth told, the actual number of mutts varied day to day. They had a habit of wandering off.)
 
-***
 
 "I'm looking for someone," Dash said. "I've been looking for him for a long time..."
 
