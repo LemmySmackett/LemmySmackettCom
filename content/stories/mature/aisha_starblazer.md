@@ -94,4 +94,4 @@ The Mantidraxian tilted its triangular head. _\-Not really He mostly tries to w
 
 "Really?" Aisha gawked. "That's what Ronald Rigsby thinks about?"
 
-_\-Yes-_ Gralinok wiggled her antenna in amusement. "-Well, that and inseminating me while I devour his head-* Ω
+_\-Yes-_ Gralinok wiggled her antenna in amusement. *-Well, that and inseminating me while I devour his head-* Ω
