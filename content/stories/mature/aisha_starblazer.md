@@ -92,6 +92,6 @@ Gralinok nodded. _\-That's right-_
 
 The Mantidraxian tilted its triangular head. _\-Not really He mostly tries to work up the courage to ask me on a date-_
 
-"Really?" Aisha gawked. "That's what Ronald Rigsby thinks about?"
+"Really?" Aisha gawked. "That's what Ronald Bigsby thinks about?"
 
 _\-Yes-_ Gralinok wiggled her antenna in amusement. *-Well, that and inseminating me while I devour his head-* Ω
