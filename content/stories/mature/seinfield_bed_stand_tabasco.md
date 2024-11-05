@@ -7,7 +7,7 @@ tags: ["farce"]
 mature: true
 extreme: false
 ---
-"It's a spermicide, Jerry."
+It's a spermicide, Jerry."
 
 Seinfeld glances between Kramer and the bottle in his hand. "Tabasco sauce?"
 
