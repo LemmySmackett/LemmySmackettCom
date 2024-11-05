@@ -1,6 +1,6 @@
 ---
-title: "Jerry Seinfield: Bed Stand Tabasco"
-date: 2024-10-29
+title: "SEINFELD: Bed Stand Tabasco"
+date: 2024-09-29
 genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
