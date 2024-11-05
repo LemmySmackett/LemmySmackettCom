@@ -1,5 +1,5 @@
 ---
-title: "SEINFIELD: Kramer vs. The Trolley"
+title: "SEINFELD: Kramer vs. The Trolley"
 date: 2024-11-04
 genres: ["parody"]
 length: "micro-fiction"
@@ -9,15 +9,15 @@ extreme: false
 ---
 Kramer bursts through the door. "Judge Doom solves the Trolley Problem!"
 
-"What?" Seinfield glances up from his couch, PS5 controller in hand. "Kramer, I’m playing here." He gestures toward the TV. "I'm on Promised Consort Radahn."
+"What?" Seinfeld glances up from his couch, PS5 controller in hand. "Kramer, I’m playing here." He gestures toward the TV. "I'm on Promised Consort Radahn."
 
 "Judge Doom, Jerry. Famously played by Christopher Lloyd in _Who Framed Roger Rabbit_."
 
-Seinfield sets the controller down and tosses his hands up. "Alright, hit me."
+Seinfeld sets the controller down and tosses his hands up. "Alright, hit me."
 
 Kramer moves in, his fingers dancing as he speaks. "Okay, so Doom wants to steamroll Toontown, right? Kill 'em all with the Dip."
 
-"I guess?" Seinfield scratches his ear, half paying attention. "I haven’t seen _Roger Rabbit_ since I dated that girl with the weird ankles."
+"I guess?" Seinfeld scratches his ear, half paying attention. "I haven’t seen _Roger Rabbit_ since I dated that girl with the weird ankles."
 
  "Cankles Cathy. I remember..." Kramer's eyes glaze over, lost in the fugue of memory. "But listen!" He snaps back. "Doom uses Cloverleaf Industries to buy Toontown and the Red Car, so he can bulldoze everything and build his highway!"
 
@@ -43,6 +43,6 @@ Kramer scoffs. "Come on, Jerry. That’s not even a choice."
 
 "They can't make me do it, Jerry!" Kramer yelps, his voice a manic tremor. "I don’t even know how to drive!" 
 
-Seinfield stands up and walks over to calm his friend. "Easy buddy, easy! It's just a hypothetical. A thought experiment. Nobody is tying Daffy Duck or anybody else to any trolley tracks. I promise."
+Seinfeld stands up and walks over to calm his friend. "Easy buddy, easy! It's just a hypothetical. A thought experiment. Nobody is tying Daffy Duck or anybody else to any trolley tracks. I promise."
 
 Constanza bursts through the door, drenched in blood and black feathers. "Hide me."
