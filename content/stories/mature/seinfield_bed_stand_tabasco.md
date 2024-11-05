@@ -9,7 +9,7 @@ extreme: false
 ---
 "It's a spermicide, Jerry."
 
-Seinfield glances between Kramer and the bottle in his hand. "Tabasco sauce?"
+Seinfeld glances between Kramer and the bottle in his hand. "Tabasco sauce?"
 
 Kramer nods. "Oh yeah. That's what they made it for originally. The tacos and chicken wings came after. 
 
@@ -27,6 +27,6 @@ Jerry turns to leave. Kramer stops him.
 
 Kramer lowers the bottle and mimics a jerk. "Flavor saver."
 
-Seinfield throws up hands. "I'm out." Ω[^1]
+Seinfeld throws up hands. "I'm out." Ω[^1]
 
 [^1]:Based on [this wikipedia excerpt. (Source: Wikipedia)](/images/bed_stand_tabasco.jpeg)
