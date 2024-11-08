@@ -6,7 +6,7 @@ tags: ["farce"]
 mature: false
 extreme: false
 ---
-"Hey man, I heard you got a new FAANG job. Getting that sweet, sweet SWE money, huh?"
+Hey man, I heard you got a new FAANG job. Getting that sweet, sweet SWE money, huh?"
 
 "Nah, I'm getting out of all that. Nobody likes to say it, but job titles like software engineer and software architect devalue the work that real engineers and architects do. It's a form of stolen valor."
 
