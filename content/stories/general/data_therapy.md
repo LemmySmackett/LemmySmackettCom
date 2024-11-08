@@ -1,5 +1,5 @@
 ---
-title: "Data Therapy
+title: "Data Therapy"
 date: 2024-11-08
 length: "micro-fiction"
 tags: ["farce"]
