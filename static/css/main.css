@@ -678,10 +678,18 @@ body.reader-mode {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
-.icon-button:visited svg {
-    fill: var(--text-color);  /* Use the regular text color instead of visited color */
+.icon-button:visited {
+    fill: var(--text-color) !important; /* Use the regular text color instead of visited color */
 }
 
+/* Target specifically the Patreon link */
+a[href*="patreon"] {
+    color: var(--text-color) !important;
+}
+
+a[href*="patreon"] svg {
+    fill: var(--text-color) !important;
+}
 
 /* Dark mode icon colors */
 .dark-mode .icon-button {
@@ -690,6 +698,15 @@ body.reader-mode {
 
 .dark-mode .icon-button:hover {
     background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Dark mode */
+.dark-mode a[href*="patreon"] {
+    color: #e0e0e0 !important;
+}
+
+.dark-mode a[href*="patreon"] svg {
+    fill: #e0e0e0 !important;
 }
 
 /* Ensure icons are properly sized and aligned */
