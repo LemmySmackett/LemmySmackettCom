@@ -88,7 +88,6 @@ nav a, nav button {
     color: var(--text-color); /* Use the main text color */
     display: inline-block;
     line-height: 1;
-    padding: 0;
 }
 
 .home-link .goudy-l {
@@ -659,4 +658,37 @@ body.reader-mode {
     border-top: 3px dotted #ccc;   /* Dotted line with light color */
     margin: 20px 0;
     width: 100%;
+}
+
+/* Icon button styling */
+.icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 6px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-color);
+    transition: background-color 0.2s;
+}
+
+.icon-button:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Dark mode icon colors */
+.dark-mode .icon-button {
+    color: #e0e0e0;
+}
+
+.dark-mode .icon-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Ensure icons are properly sized and aligned */
+.icon-button svg {
+    width: 25px;
+    height: 25px;
 }
