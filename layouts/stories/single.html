@@ -47,6 +47,14 @@
               </span>
             {{ end }}
 
+            {{ with .Params.erotica_tags }}
+            <span class="taxonomy-item"><strong>Erotica Tags:</strong> 
+                {{ range $index, $erotica_tag := . }}
+                {{- if ne $index 0 }}, {{ end }}<a href="{{ "/erotica_tags/" | relLangURL }}{{ $erotica_tag | urlize }}">{{ $erotica_tag }}</a>
+                {{- end }}
+              </span>
+            {{ end }}
+
             {{ $warningClass := "" }}
             {{ if or (in .Params.mature "true") (in .Params.extreme "true") }}
                 {{ if in .Params.extreme "true" }}
