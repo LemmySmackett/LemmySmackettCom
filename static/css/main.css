@@ -678,6 +678,11 @@ body.reader-mode {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
+.icon-button:visited svg {
+    fill: var(--text-color);  /* Use the regular text color instead of visited color */
+}
+
+
 /* Dark mode icon colors */
 .dark-mode .icon-button {
     color: #e0e0e0;
