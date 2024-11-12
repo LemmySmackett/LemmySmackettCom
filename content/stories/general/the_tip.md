@@ -1,5 +1,11 @@
 ---
 title: "The Tip"
+date: 2024-11-12
+genres: ["horror"]
+length: "micro-fiction"
+tags: ["farce"]
+mature: false
+extreme: false
 ---
 RIZZEDNUTLOV3R HAS TIPPED $5
 
