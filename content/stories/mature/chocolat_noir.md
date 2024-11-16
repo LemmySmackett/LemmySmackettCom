@@ -1,6 +1,12 @@
 ---
 title: "Chocolat Noir"
 date: 2024-11-11
+genres: ["parody"]
+length: "micro-fiction"
+tags: ["farce"]
+series: "x/twitter"
+mature: true
+extreme: false
 ---
 Detective Red dipped under the crime scene tape stretched taut across the doorway, entering the apartment. He'd been working the human/M&M crime beat for years, and if he'd learned anything in these rat-infested bite-sized boroughs, it's that everyone wore a shell—and every shell was bound to crack, sooner or later.
 
