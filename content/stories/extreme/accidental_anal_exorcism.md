@@ -100,4 +100,4 @@ She pulled in close, her breath hot and ragged upon his blushing cheek. Her fing
 
 Wide-eyed, the Priest shook his head. He stared at her with a gaze that bordered on reverence.
 
-"That's what I thought." She wrapped her hand around his throat, forked tongue flickering in his ear. "Now stop gawking like a stunned deer and fuck my ass again, sweet priest."
+"That's what I thought." She wrapped her hand around his throat, forked tongue flickering in his ear. "Now stop gawking like a stunned deer and fuck my ass again, sweet priest." Ω
