@@ -1,5 +1,11 @@
 ---
 title: "Maniac (ver.1)"
+date: 2024-11-14
+genres: ["horror"]
+length: "micro-fiction"
+tags: ["farce"]
+mature: false
+extreme: false
 ---
 **Meet me in the woods.** Her Hinge match wrote. **At sunset.**
 
@@ -76,4 +82,4 @@ The assailant crumpled to the ground and convulsed, arms curled, foam frothing o
 
 She fled, her heart hammering with an exhilarating pride. But it didn't last. The further she went into the woods, the darker it got. She gripped her taser and spray, frantic eyes scanning the long shadows. 
 
-A maniac could be anywhere.
+A maniac could be anywhere. Ω
