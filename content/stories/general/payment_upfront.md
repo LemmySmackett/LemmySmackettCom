@@ -3,6 +3,7 @@ title: "Payment Upfront"
 date: 2024-11-14
 genres: ["horror"]
 length: "micro-fiction"
+series: "x/twitter"
 tags: ["farce"]
 mature: false
 extreme: false
