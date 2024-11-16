@@ -21,21 +21,21 @@ Naturally she had to reply.
 **You're a dick.**
 
 His response:     
-😏  
-**I'm not hearing a no.**  
+>😏  
+>**I'm not hearing a no.**  
 
 "Dick," she muttered aloud, putting the phone aside. A notification chirped. She checked the screen.
 
-🐔 
+>🐔 
 
 She bit her lip.
 
 **Fine** She wrote back. **But you better not try anything. I come prepared.**
 
 His response:  
-**I bet you do.**  
-**And don't worry**  
-**I've got a bag set aside, just for you.** 😘  
+>**I bet you do.**  
+>**And don't worry**  
+>**I've got a bag set aside, just for you.** 😘  
 
 She smirked. "We'll see about that."
 
@@ -55,10 +55,10 @@ She was in high spirits 'til she got to the park. Then the Fear hit.
 A notification chirped.
 
 His message:  
-👁️   
-**I see you.**  
-**Come to the old bridge.**  
-**Or don't.**  
+>👁️   
+>**I see you.**  
+>**Come to the old bridge.**  
+>**Or don't.**  
 
 The old bridge spanned a 50 foot ravine, flanked by abandon train tracks.
 
