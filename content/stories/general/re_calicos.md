@@ -3,6 +3,7 @@ title: "Resident Evil:Calicos"
 date: 2024-10-07
 genres: ["parody"]
 length: "micro-fiction"
+series: "x/twitter"
 mature: false
 extreme: false
 ---
