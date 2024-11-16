@@ -7,7 +7,7 @@ tags: ["farce"]
 mature: false
 extreme: false
 ---
-**Meet me in the woods.** Her Hinge match wrote. **At sunset.**
+M**eet me in the woods.** Her Hinge match wrote. **At sunset.**
 
 *"What an asshole,"* she thought.
 
@@ -20,7 +20,7 @@ Naturally she had to reply.
 
 **You're a dick.**
 
-His response:   
+His response:     
 😏  
 **I'm not hearing a no.**  
 
@@ -35,7 +35,7 @@ She bit her lip.
 His response:  
 **I bet you do.**  
 **And don't worry**  
-**I've got a bag set aside, just for you.** 😘
+**I've got a bag set aside, just for you.** 😘  
 
 She smirked. "We'll see about that."
 
@@ -58,7 +58,7 @@ His message:
 👁️   
 **I see you.**  
 **Come to the old bridge.**  
-**Or don't.** 
+**Or don't.**  
 
 The old bridge spanned a 50 foot ravine, flanked by abandon train tracks.
 
