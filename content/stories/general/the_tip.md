@@ -60,4 +60,4 @@ BankaiBootyCall: 2 💀💀💀
 
 RIZZEDNUTLOV3R HAS TIPPED $4.99
 
-Carlos slumps in stunned disbelief as the fire emojis erupt. The blade slides across his neck, unfurling a curtain of velvet red. 
+Carlos slumps in stunned disbelief as the fire emojis erupt. The blade slides across his neck, unfurling a curtain of velvet red. Ω
