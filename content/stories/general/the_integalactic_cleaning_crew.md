@@ -194,4 +194,4 @@ Henry winced. "Thanks." He hobbled forward on one foot. "Can you help me to the 
 
 As the two men passed Boshra's body, a high-pitched gurgling arose from his stomach, legs, and arms.
 
-"Dagnabit," Henry said.
+"Dagnabit," Henry said. Ω
