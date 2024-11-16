@@ -21,8 +21,8 @@ Naturally she had to reply.
 **You're a dick.**
 
 His response:   
-😏  
-**I'm not hearing a no.**  
+>😏  
+>**I'm not hearing a no.**  
 
 "Dick," she muttered aloud, putting the phone aside. A notification chirped. She checked the screen.
 
