@@ -26,16 +26,16 @@ His response:
 
 "Dick," she muttered aloud, putting the phone aside. A notification chirped. She checked the screen.
 
-🐔 
+>🐔 
 
 She bit her lip.
 
 **Fine** She wrote back. **But you better not try anything. I come prepared.**
 
 His response:  
-**I bet you do.**  
-**And don't worry**  
-**I've got a bag set aside, just for you.** 😘
+>**I bet you do.**  
+>**And don't worry**  
+>**I've got a bag set aside, just for you.** 😘
 
 She smirked. "We'll see about that."
 
