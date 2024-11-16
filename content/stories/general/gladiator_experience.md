@@ -6,7 +6,7 @@ tags: ["farce"]
 mature: false
 extreme: false
 ---
-"Bro, did you see this? Airbnb and Paramount are teaming up for a 'GLADIATOR' experience. You get to fight in the colosseum for free!"
+Bro, did you see this? Airbnb and Paramount are teaming up for a 'GLADIATOR' experience. You get to fight in the colosseum for free!"
 
 "What, like the Russell Crowe movie?"
 
@@ -19,7 +19,9 @@ extreme: false
 "...nah, I don't trust that. There's always catch. Besides, I'm more of a Blade Runner guy."
 
 "C'mon bro. It's GLADIATOR. And it's free! What's the worst that could happen?"
+
 ---
+
 The crowd roars jubilant as the loincloth clad contestants circle one another, their open, sand-sodden wounds glistening in the harsh Roman sun. The larger man lunges, slicing his opponent's brow.
 
 "Aaaugh!" The smaller man slumps to his knees, blinded by the seeping claret. "Bro, please. I-I can't see. I can't feel my arm. I n-need a doctor..."
