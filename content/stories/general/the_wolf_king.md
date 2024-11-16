@@ -382,4 +382,4 @@ The Deer Mouse tugged on the rope and guided the Wolf King's pup away from the G
 
 "One day, I will teach you how to be a great Wolf, as your father once was. Today, however, I will teach you how to be a Deer Mouse, and that way, you will survive—for no matter who rules, my Lord, the mice have always survived!"
 
-The pup yapped and, with a carefree trot, happily followed the strange rodent down the mountain.
+The pup yapped and, with a carefree trot, happily followed the strange rodent down the mountain. Ω
