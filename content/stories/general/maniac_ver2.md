@@ -55,10 +55,10 @@ She was in high spirits 'til she got to the park. Then the Fear hit.
 A notification chirped.
 
 His message:  
-👁️   
-**I see you.**  
-**Come to the old bridge.**  
-**Or don't.** 
+>👁️   
+>**I see you.**  
+>**Come to the old bridge.**  
+>**Or don't.** 
 
 The old bridge spanned a 50 foot ravine, flanked by abandon train tracks.
 
