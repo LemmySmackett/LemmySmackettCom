@@ -3,6 +3,7 @@ title: "The Tip"
 date: 2024-11-12
 genres: ["horror"]
 length: "micro-fiction"
+series: "x/twitter"
 tags: ["farce"]
 mature: false
 extreme: false
