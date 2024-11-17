@@ -18,7 +18,7 @@ And he had the nerve to write that in response, like some kind of maniac!
 
 Naturally she had to reply.
 
-**You're a dick.**
+>**You're a dick.**
 
 His response:   
 >😏  
