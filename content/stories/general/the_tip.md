@@ -14,20 +14,20 @@ RIZZEDNUTLOV3R HAS TIPPED $5
 
 The chat revolts.
 
-<span>BankaiBootyCall: loser</span><br>
-<span>NoNutNaruto: what a ***</span><br>
-<span>JustSuperSayin: 💀💀💀</span><br>
+>BankaiBootyCall: loser
+>NoNutNaruto: what a ***
+>JustSuperSayin: 💀💀💀
 
 "Stay mad!" Carlos cackles, clapping his hands. "I don't even wipe my ass with five dollars bro. Abraham Lincoln will never MEET. THESE. CHEEKS."
 
 The stream goes dark. The chat keeps rolling.
 
-PAWGPunter: stream end? \
-SailorMoonMe: ?????  
+>PAWGPunter: stream end? \
+>SailorMoonMe: ?????  
 
 Five minutes later, the video comes back. Carlos is tied to his gamer chair, gagged and bound. A figure cloaked in flowing black, wearing a cartoonish furry fox head, stands behind. The blade of a machete rests against the millionaire's neck.
 
-Asstlevania: chat is this real?  
+>Asstlevania: chat is this real?  
 
 "Five dollars." A voice, distorted and modulated, drones on stream. "If anyone tips five dollars, he lives.'
 
@@ -37,10 +37,10 @@ Carlos' eyes, wild and wide, flick to his Twitch dashboard.
 
 For a moment, the chat halts. And then...
 
-BankaiBootyCall: nah, **** em  
-PAWGPunter: lmao 🔥🔥🔥  
-JustSuperSayin: stupid stunt  
-Asstlevania: Can I have the Aventador?  
+>BankaiBootyCall: nah, **** em  
+>PAWGPunter: lmao 🔥🔥🔥  
+>JustSuperSayin: stupid stunt  
+>Asstlevania: Can I have the Aventador?  
 
 Frantic, the muffled millionaire jerks in the chair, stomping his feet. "Mmmf! Mmmff MMMFFF!!!"
 
