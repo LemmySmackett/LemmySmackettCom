@@ -14,7 +14,7 @@ RIZZEDNUTLOV3R HAS TIPPED $5
 
 The chat revolts.
 
-<p>BankaiBootyCall: loser</p>
+<span>BankaiBootyCall: loser</span><br>
 <p>NoNutNaruto: what a ***</p>
 <p>JustSuperSayin: 💀💀💀</p>
 
