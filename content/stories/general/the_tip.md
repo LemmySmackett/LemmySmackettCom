@@ -15,7 +15,7 @@ R**IZZEDNUTLOV3R HAS TIPPED $5**
 The chat revolts::
 
 >**BankaiBootyCall:** loser  
-><strong>NoNutNaruto:** what a ***   
+><strong>NoNutNaruto:</strong> what a ***   
 >**JustSuperSayin:** 💀💀💀   
 
 "Stay mad!" Carlos cackles, clapping his hands. "I don't even wipe my ass with five dollars bro. Abraham Lincoln will never MEET. THESE. CHEEKS."
