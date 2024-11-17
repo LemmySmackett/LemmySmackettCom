@@ -22,8 +22,8 @@ BankaiBootyCall: loser
 
 The stream goes dark. The chat keeps rolling.
 
-PAWGPunter: stream end?  
-nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SailorMoonMe: ?????  
+PAWGPunter: stream end?<br>
+SailorMoonMe: ?????  
 
 Five minutes later, the video comes back. Carlos is tied to his gamer chair, gagged and bound. A figure cloaked in flowing black, wearing a cartoonish furry fox head, stands behind. The blade of a machete rests against the millionaire's neck.
 
