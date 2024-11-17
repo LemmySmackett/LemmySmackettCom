@@ -54,10 +54,10 @@ Beads of sweat cascade down Carlos' temple. His blood runs cold.
 
 The chat joins in.
 
-LuffyHumps: 5  
-Asstlevania: 4 :pogchamp:  
-GarfieldGuzzler: 3  
-BankaiBootyCall: 2 💀💀💀  
+>LuffyHumps: 5  
+>Asstlevania: 4 :pogchamp:  
+>GarfieldGuzzler: 3  
+>BankaiBootyCall: 2 💀💀💀  
 
 RIZZEDNUTLOV3R HAS TIPPED $4.99
 
