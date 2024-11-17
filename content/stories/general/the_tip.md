@@ -8,7 +8,7 @@ tags: ["farce"]
 mature: false
 extreme: false
 ---
-RIZZEDNUTLOV3R HAS TIPPED $5
+R**IZZEDNUTLOV3R HAS TIPPED $5**
 
 "Five dollars? FIVE DOLLARS?!" The millionaire streamer Carlos "RizzDeezNuts" Fetz flips the bird at his 50,000 viewers. "Just piss in my eye, for real bro. What is that? Five dollars—it takes 90 dollars to fill the tank in my Aventador, bro. How broke are your bitches?"
 
@@ -59,6 +59,6 @@ The chat joins in.
 >GarfieldGuzzler: 3  
 >BankaiBootyCall: 2 💀💀💀  
 
-RIZZEDNUTLOV3R HAS TIPPED $4.99
+**RIZZEDNUTLOV3R HAS TIPPED $4.99**
 
 Carlos slumps in stunned disbelief as the fire emojis erupt. The blade slides across his neck, unfurling a curtain of velvet red. Ω
