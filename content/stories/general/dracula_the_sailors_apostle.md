@@ -74,6 +74,6 @@ While I contended with total disorientation, baffled as I was at this strange, a
 
 He cracked the tab on another can of spinage, a queer smile splitting his thin lips as he raised his forearm, revealing there, tattooed  upon his pallid flesh, a dreadful anchor!
 
-"*He* is my master now." Ω
+"**He** is my master now." Ω
 
 
