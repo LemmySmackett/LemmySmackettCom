@@ -46,7 +46,7 @@ There he knelt, his fangs bare, glistening ivory white, longing to sink into the
 
 **—TING—**
 
-A sound like a silver spoon striking a pewter platter sounded in the room.
+A sound like a silver spoon striking a pewter platter resounded in the room.
  
 The Count jerked back and discovered, to his and Renfield's collective shock, that his fangs had sunk into the lid of a spinage can. All the more surprising was the identity of the occupant of the bed; for the face staring back at the count was not that of Lady Olive Oyl, indeed no lady at all, but the gruff visage of a seafaring man with a corncob pipe perched at the corner of his mouth. More shocking still, he lay clad in a woman's sleeping gown!
 
