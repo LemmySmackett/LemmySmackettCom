@@ -1,5 +1,5 @@
 ---
-title: "DRACULA:The Sailor's Apostle"
+title: "DRACULA: The Sailor's Apostle"
 date: 2024-11-17
 genres: ["horror","parody"]
 length: "micro-fiction"
