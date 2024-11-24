@@ -67,6 +67,6 @@ Her face darkens. "Don't."
 
 "Oh damn." The Eldritch Abomination recedes, lifting his innumerable tentacles. "Leave me out."
 
-"Richard, this isn't about that. You're enough. And you'll always be precious to me."
+"Richard, this isn't about that. You're enough." She lays a hand on his chest. "And you'll always be precious to me."
 
 "Yeah, but I'll never be *prehensile*." Ω
