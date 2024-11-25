@@ -14,9 +14,9 @@ Deep within the old forest, a portal of golden, shimmering light opened at the b
 
 She leaned forward and slipped, tumbling into an infinite abyss, screaming the whole way down.
 
-*Tumbling tumbling tumbling.*
-*Tumbling tumbling tumbling.*
-*Tumbling tumbling tumbling.*
+*Tumbling tumbling tumbling.*  
+*Tumbling tumbling tumbling.*  
+*Tumbling tumbling tumbling.*  
 
 Emma stopped screaming. "Well this is getting a bit ol—oh!"
 
