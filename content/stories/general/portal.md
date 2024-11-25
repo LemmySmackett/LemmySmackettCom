@@ -20,7 +20,8 @@ She leaned forward and slipped, tumbling into an infinite abyss, screaming the w
 
 Emma stopped screaming. "Well this is getting a bit ol—oh!"
 
-She found herself standing in a lobby, no longer falling. She guessed gravity had gotten bored as well. A ticket dispensing machine sat before her. The sign on it said: **TAKE ONE**
+She found herself standing in a lobby, no longer falling. She guessed gravity had gotten bored as well. A ticket dispensing machine sat before her.  
+The sign on it said: **TAKE ONE**  
 
 She took a ticket. The ticket read: **PF1429**
 
