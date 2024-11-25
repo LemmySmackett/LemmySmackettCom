@@ -1,6 +1,6 @@
 # LemmySmackett.com
 
-**LemmySmackett.com** is a personal website built using [Hugo](https://gohugo.io/), a fast and flexible static site generator. The site showcases short stories, writings, and various other content, styled in a minimalist design inspired by Gwern.net.
+**LemmySmackett.com** is a personal website built using [Hugo](https://gohugo.io/), a fast and flexible static site generator. The site showcases short stories, writings, and various other content, styled in a minimalist design.
 
 ## Features
 - **Static Site**: Built using Hugo, the site is pre-rendered for speed and performance.
