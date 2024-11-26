@@ -73,3 +73,5 @@ As I blacked out, I thought about all the Brazilian Miku lewds I was missing on 
 -----------------------
 
 𝐓𝐡𝐞 𝐀𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞 𝐁𝐞𝐠𝐢𝐧𝐬! 𝘙𝘦𝘢𝘥 𝘵𝘩𝘦 𝘳𝘦𝘴𝘵 𝘪𝘯 𝗖𝗔𝗡 𝗜 𝗥𝗘𝗔𝗟𝗟𝗬 𝗚𝗘𝗧 𝗧𝗛𝗘 𝗖𝗛𝗔𝗜𝗥 𝗙𝗢𝗥 𝗞𝗜𝗟𝗟𝗜𝗡𝗚 𝗔 𝗚𝗢𝗕𝗟𝗜𝗡?
+
+Currently featured on: Royal Road as part of Lemmy Smackett's Reader Roulette 
