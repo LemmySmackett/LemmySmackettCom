@@ -17,7 +17,7 @@ She leaned forward and slipped, tumbling into an infinite abyss, screaming the w
 *Tumbling tumbling tumbling.*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *Tumbling tumbling tumbling.*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *Tumbling tumbling tumbling.*  
 
 Emma stopped screaming. "Well this is getting a bit ol—oh!"
