@@ -15,7 +15,7 @@ Deep within the old forest, a portal of golden, shimmering light opened at the b
 She leaned forward and slipped, tumbling into an infinite abyss, screaming the whole way down.
 
 *Tumbling tumbling tumbling.*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *Tumbling tumbling tumbling.*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *Tumbling tumbling tumbling.*  
