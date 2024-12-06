@@ -13,6 +13,7 @@ As the ambulance siren blares, the battered cyclist howls in kind, writhing on t
 "Sir!" The paramedic leans in, clamping the flailing limbs with practiced force. "Sir, can you hear me? I need you to—"
 
 "You hit me!" The cyclist shrieks. "You maniacs hit me!"
+
 "Sir, you were attempting to cross 𝒆𝒊𝒈𝒉𝒕 lanes of traffic."
 
 "I'll sue!" The cyclist spat. "I'll take you for all your worth!"
