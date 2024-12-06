@@ -45,6 +45,7 @@ The paramedic prods the purple-black bloom of his bruised stomach. "How many kid
 "I don't know!" The cyclist blurts out in confusion. "Two?!"
 
 The paramedic dons gloves, masks up, and pulls a scalpel from his trauma bag. "We can work with that." He flicks the blade.
+
 The cyclist's eyes widen in horror. "What are y—"
 
 "Of course, I have to warn you: this may not cover the full bill." The paramedic leans in and pulls down the mask. "Damaged goods and all." Ω
