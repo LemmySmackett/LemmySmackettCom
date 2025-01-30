@@ -1,7 +1,7 @@
 baseURL = "https://lemmysmackett.com/"
 languageCode = "en-us"
 title = "Lemmy Smackett"
-theme = "gwern-like"
+theme = "smackett"
 
 [menu]
   [[menu.main]]
