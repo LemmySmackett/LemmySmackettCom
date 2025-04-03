@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Ma'am. Ma'am!" The rotund TSA agent snaps his fingers. "I'm gonna need you to remove your shoes." His tone is curt and demanding. His name tag reads: Darnell Darius Huff.
+Ma'am. Ma'am!" The rotund TSA agent snaps his fingers. "I'm gonna need you to remove your shoes." His tone is curt and demanding. His name tag reads: Darnell Darius Huff.
 
 "Oh." 26-year-old Trixie Stompette glances at the uniformed man, then down at her tasteful Michael Kors flats. "I thought we didn't need to do that anymore."
 

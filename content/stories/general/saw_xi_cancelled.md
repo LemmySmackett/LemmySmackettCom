@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 Hours later, Jamal stirs, and finds himself bound to an old wooden chair. His panicked eyes search the surrounding abyss while the stench of mold and decay cling to his flaring nostrils.

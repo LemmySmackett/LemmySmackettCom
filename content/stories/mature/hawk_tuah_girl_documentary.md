@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-[Somber Voice Over] Abraham Lincoln. Martin Luther King. Barack Obama. Throughout history—in stirring speeches, firebrand sermons, and passionate proclamations—the Spoken Word has changed and directed the course of human civilization for tens of thousands of years. On June 11, 2024, a Tim & Dee TV video was posted to the vox pop YouTube channel, where a 21-year-old Tennessee blonde spring factory worker changed the course of 𝙤𝙪𝙧 civilization—with six simple worlds.
+Somber Voice Over] Abraham Lincoln. Martin Luther King. Barack Obama. Throughout history—in stirring speeches, firebrand sermons, and passionate proclamations—the Spoken Word has changed and directed the course of human civilization for tens of thousands of years. On June 11, 2024, a Tim & Dee TV video was posted to the vox pop YouTube channel, where a 21-year-old Tennessee blonde spring factory worker changed the course of 𝙤𝙪𝙧 civilization—with six simple worlds.
 
 [Video Clip] "Hawk Tuah, spit on that thang!"
 
