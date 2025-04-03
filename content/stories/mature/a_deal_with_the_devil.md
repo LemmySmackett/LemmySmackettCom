@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"WHO WOULD EVER DATE YOU, CREEP?!"
+WHO WOULD EVER DATE YOU, CREEP?!"
 
 The buxom blonde tosses the resplendent red rose on the sidewalk and crushes it beneath her six inch Michael Kors heel.
 
