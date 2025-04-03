@@ -60,8 +60,4 @@ The puppet coughs  "...you could just get your GED."
 
 Jamal snatches a lock off the floor and chucks it. "Man, shut the fuck up!"
 
-The lock sails through the air and takes the puppet's little white head clean off.
-
----
-
-Leaked scene from the cancelled 𝗦𝗔𝗪 𝟭𝟭 script. Ω
+The lock sails through the air and takes the puppet's little white head clean off. Ω
