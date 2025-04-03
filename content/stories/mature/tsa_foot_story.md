@@ -94,4 +94,3 @@ Trixie glances at the door then back at her phone. 300 likes. Then 500. A thousa
 Once settled, Trixie slips off her shoe, snaps another pic, and uploads. Once more, the likes roll in. She giggles with delight.
 
 "Well look at those." The Elderly man sitting beside her leans over, a smirk playing on his thin lips. "You know how to blow 'em away, don't you honey?" Ω
-
