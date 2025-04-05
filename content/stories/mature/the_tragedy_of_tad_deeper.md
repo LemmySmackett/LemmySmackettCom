@@ -1,3 +1,13 @@
+---
+title: "The Tragedy of Tad Deeper"
+date: 2025-04-04
+genres: ["sci-fi"]
+length: "micro-fiction"
+tags: ["farce"]
+series: "x/twitter"
+mature: true
+extreme: false
+---
 In the year 2045, bearded vegetable Tad Deeper jerks awake from a 20 year coma. Panicked, disoriented, his sunken eyes flit, sweeping the foreign white room: a ticking clock, a red call button remote, a muted TV mounted high in the corner—flickering with an ancient Maury rerun. A dry antiseptic smell clings to the nostrils. A nearby vital sign monitor beeps. Beneath his gaunt body, an adjustable medical bed with plain white sheets. The rails are up.
 
 "Where am I?" Tad croaks.
