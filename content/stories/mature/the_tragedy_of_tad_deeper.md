@@ -16,7 +16,7 @@ In the year 2045, bearded vegetable Tad Deeper jerks awake from a 20 year coma. 
 
 "Ah!" Tad recoils from the app-scrolling college-aged youth sitting on a vinyl chair beside him. "Who are you?!"
 
-The youth doesn't look up. "You're son."
+The youth doesn't look up. "Your son."
 
 "My...son?" Tad squints and sees himself. Or rather, who he used to be. "My God," he says. "Your face. This beard. I must have been in a coma for—"
 
