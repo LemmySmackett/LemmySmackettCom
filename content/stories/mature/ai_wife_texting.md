@@ -72,7 +72,7 @@ extreme: false
 
 "Man this shit sounds illegal!"
 
-"That's beautiful part! It's not!"
+"That's the beautiful part! It's not!"
 
 "You're telling me you let some godless, soulless machine digitally skinsuit your dumbass so it can sweet talk your girl while jilling her bean from halfway across town?"
 
