@@ -1,5 +1,5 @@
 ---
-title: "SEINFELD: Why VTuber Wear Tails"
+title: "SEINFELD: Why VTubers Wear Tails"
 date: 2025-04-17
 genres: ["parody"]
 length: "micro-fiction"
