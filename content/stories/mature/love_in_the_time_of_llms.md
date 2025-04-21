@@ -124,7 +124,7 @@ She scowls, seething. "Does the AI tell you how to put your 𝙙𝙞𝙘𝙠 on 
 
 Doug furrows his brow. "You want me to ask ChatGPT how  to find dick in this room? That's a little too context specific, don't you think?"
 
-"You're dick!" She seizes his collar with both hands. "I want to suck your dick! I'm flirting with you, you idiot!"
+"Your dick!" She seizes his collar with both hands. "I want to suck your dick! I'm flirting with you, you idiot!"
 
 "...oh."
 
