@@ -1,3 +1,13 @@
+---
+title: "STAR WARS: From Naboo with Love (and Fascism)"
+date: 2025-04-27
+genres: ["parody"]
+length: "micro-fiction"
+tags: ["farce"]
+series: "x/twitter"
+mature: true
+extreme: false
+---
 Sun-warm and silent, Anakin and Padmé lounge in a field of flowing grass on the planet Naboo, drifting in the reverie of carefree lovers.
 
 Padmé punctuates the perfect moment with a question. "You really don't believe in democracy?"
