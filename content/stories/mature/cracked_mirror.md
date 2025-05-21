@@ -1,6 +1,6 @@
 ---
 title: "Cracked Mirror"
-date: 2024-04-16
+date: 2025-04-16
 genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
