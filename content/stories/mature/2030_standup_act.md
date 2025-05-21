@@ -66,6 +66,6 @@ You hit the pause button, and the world freezes. The AI-Generated comedian stand
 
 With a resigned sigh, you clear the current generation prompt [(Black standup comedian talks about how Monday's suck, in the style of Dave Chappel and Chris Rock)] and type in a new prompt, the one you always use to lull yourself to sleep:
 
-[(Big Titty Hucow Goth Mommy lovingly feeds you milky milky from her giant size K udders while Sydney Sweeney sings a French lullaby in a string bikini, and then they both jerk you off together with their feet—also Sydney Sweeney is a catgirl and please give her those little jelly been cat pads on her paws for extra grip. No claws.)]
+[(Big Titty Hucow Goth Mommy lovingly feeds you milky milky from her giant size K udders while Sydney Sweeney sings a French lullaby in a string bikini, and then they both jerk you off together with their feet—also Sydney Sweeney is a catgirl and please give her those little jelly bean cat pads on her paws for extra grip. No claws.)]
 
 You snuggle into bed and, with a sigh of serenity, hit play.
