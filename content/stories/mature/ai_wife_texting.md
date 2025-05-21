@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-𝑩𝒁𝒁𝒁-𝑩𝒁𝒁𝒁
+B𝒁𝒁𝒁-𝑩𝒁𝒁𝒁
 
 "Ugh."
 
