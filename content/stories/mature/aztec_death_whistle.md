@@ -1,3 +1,13 @@
+---
+title: "Aztec Death Whistle"
+date: 2025-05-19
+genres: ["parody"]
+length: "micro-fiction"
+tags: ["farce"]
+series: "x/twitter"
+mature: true
+extreme: false
+---
 Jesus Christ! Danny blew this Aztec Death Whistle, and it summoned the murderous spirit of an ancient Huitzilopochtli priest!"
 
 "Bro, I know."
