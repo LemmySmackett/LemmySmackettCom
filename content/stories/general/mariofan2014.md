@@ -1,3 +1,13 @@
+---
+title: "MarioFan2014"
+date: 2025-05-25
+genres: ["parody"]
+length: "micro-fiction"
+tags: ["farce"]
+series: "x/twitter"
+mature: false
+extreme: false
+---
 STREAMER, YOUR MTN DEW® CODE RED® LOGO IS NO LONGER DETECTED. REMOVE ANY BRANDING OBSTRUCTION WITHIN THE NEXT 30 SECONDS OR YOUR SPONSORSHIP WILL BE TERMINATED. 
 
 MarioFan2014 stares into the camera and smirks. "No." 
