@@ -14,9 +14,9 @@ MarioFan2014 stares into the camera and smirks. "No."
 
 The Chat erupts. 
 
->**GyattRizzler69:** lmao based
->**Asstlevania:** what a mad lad
->**BankaiBootyCall:** don't p*ssy out 
+>**GyattRizzler69:** lmao based  
+>**Asstlevania:** what a mad lad  
+>**BankaiBootyCall:** don't p*ssy out  
 
 Within the PepsiCo licensed streaming pod, a gunner turret lowers from the ceiling.
 
@@ -24,9 +24,9 @@ STREAMER, YOU ARE IN VIOLATION OF YOUR BRANDING AGREEMENT. YOUR CONTRACT WILL BE
 
 As the AI voice counts down, the chat joins in. MarioFan2014 never looks away from the stream. Never blinks. 
 
->**GyattRizzler69:** 5! 
->**Asstlevania:## 4! 
->**PAWGPunter:## 3 😩
+>**GyattRizzler69:** 5!  
+>**Asstlevania:## 4!  
+>**PAWGPunter:## 3 😩  
 >**BankaiBootyCall:** 2 :pogchamp:
 >**NoNutNaruto:** holy **** 
 
