@@ -44,7 +44,7 @@ Jake rubs his whitened nose. “To show the Colombians I’m not racist.”
 
 “What?”
 
-“The President of Columbia said that cocaine is no worse than whiskey and the only reason it’s illegal is because Americans are racist against South America.”
+“The President of Colombia said that cocaine is no worse than whiskey and the only reason it’s illegal is because Americans are racist against South America.”
 
 “You’re not allowed to drink whiskey in here either!”
 
