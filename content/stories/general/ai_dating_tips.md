@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Man, fuck AI!"
+Man, fuck AI!"
 
 "Hm? AI?"
 
