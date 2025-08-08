@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Dude, have you seen this? The number one app in the world is Yelp for Dudes."
+Dude, have you seen this? The number one app in the world is Yelp for Dudes."
 
 "Eh?"
 
