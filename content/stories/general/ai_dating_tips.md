@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 Man, fuck AI!"
