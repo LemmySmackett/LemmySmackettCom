@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 Raul Almeida sat in the cramped confessional, sweat beading his nervous brow. He exhaled long and slow, attempting to quell the beating of his heart.
