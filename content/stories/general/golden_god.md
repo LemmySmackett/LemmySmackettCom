@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 The year is 3032 A.D. 
