@@ -1,6 +1,6 @@
 ---
 title: "Light Saber Control"
-date: 2025-06-25
+date: 2025-06-28
 genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
