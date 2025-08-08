@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Okay, so imagine a magic button."
+Okay, so imagine a magic button."
 
 "I'm imagining the button."
 
