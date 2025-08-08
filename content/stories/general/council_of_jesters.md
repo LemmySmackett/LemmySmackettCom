@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 You are on this council," the Grand-Jester decreed. "But we do not grant you the rank of Court Jester."
