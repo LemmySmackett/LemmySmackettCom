@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 In a Minnesota dispatch center, an operator picks up the line. "Hello, this is 911. What's your emergency?"
