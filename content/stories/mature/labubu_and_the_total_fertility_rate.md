@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Oh my God, Tiffany~~ It's been so long!" Outside a chic downtown café, two women in their late twenties—a blonde and a brunette—embrace.
+Oh my God, Tiffany~~ It's been so long!" Outside a chic downtown café, two women in their late twenties—a blonde and a brunette—embrace.
 "I haven't seen you since high school!"
 
 "I know! I know! Oh Wendy, where does the time go?"
