@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"You are on this council," the Grand-Jester decreed. "But we do not grant you the rank of Court Jester."
+You are on this council," the Grand-Jester decreed. "But we do not grant you the rank of Court Jester."
 
 "What?" Anakin's skirt bells jingled with indignation. "How can you do this? This is outrageous! It's unfair!"
 
