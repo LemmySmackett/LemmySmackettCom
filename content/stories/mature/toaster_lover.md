@@ -1,3 +1,13 @@
+---
+title: "Toaster Lover"
+date: 2025-06-25
+genres: ["parody"]
+length: "micro-fiction"
+tags: ["farce"]
+series: "x/twitter"
+mature: true
+extreme: false
+---
 With a defeated sigh, Edith Plummer lowers the framed canvas of Aida cloth and sets her tapestry needle down."Oh, I can't take it anymore."
 
 Her husband Darryl doesn't respond. A living corpse, he lies beside her in beatific repose, reclined in a La-Z-Boy PlezzR. In generations past, a man of his habits would be rotund, slovenly even, but advancements in incretin mimetics have kept him fit and thin. A plastic pearl white egg cocoons his head—an Apple DreamShell G3, the latest in multi-sensory somatic immersion.
