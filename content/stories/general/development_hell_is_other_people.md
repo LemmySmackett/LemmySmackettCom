@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 On a famous studio lot in Hollywood California, a lacquered-hair, flint-eyed Executive enters a packed meeting room and snaps his fingers. "Okay people. I need reboots and big-name directors. You know the criteria—I'm  looking for the worst of the worst. Pure dogshit pitches. Go."
