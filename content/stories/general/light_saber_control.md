@@ -5,7 +5,7 @@ genres: ["parody"]
 length: "micro-fiction"
 tags: ["farce"]
 series: "x/twitter"
-mature: true
+mature: false
 extreme: false
 ---
 Surrounded by the last remnants of the Resistance, a weary Poe Dameron takes a deep breath. "Somehow," he sighs. "Palpatine returned..."
