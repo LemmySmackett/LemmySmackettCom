@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"Hello, you've reached the technical support line for Bende & TuckIt, a subsidiary of Absolute Assurance Shanzhai. This is David speaking. Please state your name and the product you're calling about today."
+Hello, you've reached the technical support line for Bende & TuckIt, a subsidiary of Absolute Assurance Shanzhai. This is David speaking. Please state your name and the product you're calling about today."
 
 "Uh, hi, I'm Cheryl. Cheryl Carlyle."
 
