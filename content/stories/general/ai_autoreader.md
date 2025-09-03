@@ -34,7 +34,7 @@ extreme: false
 
 "Oh? What's his genre?"
 
-"Topical near-future techno-social-horror dystopia rife with creeping dread, revolting absurdity, and existential malaise—"
+"Topical near-future techno-social-horror dystopia rife with creeping dread, barely veiled fetishes, and existential malaise—"
 
 "Uh."
 
