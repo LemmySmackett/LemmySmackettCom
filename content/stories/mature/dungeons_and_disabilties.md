@@ -1,6 +1,6 @@
 ---
 title: "Dungeons & Disabilities"
-date: 2035-08-17
+date: 2025-08-17
 genres: ["sci-fi"]
 length: "short-story"
 mature: true
