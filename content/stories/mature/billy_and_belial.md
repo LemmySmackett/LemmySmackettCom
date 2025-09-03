@@ -1,5 +1,5 @@
 ---
-title: "Billy and Belial
+title: "Billy and Belial"
 date: 2025-08-30
 genres: ["parody"]
 length: "micro-fiction"
