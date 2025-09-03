@@ -1,5 +1,5 @@
 ---
-title: "At the Tesla Drive-In"
+title: "At the Tesla Diner"
 date: 2025-07-29
 genres: ["parody"]
 length: "micro-fiction"
