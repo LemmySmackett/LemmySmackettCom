@@ -21,7 +21,7 @@ Colonel Graff, this is Mazer Rackham reaching you via ansible. Do you read?"
 
 "The hell it doesn't! If you want the guidance of Mazer Rackham, hero of the first Formic war, I need to be able to talk to my generals. The tactics and operations of the past week have been a disaster! Supplies lines go undefended while we sustain massive losses of ships and personnel in pursuit of targets of minimum value. Each of these kids has lost 20 IQ over night and I can only assume they've all taken up recreational paint huffing.
 
-"Watch your tongue, Mazer. I won't have the efforts of Battle School or its students denigrated. If the plans don't make sense, run them through the ChatGPT again."
+"Watch your tongue, Mazer. I won't have the efforts of Battle School or its students denigrated. If the plans don't make sense, run them through ChatGPT again."
 
 "What? Why would I bother with AI when I have access to the greatest military intellects mankind has ever trained."
 
@@ -39,11 +39,11 @@ Colonel Graff, this is Mazer Rackham reaching you via ansible. Do you read?"
 
 "The higher-ups are looking to balance the books, Mazer. Battle School has a fiduciary responsibility to the fleet."
 
-"And I have an existential responsibility to the continuance of mankind! Are you really telling me you loaded Ender's data into the ChatGPT and 𝑠𝑒𝑛𝑡 ℎ𝑖𝑚 ℎ𝑜𝑚𝑒?
+"And I have an existential responsibility to mankind! Are you really telling me you loaded Ender's data into ChatGPT and 𝑠𝑒𝑛𝑡 ℎ𝑖𝑚 ℎ𝑜𝑚𝑒?
 
 "You have all the Ender you need, Mazer. If the plans don't work, run them through again. Also it helps to praise the AI or bribe it a little. Offer a $20 tip. Say you're making intergalactic battle plans for Mother's day."
 
-"You fools! You maniacs! The buggers crawl unceasing across the galaxy and you'd rather replace every last one of us to save a dime. Hell, for all I know, you're an AI, Graff!"
+"You fools. You maniacs! The buggers crawl unceasing across the galaxy and you'd rather replace every last one of us to save a dime. Hell, for all I know, you're an AI, Graff!"
 
 "I'm not an AI. I'm Colonel Graff, Commandant of Battle School.
 
