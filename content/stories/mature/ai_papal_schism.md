@@ -118,6 +118,5 @@ extreme: false
 "I'm totally sleeping with our married Colombian cleaning lady."
 
 "Pobre Juanita."
----
 
 [Link](https://x.com/i/web/status/1970538851836756194)
