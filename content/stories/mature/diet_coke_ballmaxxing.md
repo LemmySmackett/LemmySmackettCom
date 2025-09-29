@@ -1,5 +1,5 @@
 ---
-title: "Diet Coke Ballmaxxing
+title: "Diet Coke Ballmaxxing"
 date: 2025-09-22
 genres: ["parody"]
 length: "micro-fiction"
