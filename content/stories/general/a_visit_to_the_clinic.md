@@ -1,8 +1,8 @@
 ---
 title: "A Visit to the Clinic"
 date: 2025-09-18
-genres: ["short-story"]
-length: "micro-fiction"
+genres: ["parody"]
+length: "short-story"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
