@@ -1,5 +1,5 @@
 ---
-title: "The Intergalactic Cleaning Crew"
+title: "The Intergalactic Cleaning Crew: Rise and Die"
 date: 2024-11-07
 genres: ["sci-fi"]
 length: "short-story"
