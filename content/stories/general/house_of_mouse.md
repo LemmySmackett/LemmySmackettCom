@@ -33,4 +33,18 @@ The quill swooped across the page, unimpeded.
 
 "Is there any love in your heart? For anything in this world?" She pressed a hand to her chest, gazing at her husband from across the yawning gulf. "If there is none for me, so be it. Though I have lived these years in deprivation, I have never known want. Your father's coffers are as wide as any ocean, and reach to the depths of hell itself. Such breadth is matched only by your appetite for my misery and humiliation." Her voice rose, quivering. "But if only I knew...that you loved anyone...anything at all..then I might...I might..."
 
-Her sobs gave way to the scratching of the pen. In time, the hour struck. When at last the work was finished, he turned in his seat, and found her gone. Ω
+Her sobs gave way to the scratching of the pen. In time, the hour struck. When at last the work was finished, he turned in his seat, and found her gone. 
+
+***
+
+In a suburban living room, a 13-year-old girl turns to her father. "So what do you think?"
+
+Sitting in a recliner with a Modelo in hand, the man blinks. "What the hell kinda cartoon was that?"
+
+The girl rolls her eyes. "I made it, Dad. With AI!"
+
+The father blinks. "You made that?"
+
+"Uh-huh. I based it on Jane Austen. And the way you talk to Mom," she says. "So what do you think?"
+
+"What do I think?" The man snorts. "I think I'm putting your ass back on Cocomelon."
