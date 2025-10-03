@@ -8,7 +8,7 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
-"I can't believe it, Martha."
+I can't believe it, Martha."
 
 "What's that, Henry?"
 
