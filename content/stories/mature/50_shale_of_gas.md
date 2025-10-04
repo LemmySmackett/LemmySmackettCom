@@ -16,7 +16,7 @@ The nubile blonde bites her lip and shakes her head.
 
 Her brow knits. "What crop dus-" Her lips pucker, her nose wrinkles—the acrid stench guts her nostrils like a derrick boring the earth.
 
-He cants his head. "Hm?"
+He tilts his head. "Hm?"
 
 "No," she chokes out, eyes wide and watering. 
 
