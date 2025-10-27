@@ -87,4 +87,4 @@ Theo glances between her blank expression and her perky bug bite nipples. "Motob
 
 She nods.
 
-He kneels and plants his nose in her cleavage with a defeated sigh. "Motorboat bait."
+He kneels with a defeated sigh and plants his nose in her cleavage. "Motorboat bait."
