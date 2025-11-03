@@ -13,7 +13,7 @@ Hey bro, can I use your computer real quick? I need to ask ChatGPT something."
 
 "What? Don't you have a phone?"
 
-"Yeah, but AI companies tracks every word you type, the government legally requires them to keep every question you ask, and the AI itself automatically scans and cross-references the conversation backlog to detect and report any criminal offenses—or probable intent to commit criminal offenses—to the Feds and local authorities."
+"Yeah, but AI companies track every word you type, the government legally requires them to keep every question you ask, and the AI itself automatically scans and cross-references the conversation backlog to detect and report any criminal offenses—or probable intent to commit criminal offenses—to the Feds and local authorities."
 
 "What? That's not true."
 
