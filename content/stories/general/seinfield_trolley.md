@@ -43,6 +43,10 @@ Kramer scoffs. "Come on, Jerry. That’s not even a choice."
 
 "They can't make me do it, Jerry!" Kramer yelps, his voice a manic tremor. "I don’t even know how to drive!" 
 
+"What? Kramer you drive all the time."
+
+"Not over culturally iconic, universally beloved mallards, Jerry!"
+
 Seinfeld stands up and walks over to calm his friend. "Easy buddy, easy! It's just a hypothetical. A thought experiment. Nobody is tying Daffy Duck or anybody else to any trolley tracks. I promise."
 
 Constanza bursts through the door, drenched in blood and black feathers. "Hide me." Ω
