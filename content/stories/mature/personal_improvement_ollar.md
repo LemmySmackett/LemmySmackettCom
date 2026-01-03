@@ -31,7 +31,7 @@ She leaned forward, pointing at the jewelry. "See?"
 
 I blinked, hardly following. "I'm sorry. Personal improvement collars?"
 
-She nodded. "Our Prime Minister says that a strong, moral society is founded on a strong, moral citizenry. The Eyes are always watching, ensuring that we never falter in our duty to our fellow man." She gestured to a black surveillance dome overhead. One I hadn't even noticed it. "If a citizen commits a serious crime, a steady series of electric shocks will incapacitate them until the authorities arrive. For minor offenses like littering and bad posture, we just get a little buzz. Oh, and an automatic fine for repeat offenses."
+She nodded. "Our Prime Minister says that a strong, moral society is founded on a strong, moral citizenry. The Eyes are always watching, ensuring that we never falter in our duty to our fellow man." She gestured to a black surveillance dome overhead. One I hadn't even noticed. "If a citizen commits a serious crime, a steady series of electric shocks will incapacitate them until the authorities arrive. For minor offenses like littering and bad posture, we just get a little buzz. Oh, and an automatic fine for repeat offenses."
 
 "My God," I said. "I didn't realize this place was such a dictatorship."
 
