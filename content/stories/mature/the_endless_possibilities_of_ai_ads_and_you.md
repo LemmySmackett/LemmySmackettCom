@@ -8,85 +8,96 @@ series: "x/twitter"
 mature: true
 extreme: false
 ---
+“Hey bro, can I use your computer real quick? I need to ask ChatGPT something."
 
-Hey bro, can I use your computer real quick? I need to ask ChatGPT something."
+“What? Don’t you have a phone?”
 
-"What? Don't you have a phone?"
+“Yeah, but AI companies track every word you type, the government legally requires them to retain every message you send, and the AI itself automatically and continuously scans and cross-references your entire conversation backlog of embarrassing and potentially reputation-destroying queries to detect and report any criminal offenses—or probable intent to commit criminal offenses—to the Feds, state, and/or local authorities.”
 
-"Yeah, but AI companies track every word you type, the government legally requires them to keep every question you ask, and the AI itself automatically scans and cross-references the conversation backlog to detect and report any criminal offenses—or probable intent to commit criminal offenses—to the Feds and local authorities."
+“What?”
 
-"What? That's not true."
+“Depending on jurisdiction, of course."
 
-"Okay, so you don't mind if I—"
+“That’s not true.”
 
-"Nope!"
+“Okay, so you don’t mind if I—”
 
-"Come on, man. I just need to ask ChatGPT what a good synonym for callipygian is."
+“Nope!”
 
-"Ugh, fine. Make it quick."
+“Come on, man. I just need to ask ChatGPT what a good synonym for callipygian is.”
 
-"Thanks. Oh, hey, you're getting ads." 
+“Ugh, fine. Make it quick.”
 
-"Ads?"
+“Thanks. Oh hey, you’re getting ads.”
 
-"Yeah, I heard about this. The free tier gets ads now. They're hyper-targeted based on your conversation history."
+“Ads?”
 
-"Uh, maybe you should—"
+“Yeah, I heard about this. The free tier gets ads now. They’re targeted based on your conversation history.”
 
-"First ad: striped pink knee socks. They look nice enough. What were you—"
+“Uh, maybe you should—”
 
-"My sister!"
+“First ad: striped pink knee socks. They look nice. What were you—”
 
-"Huh?"
+“My sister!”
 
-"Those are for my sister."
+“Huh?”
 
-"Aah. You know, she could definitely rock these."
+“Those are for my sister.”
 
-"Hey."
+“Ah. You know, that muscle mommy mamacita could definitely rock these.”
 
-"I'm serious! Ever since she started hitting the gym, I've dreamed bi-nightly of her supple, iron-thewed thighs cracking my skull like a cantaloupe."
+“Hey.”
 
-"Bro."
+“I’m serious! Ever since that lean beef baddie started hitting the gym, I’ve dreamed bi-nightly of her supple, iron-thewed thighs cracking my skull like a softly rotting cantaloupe.”
 
-"Second ad: a matching string bikini for the knee socks."
+“Bro.”
 
-"Um, still for my sister?"
+“Second ad:—"
 
-"Checks out. Nothing more wholesome than loving siblings buying barely-there beachwear for each other."
+"Wait, is bi-nightly twice a night or every other night?"
 
-"Haha, yeah. So if you could just log out—"
+"—a matching string bikini for the knee socks.”
 
-"Third ad: a giant, fully-enclosed cartoon fox mask for the low, low price of...wow bro, damn."
+“Uh, still for my sister?”
 
-"Uuuh."
+“Checks out. Nothing more wholesome than loving siblings buying barely-there beachwear for each other.”
 
-"$600?"
+“Haha, yeah. So if you could just log out—”
 
-"I'm...shopping early for Halloween?"
+“Third ad: a giant, fully-enclosed cartoon fox mask for the low, low price of…wow."
 
-"I don't blame you. With prices this high, you gotta keep an eye out for off-season deals."
+"Uh."
 
-"Right, yeah, hey! You said you needed a synonym for a word, right?"
+"Damn, bro."
 
-"Uh-huh. Callipygian."
+“Uuuh.”
 
-"Right, so let's just go grab a thesaurus, which is not tied to my—"
+“$600??”
 
-"Hold on. Last ad."
+“I’m…shopping early for Halloween?”
 
-"Wait!"
+“I don’t blame you. With prices this high, you gotta keep an eye out for off-season deals.”
 
-"A 16" Bad Dragon Roko's Basilisk BootyBreaker."
+“Right, yeah, hey! You said you needed a synonym for a word, right?”
 
-"Ah, fuck."
+“Uh-huh. Callipygian.”
 
-"Dude."
+“Right, so let’s just go grab a thesaurus, which is an air-gapped stack of bound paper sheets not tied to any of my—”
 
-"I—"
+“Hold on. Last ad.”
 
-"𝘋𝘶𝘥𝘦."
+“Wait!”
 
-"Listen, it's not—"
+“A 16” Bad Dragon Roko’s Basilisk Booty-Breaker."
 
-"Your sister is a 𝙛𝙧𝙚𝙖𝙠!"
+“Ah, fuck.”
+
+“Dude.”
+
+“I—”
+
+“𝘋𝘶𝘥𝘦.”
+
+“Listen, it’s not—”
+
+“Your sister is a 𝙛𝙧𝙚𝙖𝙠!”
