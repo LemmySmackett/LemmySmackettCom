@@ -72,7 +72,7 @@ extreme: false
 
 “Uuuh.”
 
-“$600??”
+“$2000??”
 
 “I’m…shopping early for Halloween?”
 
