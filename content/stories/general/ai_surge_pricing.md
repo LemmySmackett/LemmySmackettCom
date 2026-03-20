@@ -46,7 +46,7 @@ Jesus, Paul, look at this receipt—ten dollars for a single potato. This new Va
 
 "Um."
 
-“The Latino child buys your rice, and the Asian child buys your tortillas.”
+“The Latino child buys your wasabi, and the Asian child buys your tortillas.”
 
 “Yeah, no, I get it.”
 
@@ -62,7 +62,7 @@ Jesus, Paul, look at this receipt—ten dollars for a single potato. This new Va
 
 "Jesus."
 
-"Yeah, the Hispanic orphan tends to be on the bottom."
+"Yeah, the Latino orphan also tends to be on the bottom."
 
 "What?"
 
