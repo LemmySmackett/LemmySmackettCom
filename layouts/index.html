@@ -48,7 +48,7 @@
       </div>
 
       <div class="content-container">
-        <h2 class="section-heading"><a href="/length/micro-fiction">Micro-Fiction</a></h2>
+        <h2 class="section-heading"><a href="/length/micro-fiction">Five Minute Fiction</a></h2>
         <ul class="content-list">
           {{ $stories := where (where .Site.RegularPages "Params.length" "micro-fiction") ".Params.extreme" "!=" true }}
 {{ range first 5 $stories }}
