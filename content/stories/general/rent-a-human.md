@@ -2,11 +2,10 @@
 title: "Rent-a-Human"
 date: 2026-02-05
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 God damn. I swear the whole world's going to hell in a highly-automated hand-basket."

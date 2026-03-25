@@ -2,10 +2,9 @@
 title: "SEINFELD: The Golden Train"
 date: 2025-04-24
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 George Constanza throws the door open. "Well!" He steps into Seinfeld's apartment. "They finally did it!"
 

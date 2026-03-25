@@ -2,11 +2,10 @@
 title: "AI Autoreader"
 date: 2025-08-18
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 "Girl, you see that TikTok about using AI to quote unquote 𝘳𝘦𝘢𝘥 a 100 books in a week?"
 

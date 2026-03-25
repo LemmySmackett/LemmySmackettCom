@@ -2,11 +2,10 @@
 title: "50 Shales of Gas"
 date: 2025-03-25
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 I make a billion dollars a year." The infamous Liquefied Gas Mogul, Beau Backdraft Butane, steps forward and presses his hand against the wall, cornering his new personal assistant in the penthouse elevator. "You know what that comes out to per minute?"
 

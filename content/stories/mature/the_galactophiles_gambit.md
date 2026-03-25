@@ -2,11 +2,10 @@
 title: "The Galactophile's Gambit"
 date: 2026-03-01
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 You see that Japanese tweet about the guy who went all out with gifts and massages so he could drink his wife's breast milk? Shit's frying me, man."

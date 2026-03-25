@@ -2,10 +2,9 @@
 title: "The Tabacky Kid"
 date: 2023-11-03
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 It was around that time a gang of young Ne'er-Do-Wells - a couple of upstart punks who never rustled a steer a day in their lives - cornered the Old Man and his wife.
 

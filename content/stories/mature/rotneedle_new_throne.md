@@ -2,11 +2,10 @@
 title: "Rotneedle and the Demon King in New Throne"
 date: 2025-01-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Deep in the Blighted Deadlands, past the jagged blood peaks of the Crimson Mountains, beyond the gaping, raw expanse of the Great Scar, the Obsidian Keep looms, and within its charnel-black walls, the Demon King holds court, sitting upon his throne of jagged bone and polished skulls. 
 

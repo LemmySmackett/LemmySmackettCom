@@ -2,11 +2,10 @@
 title: "Cracked Mirror"
 date: 2025-04-16
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Moody teen Sally Suthers sits down at the dining room table. It’s 7’o’5 in the morning. Time for breakfast. A strange bee zips in through an open living room window, flits erratically through the air, and crashes into the granite kitchen countertop, igniting in a puff of smoke.
 

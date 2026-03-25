@@ -2,11 +2,10 @@
 title: "The Gooning Days"
 date: 2025-01-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Grandpa, tell us about the good old days again."
 

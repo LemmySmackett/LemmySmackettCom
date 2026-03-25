@@ -2,11 +2,10 @@
 title: "BAIT BAIT BAIT"
 date: 2025-10-24
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Young lovers sit at the end of a long wooden pier, the waves of the Pacific gently lapping at the algae-stained concrete pilings below. As the sky melts into hazy streaks of pink and purple, Theo glances at the woman beside him—the earthbound angel more resplendent than any sunset.

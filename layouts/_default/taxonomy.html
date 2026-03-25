@@ -11,14 +11,15 @@
     {{ if .Pages }}
         <ul class="taxonomy-list">
         {{ range .Pages }}
-            {{ if not (in .Params.tags "erotica") }}
                 <li>
                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ if .Params.mature }}
+                        <span class="tag-box-mature">M</span>
+                    {{ end }}
                     <!-- {{ with .Summary }}
                         <p>{{ . | truncate 100 }}</p>
                     {{ end }} -->
                 </li>
-            {{ end }}
         {{ end }}
         </ul>
     {{ else }}

@@ -4,7 +4,6 @@ date: 2024-11-07
 genres: ["sci-fi"]
 length: "short-story"
 mature: false
-extreme: false
 ---
 Henry Yang was roaring through space at 1.2 million miles per hour and sleeping soundly all the while. He was tucked into his bunk in the janitorial sleeping quarters aboard the Purifying Light, a class D9 space cruiser.
 

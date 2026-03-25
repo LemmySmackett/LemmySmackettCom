@@ -1,10 +1,9 @@
 ---
 title: "The GLADIATOR Experience"
 date: 2024-11-13
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Bro, did you see this? Airbnb and Paramount are teaming up for a 'GLADIATOR' experience. You get to fight in the colosseum for free!"
 

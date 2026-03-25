@@ -2,11 +2,10 @@
 title: "Golden God"
 date: 2025-06-25
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 The year is 3032 A.D. 
 

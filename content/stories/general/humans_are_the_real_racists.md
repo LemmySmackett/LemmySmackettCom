@@ -2,10 +2,9 @@
 title: "Humans Are The Real Racists"
 date: 2024-08-15
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 The merry human bard leapt into the tavern hall. "Good news everyone!"
 

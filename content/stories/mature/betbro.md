@@ -6,7 +6,6 @@ length: "short story"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Two men in their mid-thirties sit on stools at their favorite locally-owned regional-chain sports bar. The stocky one, Howard, slumps. "I can't believe it."

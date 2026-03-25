@@ -2,11 +2,10 @@
 title: "AI Cat Wife"
 date: 2026-03-07
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Oh Natalie, this is great. We haven't gotten coffee together in forever. How are you and Doug doing these days anyway?"

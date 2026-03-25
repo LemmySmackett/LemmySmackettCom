@@ -2,11 +2,10 @@
 title: "Be Not Afraid"
 date: 2024-11-16
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 And lo, the heavens parted and an angel descended; his body was like beryl, six wings unfurled from his head, back, and feet, and on each wing seven eyes burned like living flame.
 

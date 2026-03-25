@@ -2,10 +2,9 @@
 title: "LOTR: Baelduck"
 date: 2023-08-14
 genres: ["fantasy", "parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Ai! ai!" wailed Legolas. "A Balrog! A Balrog is come!"
 

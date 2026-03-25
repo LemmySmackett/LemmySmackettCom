@@ -2,11 +2,10 @@
 title: "Burrito Bowl Drone Delivery"
 date: 2025-08-24
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Twenty-something Ron Griblick calls to his roommate. "Dude, come over here. I just ordered a beef barbacoa burrito bowl with extra guac."
 

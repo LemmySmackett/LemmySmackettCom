@@ -2,11 +2,10 @@
 title: "r/HotDeadMoms"
 date: 2025-08-06
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Man, people are doing some wild shit online. Jim Acosta just interviewed a dead teenage shooting victim. Everybody's posting animated AI vids of their deceased parents and grandparents."
 

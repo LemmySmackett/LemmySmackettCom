@@ -5,7 +5,6 @@ genres: ["fantasy"]
 length: "short-story"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Dappled rays of light danced across Leona's face, deepening her scowl. She knelt at the road's edge, inspecting a discarded hounskull bascinet—what some call a pig-face helmet. The moniker made little sense. To her, the pointed nose and curved slits looked more like an incredulous metal mallard.
 

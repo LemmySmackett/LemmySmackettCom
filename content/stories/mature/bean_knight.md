@@ -2,11 +2,10 @@
 title: "Literally Me: The Bean Knight"
 date: 2024-08-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In the furthest reaches of the Lost Forest, deep within the Enchanted Grove, the perfidious Fae Witch pinches the ethereal brow of her lucent nose.  "...okay. Run your wish by me one more time." Like all Fae Witches, she's somewhere between the size of a three story house and the San Francisco Armory (formerly of Kink dot com fame).
 

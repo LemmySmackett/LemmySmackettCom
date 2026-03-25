@@ -2,11 +2,10 @@
 title: "Very Fine People from Grumbulon-9"
 date: 2025-04-17
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 series: "x/twitter"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 The Oval Office is packed, bustling with staffers, cabinet members, and high-ranking Pentagon officials. An aide enters the room.
 

@@ -2,11 +2,10 @@
 title: "COLUMBO: Kill by Clanker"
 date: 2025-09-08
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Neurostroke Magnate Rex Marlow (played by Gene Hackman): Now if you're quite done with this tedious line of questioning, detective, I have an engagement to keep. 
 

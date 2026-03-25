@@ -2,10 +2,9 @@
 title: "HEADLINE: Neighbors Say Local Ghost Kitchens Are Out Of Control"
 date: 2024-10-07
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Lunchtime is chaotic on Withered Oak Avenue, a small street in San Francisco’s Grimwood City neighborhood. Every parking spot on the block is taken, and some drivers have been double-parking or stopped in front of businesses’ driveways. Others simply idle in the middle of the road, babbling in the dead tongue of forgotten gods.
 

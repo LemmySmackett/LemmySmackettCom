@@ -2,11 +2,10 @@
 title: "Joint Chiefs of Degeneracy"
 date: 2025-07-14
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Deep within the bowels of the Pentagon, in a shadowy conference room known only as The Tank—a sealed SCIF designed for TS/SAP-level briefings, built for the highest levels of operational and strategic secrecy—Elon Musk brings his hour-long presentation to a rousing conclusion.
 

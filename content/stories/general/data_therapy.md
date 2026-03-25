@@ -1,10 +1,9 @@
 ---
 title: "Data Therapy"
 date: 2024-11-08
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Hey man, I heard you got a new FAANG job. Getting that sweet, sweet SWE money, huh?"
 

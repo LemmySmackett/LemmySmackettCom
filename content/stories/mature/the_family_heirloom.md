@@ -2,11 +2,10 @@
 title: "The Family Heirloom"
 date: 2025-09-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 So Johnny, I hear you're attempting to conceive."

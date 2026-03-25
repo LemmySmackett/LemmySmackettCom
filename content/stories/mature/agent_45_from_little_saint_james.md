@@ -2,11 +2,10 @@
 title: "AGENT 45: From Little Saint James with Love"
 date: 2025-09-06
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In 1999, on the remote Caribbean island of Little Saint James, Jeffrey Epstein reclines in a palatial hall, perched on a throne of gold. Wealth clutters the walls: jeweled trinkets fresh from auction, gilt-framed portraits of powdered nobles, art bought but never loved.
 

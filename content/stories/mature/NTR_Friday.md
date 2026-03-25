@@ -2,11 +2,10 @@
 title: "NTR Friday or, Pat Robertson was Right"
 date: 2024-08-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Jake plops down in front of the big screen TV. "Bro, what time is it?"
 

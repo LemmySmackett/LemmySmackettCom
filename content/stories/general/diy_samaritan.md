@@ -2,11 +2,10 @@
 title: "D.I.Y. Samaritan"
 date: 2025-10-25
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 Adam Crane woke up screaming with someone else's mouth. 

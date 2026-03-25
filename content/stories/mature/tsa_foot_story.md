@@ -2,11 +2,10 @@
 title: "Routine TSA Check"
 date: 2025-03-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Ma'am. Ma'am!" The rotund TSA agent snaps his fingers. "I'm gonna need you to remove your shoes." His tone is curt and demanding. His name tag reads: Darnell Darius Huff.
 

@@ -13,10 +13,8 @@ theme = "smackett"
   genre = "genres"
   length = "length"
   tag = "tags"
-  erotica_tag = "erotica_tags"
   series = "series"
   mature = "mature"
-  extreme = "extreme"
 
 [[headers]]
   for = "/*.html"

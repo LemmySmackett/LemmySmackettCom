@@ -2,11 +2,10 @@
 title: "Marvel Zombie Franchise"
 date: 2025-09-13
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 "Dude, did you see the new Marvel show coming out?"
 

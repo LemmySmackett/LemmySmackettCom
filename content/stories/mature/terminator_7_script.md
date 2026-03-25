@@ -2,11 +2,10 @@
 title: "TERMINATOR 7: Spec Script"
 date: 2025-09-25
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 EXT. BATTLEFIELD - NIGHT
 

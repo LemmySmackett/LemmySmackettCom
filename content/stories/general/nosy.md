@@ -2,10 +2,9 @@
 title: "Nosy"
 date: 2024-10-24
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["bleak"]
 mature: false
-extreme: false
 ---
 Henry," the old woman yelped down the hall. "He's doing it again!"
 

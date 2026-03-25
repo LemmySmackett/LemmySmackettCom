@@ -2,11 +2,10 @@
 title: "Finger Fed"
 date: 2026-01-13
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Oh. My. God. Honey! Did you see the news about the Fed?"

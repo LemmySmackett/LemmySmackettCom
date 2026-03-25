@@ -2,11 +2,10 @@
 title: "The Disappearing Act"
 date: 2025-04-24
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 At the end of their whirlwind first date, Tony and Vanessa retire to her bedroom.
 

@@ -2,11 +2,10 @@
 title: "Spotify adds DMs"
 date: 2025-08-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 "Dude, you gotta hear this new song. I'm sending it now."
 

@@ -2,10 +2,9 @@
 title: "SEINFELD: Bed Stand Tabasco"
 date: 2024-09-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: true
-extreme: false
 ---
 It's a spermicide, Jerry."
 

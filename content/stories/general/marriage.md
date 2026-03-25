@@ -2,11 +2,10 @@
 title: "Marriage"
 date: 2024-10-06
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 layout: poem
 ---
 When will I find a love,  

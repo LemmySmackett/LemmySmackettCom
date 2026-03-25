@@ -2,11 +2,10 @@
 title: "Give Me Liberty, or Give Me Goon"
 date: 2025-08-21
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "So I guess Elon's America Party is dead huh? Since he spends all his time generating AI coomer clips with twisted spine spasms straight out of the Exorcist?"
 

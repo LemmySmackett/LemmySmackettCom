@@ -13,14 +13,12 @@
     {{ if .Pages }}
       <ul class="taxonomy-list">
         {{ range .Pages }}
-          {{ if not (isset .Params "erotica_tag") }}
             <li>
               <a href="{{ .RelPermalink }}">{{ .Title }}</a>
               <!-- {{ with .Summary }}
                 <p>{{ . | truncate 100 }}</p>
               {{ end }} -->
             </li>
-          {{ end }}
         {{ end }}
       </ul>
     {{ else }}

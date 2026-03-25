@@ -2,11 +2,10 @@
 title: "The Talk (2025 Edition)"
 date: 2026-01-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Hey, Dad?"

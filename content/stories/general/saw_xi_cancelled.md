@@ -2,11 +2,10 @@
 title: "SAW XI: Leaked Scene"
 date: 2025-03-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Hours later, Jamal stirs, and finds himself bound to an old wooden chair. His panicked eyes search the surrounding abyss while the stench of mold and decay cling to his flaring nostrils.
 

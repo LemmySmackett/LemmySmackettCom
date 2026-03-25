@@ -2,11 +2,10 @@
 title: "The Gungan Trouble: A STAR WARS Story"
 date: 2025-04-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 A squad of stormtroopers stand at port arms in the hangar bay of the Executor-class star destroyer. They face an imperial officer and the Emperor's Emissary himself, Darth Vader.
 

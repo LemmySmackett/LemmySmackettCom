@@ -2,11 +2,10 @@
 title: "AI Ethics Epiphany"
 date: 2025-10-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Check it out. There's a new bill in Ohio proposing a ban on Human-AI marriage."

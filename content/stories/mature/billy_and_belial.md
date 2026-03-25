@@ -2,11 +2,10 @@
 title: "Billy and Belial"
 date: 2025-08-30
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Fourteen-year-old Billy Blackerby runs to the kitchen.
 

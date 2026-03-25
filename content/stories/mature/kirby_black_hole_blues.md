@@ -2,11 +2,10 @@
 title: "Kirby and the Case of the Black Hole Blues"
 date: 2025-09-14
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Richard Marlowe took a bottle from the top drawer of his sagging, paper-strewn desk and poured a glass of whiskey. Raindrops drizzled on the windowpane like tears at a funeral. The city was a corpse and he was just another scavenger, working for his piece of the carcass. Not one of the respectable scavengers, mind you, like a coyote or vulture. More like a blowfly. Or a carrion beetle.
 

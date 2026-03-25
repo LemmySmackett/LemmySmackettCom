@@ -2,11 +2,10 @@
 title: "2030: Standup Act"
 date: 2025-05-21
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 The comedian takes the mic. "Ya'll ever get to work and be like 'Shiiiit, man. I got a whole 'nother day of this!"
 

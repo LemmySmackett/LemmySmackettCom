@@ -2,11 +2,10 @@
 title: "Toaster Lover"
 date: 2025-06-25
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 With a defeated sigh, Edith Plummer lowers the framed canvas of Aida cloth and sets her tapestry needle down."Oh, I can't take it anymore."
 

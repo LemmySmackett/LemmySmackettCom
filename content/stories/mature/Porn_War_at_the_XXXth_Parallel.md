@@ -2,11 +2,10 @@
 title: "Porn War at the XXXth Parallel"
 date: 2025-03-16
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 The Canadians have gone too far!"
 

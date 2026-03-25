@@ -2,11 +2,10 @@
 title: "The World's Greatest Gaming Community"
 date: 2025-11-28
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Hey man, I just finished that game you recommended."

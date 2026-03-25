@@ -2,11 +2,10 @@
 title: "R.U.A.F."
 date: 2026-03-14
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 In a modern open-plan office, two men stand in the break room. Drew sips his single-serve coffee while Mike fiddles on his phone. Finally, Drew says, "You ever look at a guy and just think: Yeah, he's got a clean ass."

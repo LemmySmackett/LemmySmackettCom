@@ -2,11 +2,10 @@
 title: "A Bump and a Baja Blast"
 date: 2025-02-06
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Two white collar co-workers, Tim and Jake, sit down in a booth at Taco Bell.
 

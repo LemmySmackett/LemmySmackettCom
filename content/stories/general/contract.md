@@ -2,11 +2,10 @@
 title: "Contract"
 date: 2023-11-23
 genres: ["fantasy","horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 Once, in a distant forest, a young widow lived in a cabin crumbling in disrepair. When winter came and snow blanketed the ramshackle roof, she remained in her bed, saying, "It is good that a cold wind blows. Without my Love, I will never know warmth again. May the wind blow and numb my body with its frigid touch, until I draw my last breath."
 

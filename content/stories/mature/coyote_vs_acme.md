@@ -2,10 +2,9 @@
 title: "Coyote vs. ACME: Leaked Script"
 date: 2024-10-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: true
-extreme: false
 layout: poem
 ---
 **INT. THE COURTROOM - DAY**

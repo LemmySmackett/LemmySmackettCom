@@ -2,11 +2,10 @@
 title: "Spider-Man: Into the Fleshlight-Verse"
 date: 2025-02-19
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Spider-Man's crumpled body crashes through the front window of an adult video store and slams into a ten foot tall display for neon green She-Hulk fleshlights.
 

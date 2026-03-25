@@ -2,11 +2,10 @@
 title: "Glykon and Roy: Bug Walking"
 date: 2025-09-06
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Off-duty Star Marshal Roy McQuaid stood outside Space-Trader Joe's and groaned.
 

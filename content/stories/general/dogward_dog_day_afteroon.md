@@ -2,10 +2,9 @@
 title: "Downward Dog Day Afternoon"
 date: 2023-11-07
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Police Detective Sergeant Eugene Moretti puffed his cigarette as the NYPD swarmed the streets of Brooklyn. A barricade was raised around Chase Manhattan Bank while patrol cars blocked the intersections. Comms said ETA on SWAT was twenty minutes.
 

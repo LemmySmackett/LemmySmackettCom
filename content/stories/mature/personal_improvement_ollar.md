@@ -2,10 +2,9 @@
 title: "Personal Improvement Collar"
 date: 2023-11-03
 genres: ["sci-fi"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 At last, my vacation had begun. I was halfway across the world, out on my own, destined for cultural enrichment and occasional bouts of inebriation. God-willing, I'd find a cutie or two to show me the lay of the land and a lay in the san-
 

@@ -2,11 +2,10 @@
 title: "NEON GENESIS EVANGELION: Misato's Driving Lesson"
 date: 2025-01-22
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Misato-san! What are you-"
 

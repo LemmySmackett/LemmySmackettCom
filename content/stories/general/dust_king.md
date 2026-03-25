@@ -2,11 +2,10 @@
 title: "Dust King"
 date: 2024-10-06
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 There once was a mote of dust who declared himself King. This striving was not for his own glory, but rather, a matter of conviction, a moral mission.
 

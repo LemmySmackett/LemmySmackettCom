@@ -2,11 +2,10 @@
 title: "Wait for it...😭🪓💀"
 date: 2025-08-15
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Chains clatter and rattle as the Condemned pleads in the pillory. "Mercy! Mercy!"
 

@@ -2,10 +2,9 @@
 title: "Maniac (ver.2)"
 date: 2024-11-14
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 M**eet me in the woods.** Her Hinge match wrote. **At sunset.** 
 

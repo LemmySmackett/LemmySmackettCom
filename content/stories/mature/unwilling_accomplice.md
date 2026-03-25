@@ -2,11 +2,10 @@
 title: "UNWILLING ACCOMPLICE!"
 date: 2025-07-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 I was sure I heard Danny wrong.
 

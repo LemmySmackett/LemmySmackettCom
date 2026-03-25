@@ -2,11 +2,10 @@
 title: "Democracy Dies in the Washing Machine"
 date: 2025-03-19
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 The government has been taken over by backwater fundie fascist prudes."
 

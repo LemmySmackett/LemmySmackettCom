@@ -2,11 +2,10 @@
 title: "Ethical AI Onanism"
 date: 2025-10-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Hey, man."

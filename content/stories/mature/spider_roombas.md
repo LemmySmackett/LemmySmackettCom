@@ -2,11 +2,10 @@
 title: "Spider Roombas"
 date: 2025-12-06
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 —𝗦𝗟𝗔𝗠—

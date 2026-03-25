@@ -2,11 +2,10 @@
 title: "Love in the Time of Large Language Models"
 date: 2025-04-20
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Perched on a Herman Miller chair, the twenty-something brunette pushes away from the desk and dramatically tosses her head back. "God!"
 

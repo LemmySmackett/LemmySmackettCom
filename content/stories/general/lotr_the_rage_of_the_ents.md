@@ -2,11 +2,10 @@
 title: "LOTR: The Rage of the Ents"
 date: 2025-03-11
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 In a hole in the ground, there hid a hobbit. It was a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, with nothing to sit on or eat. It was the furthest thing from a hobbit-hole, which meant it was the furthest thing from comfort. 
 

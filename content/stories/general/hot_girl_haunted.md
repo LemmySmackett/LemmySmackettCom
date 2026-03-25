@@ -2,11 +2,10 @@
 title: "Hot Girl Haunted"
 date: 2026-03-24
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 Pft. Dude, check out this online poll."

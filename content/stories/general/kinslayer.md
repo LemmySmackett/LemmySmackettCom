@@ -2,11 +2,10 @@
 title: "Kinslayer"
 date: 2023-09-21
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 layout: poem
 ---
 **KINSLAYER I**

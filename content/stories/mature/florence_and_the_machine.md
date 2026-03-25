@@ -2,11 +2,10 @@
 title: "Florence and the Machine"
 date: 2025-08-09
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In the year 2033, famed AI rights advocate and safety researcher Florence Shillworth does the unthinkable and heads on down to Paul P'Doum's Whole-Lotta-Bots Emporium.
 

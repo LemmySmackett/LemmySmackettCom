@@ -2,11 +2,10 @@
 title: "Theoretical Car Mechanic"
 date: 2025-01-05
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 "Hi, I'm dropping off my car. You're the mechanic right?"
 

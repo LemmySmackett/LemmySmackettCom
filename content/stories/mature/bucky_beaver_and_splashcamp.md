@@ -2,11 +2,10 @@
 title: "Bucky Beaver snd SplashCamp"
 date: 2025-08-14
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Man, Calculus II is killing me. It's like I'm being waterboarded at Abu Ghraib." 
 

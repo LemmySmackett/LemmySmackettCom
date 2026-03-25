@@ -2,11 +2,10 @@
 title: "Rotneedle and the Demon King in The Midriff Madness"
 date: 2025-02-03
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Rotneedle!" Out in the bailey of the Obsidian Keep, the Demon King roars. "What is the meaning of this?!"
 

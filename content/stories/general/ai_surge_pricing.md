@@ -2,11 +2,10 @@
 title: "AI Surge Pricing"
 date: 2024-12-31
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Jesus, Paul, look at this receipt—ten dollars for a single potato. This new Value-Mart AI surge pricing is killing me, man. Killing me."
 

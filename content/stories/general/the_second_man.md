@@ -2,11 +2,10 @@
 title: "CLIFFJUMPER"
 date: 2024-10-07
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 Two men stood on a cliff. One leapt, the other followed. 
 

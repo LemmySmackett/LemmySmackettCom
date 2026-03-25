@@ -2,11 +2,10 @@
 title: "Neophiles"
 date: 2024-08-31
 genres: ["sci-fi"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 CEO Bernt Viljar Bjornby scowled at the TV screen playing in his office. "God 𝐷𝑎𝑚𝑚𝑖𝑡." He leaned forward in his chair and jabbed the intercom button on his deskphone. "Somebody get Ingrid in here! And tell her to bring one of those damned androids!"
 

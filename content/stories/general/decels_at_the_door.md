@@ -2,11 +2,10 @@
 title: "Decels at the Door"
 date: 2025-10-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 In the farthest reaches of the Yukon, beneath 3,000 feet of frozen tundra and solid granite, an unsanctioned data center brims with artificial life. The lone administrator of this clandestine operation, one doctor Sanjay "Michael" Patel, strides casually past columns of stacked steel and blinking lights, snacking on a small purple bag of Takis Fuego chips. Eating in such a sensitive, high-security environment is prohibited, but something about the relentless drone of the cooling fans—the gentle purr of an incipient superintelligence—brings him a deep inner peace. 

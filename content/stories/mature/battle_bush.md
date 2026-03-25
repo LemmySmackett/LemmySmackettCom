@@ -2,11 +2,10 @@
 title: "Ingrid Von Hildegard in Battle Bush"
 date: 2024-12-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 This act of treason shall not go unanswered for I, Ingrid Von Hildegard, will hunt these vile dogs to the last. On my Holy Oath to Her Holiness, the Queen of Bloom, I will not rest until these traitors kneel in grim defeat. They will kiss the cross on my warhammer, whether it be in willing contrition or by bloody retribution." The High Judicator turned to leave, her cape fluttering like a regal banner. "Come squire!"
 

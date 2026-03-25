@@ -2,11 +2,10 @@
 title: "The Endless Possibilities of AI Ads and You"
 date: 2025-10-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 “Hey bro, can I use your computer real quick? I need to ask ChatGPT something."
 

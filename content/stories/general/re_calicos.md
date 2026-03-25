@@ -2,10 +2,9 @@
 title: "Resident Evil:Calicos"
 date: 2024-10-07
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Got a selection of good things on sale today stranger!" The Merchant unfurled his tattered trenchcoat, revealing two columns of kittens. Each snug in their own comfy pocket. Eight in total.
 

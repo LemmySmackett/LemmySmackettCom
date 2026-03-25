@@ -2,10 +2,9 @@
 title: "Bat and Switch"
 date: 2024-08-13
 genres: ["sci-fi","parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce","superheroes"]
 mature: false
-extreme: false
 ---
 Bruce removes the cowl. "I give up, Alfred. Batman is dead."
 

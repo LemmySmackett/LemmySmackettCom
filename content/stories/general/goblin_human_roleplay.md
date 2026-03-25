@@ -2,10 +2,9 @@
 title: "Goblin-Human Roleplay"
 date: 2024-08-15
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 The goblin rolls his d6 dice. “At last, the adventure begins!”
 

@@ -2,10 +2,9 @@
 title: "Protest"
 date: 2024-10-16
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Lionel Cornelius Hawthorne, Professor of Sidhean Prehistory at the Oxford college of Aetherian Archeology, was tidying a sample from his personal collection when first came the rapping at his bedroom window. 
 

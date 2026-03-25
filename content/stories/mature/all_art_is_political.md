@@ -2,11 +2,10 @@
 title: "All Art is Political"
 date: 2025-09-28
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Grandpa, what were movies like before the Collapse?"

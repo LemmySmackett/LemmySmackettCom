@@ -6,8 +6,7 @@
     --visited-link-color: #636363;
     --heading-color: #333;
     --border-color: #ddd;
-    --tag-mature-bg-color: rgb(158, 0, 132);
-    --tag-extreme-bg-color: rgb(150, 18, 18);
+    --tag-mature-bg-color: #000000;
     --tag-text-color: white;
 }
 
@@ -335,7 +334,7 @@ section {
 
 /* Tags */
 .tag-box {
-    background-color: var(--tag-extreme-bg-color);
+    background-color: var(--tag-mature-bg-color);
     color: var(--tag-text-color);
     padding: 1px 6px;
     border-radius: 3px;
@@ -350,6 +349,12 @@ section {
     border-radius: 3px;
     font-size: 0.8em;
     margin-left: 0px;
+}
+
+/* Dark mode mature tags - invert colors */
+.dark-mode .tag-box-mature {
+    background-color: #ffffff;
+    color: #000000;
 }
 
 /* Quote Box */
@@ -576,12 +581,6 @@ body.reader-mode {
     border: 1px solid #f5c6cb;
 }
 
-.extreme-warning {
-    color: #721c24;
-    background-color: #f8d7da;
-    border: 1px solid #f5c6cb;;
-}
-
 /* Story Content */
 .story-content {
     margin-top: -1.7em;
@@ -650,7 +649,7 @@ body.reader-mode {
     font-weight: 900;
     border: 2px solid red;
     margin-bottom: 15px;
-    max-width: 1024px;
+    max-width: 600px;
 }
 
 .dotted-line {
@@ -679,7 +678,25 @@ body.reader-mode {
 }
 
 .icon-button:visited {
-    fill: var(--text-color) !important; /* Use the regular text color instead of visited color */
+    color: var(--text-color) !important;
+}
+
+/* For fill-based icons (X, Substack) */
+.icon-button svg[fill="currentColor"] {
+    fill: currentColor;
+}
+
+.icon-button:visited svg[fill="currentColor"] {
+    fill: var(--text-color) !important;
+}
+
+/* For stroke-based icons (book, moon) */
+.icon-button svg[stroke="currentColor"] {
+    stroke: currentColor;
+}
+
+.icon-button:visited svg[stroke="currentColor"] {
+    stroke: var(--text-color) !important;
 }
 
 /* Target specifically the Patreon link */
@@ -700,6 +717,28 @@ a[href*="patreon"] svg {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
+.dark-mode .icon-button:visited {
+    color: #e0e0e0 !important;
+}
+
+/* Dark mode for fill-based icons */
+.dark-mode .icon-button svg[fill="currentColor"] {
+    fill: currentColor;
+}
+
+.dark-mode .icon-button:visited svg[fill="currentColor"] {
+    fill: #e0e0e0 !important;
+}
+
+/* Dark mode for stroke-based icons */
+.dark-mode .icon-button svg[stroke="currentColor"] {
+    stroke: currentColor;
+}
+
+.dark-mode .icon-button:visited svg[stroke="currentColor"] {
+    stroke: #e0e0e0 !important;
+}
+
 /* Dark mode */
 .dark-mode a[href*="patreon"] {
     color: #e0e0e0 !important;
@@ -713,4 +752,61 @@ a[href*="patreon"] svg {
 .icon-button svg {
     width: 25px;
     height: 25px;
+}
+
+/* Buy the Book button */
+.buy-book-button {
+    background: #2d5016;
+    border: 2px solid #2d5016;
+    cursor: pointer;
+    padding: 7px 12px;
+    border-radius: 6px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #90EE90;
+    font-size: 0.95em;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+    letter-spacing: 0.5px;
+    position: relative;
+    top: -7px;
+}
+
+.buy-book-button:hover {
+    background-color: #1a3a0d;
+    border-color: #1a3a0d;
+    color: #7CCD7C;
+    text-decoration: none;
+}
+
+.buy-book-button:visited {
+    color: #90EE90;
+}
+
+.buy-book-button:visited:hover {
+    color: #7CCD7C;
+}
+
+/* Dark mode buy button */
+.dark-mode .buy-book-button {
+    background: #90EE90;
+    border-color: #90EE90;
+    color: #2d5016;
+}
+
+.dark-mode .buy-book-button:hover {
+    background-color: #7CCD7C;
+    border-color: #7CCD7C;
+    color: #1a3a0d;
+}
+
+.dark-mode .buy-book-button:visited {
+    color: #2d5016;
+}
+
+.dark-mode .buy-book-button:visited:hover {
+    color: #1a3a0d;
 }

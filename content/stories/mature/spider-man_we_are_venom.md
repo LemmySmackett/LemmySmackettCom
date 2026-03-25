@@ -2,11 +2,10 @@
 title: "Spider-Man: We Are Venom. You Are Worse"
 date: 2025-02-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Within the cramped quarters of the $4000-a-month 100 sqft Brooklyn apartment, Venom looms over his detested arch-nemesis,  Spider-Man. Nearby, Mary Jane cowers in the corner.
 

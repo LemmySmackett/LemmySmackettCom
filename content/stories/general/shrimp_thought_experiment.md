@@ -2,11 +2,10 @@
 title: "Shrimp Thought Experiment"
 date: 2025-07-21
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Okay, so imagine a magic button."
 

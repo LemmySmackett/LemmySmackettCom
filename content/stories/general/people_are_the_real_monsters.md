@@ -2,11 +2,10 @@
 title: "People Are The Real Monsters"
 date: 2024-09-01
 genres: ["sci-fi"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce","zombies","post-apocalypse"]
 series: "HFY"
 mature: false
-extreme: false
 ---
 As the sun sank below the horizon, and the long shadows stretched, two men leaned on a weathered wooden fence, gazing at the distant silhouette of an abandoned city.
 

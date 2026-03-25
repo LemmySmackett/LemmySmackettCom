@@ -2,11 +2,10 @@
 title: "Uma Musume Cybertruck"
 date: 2025-07-11
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 In a Minnesota dispatch center, an operator picks up the line. "Hello, this is 911. What's your emergency?"
 

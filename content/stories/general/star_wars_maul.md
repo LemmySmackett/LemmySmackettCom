@@ -2,11 +2,10 @@
 title: "STAR WARS: Order 66, Form 88B"
 date: 2025-05-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 A cloaked Sith marches unannounced into the Emperor's chamber. "Darth Sidious!" He pulls back his hood, revealing a bald tattooed head with short horns. "I would speak with you."
 

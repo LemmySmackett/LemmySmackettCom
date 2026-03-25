@@ -6,7 +6,6 @@ length: "short-story"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Outside the towering main gates of the Imperial Grand Capital, three monks sit shoulder-to-shoulder in the stone-paved road, legs folded in the lotus position: Brother Tik, Brother Qang, and Brother Duck.
 

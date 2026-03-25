@@ -2,11 +2,10 @@
 title: "Love and Leashes on SnuffPump Mountain"
 date: 2025-08-05
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "It's the goddamn panopticon with a monthly subscription!"
 

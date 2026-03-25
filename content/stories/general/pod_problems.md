@@ -2,11 +2,10 @@
 title: "Pod Problems"
 date: 2026-01-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 Linda! Linda! You gotta come see this!"

@@ -2,9 +2,8 @@
 title: "Honesty, Essays, and Void-Beasts"
 date: 2024-10-07
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 mature: true
-extreme: false
 ---
 In a mansion that suffered from Grecian urns the way slum hovels suffer from cockroaches, a woman in half-moon lenses sat down at a marble table and offered her hand. 
 

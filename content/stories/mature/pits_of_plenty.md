@@ -2,11 +2,10 @@
 title: "Pits of Plenty at the Oasis"
 date: 2025-02-07
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Ragged and worn, a gaunt man in tattered clothes, with a wild beard and sand-encrusted feet, drags himself into the oasis tavern.
 

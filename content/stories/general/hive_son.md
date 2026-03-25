@@ -4,7 +4,6 @@ date: 2024-10-08
 genres: ["sci-fi"]
 length: "short-story"
 mature: false
-extreme: false
 ---
 Edith was adjusting her husband's respirator—a coiled hose and silicone mask that sealed his mouth and nostrils—when the doorbell rang downstairs.
 

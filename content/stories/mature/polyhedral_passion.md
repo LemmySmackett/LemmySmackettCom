@@ -2,11 +2,10 @@
 title: "Polyhedral Passion!!! All Sides Are Equal, But My Love Is Greater~<3"
 date: 2025-08-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "What's wrong, Dodecahedron-chan? You seem distant."
 

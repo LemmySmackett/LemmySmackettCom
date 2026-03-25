@@ -2,11 +2,10 @@
 title: "TERMINATOR: Hot Cocoa Calamity"
 date: 2025-08-20
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Sarah was in line waiting for her order—a Venti ice caramel macchiato with three pumps pumpkin spice syrup, two pump vanilla, two shots espresso, 1/3 whole milk, 1/3 almond milk, 1/3 soy milk, carmel wall in the cup, extra whipped cream, all topped off with pumpkin spice sprinkle—when a gaunt man in a ragged, stained trenchcoat entered the cafe. His haunted eyes flitted about, a skittering rat after its next meal.
 

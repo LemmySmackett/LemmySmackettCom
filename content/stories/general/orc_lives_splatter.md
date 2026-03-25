@@ -2,11 +2,10 @@
 title: "Orc Lives Splatter"
 date: 2026-03-20
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 INT. THE COURTROOM – DAY

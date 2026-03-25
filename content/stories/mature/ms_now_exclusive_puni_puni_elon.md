@@ -2,11 +2,10 @@
 title: "MSNOW Exclusive: The Puni Puni Elon Interview"
 date: 2025-09-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 [Start Transcript]
 

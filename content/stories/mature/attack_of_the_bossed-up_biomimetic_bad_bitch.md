@@ -2,11 +2,10 @@
 title: "Attack of the Bossed-Up Biomimetic Bad Bitch"
 date: 2026-02-08
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 In a state-licensed Assisted Living Facility, twenty-something CNA Joey Malone walks into the break room.

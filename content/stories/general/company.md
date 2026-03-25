@@ -1,11 +1,10 @@
 ---
 title: "Company"
 date: 2024-10-06
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 When the sun was low and the sky like wine, the old man went out to the garden and sat in his favorite wicker chair. He lit his pipe and took slow puffs as he stared into the distance, as was his habit.
 

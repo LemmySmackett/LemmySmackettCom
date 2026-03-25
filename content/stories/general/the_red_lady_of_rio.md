@@ -2,11 +2,10 @@
 title: "The Red Lady of Rio"
 date: 2025-07-12
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Raul Almeida sat in the cramped confessional, sweat beading his nervous brow. He exhaled long and slow, attempting to quell the beating of his heart.
 

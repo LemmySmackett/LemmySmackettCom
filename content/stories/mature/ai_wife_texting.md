@@ -2,11 +2,10 @@
 title: "AutoAmourAI"
 date: 2025-04-17
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 𝑩𝒁𝒁𝒁-𝑩𝒁𝒁𝒁
 

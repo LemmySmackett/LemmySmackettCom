@@ -2,11 +2,10 @@
 title: "Netflix Forks Cinema"
 date: 2025-09-19
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 In a boardroom in Los Gatos, California, a brunette in a charcoal grey double-breasted skirt-suit rises from a Hermon Miller chair. "Okay, people, the bid for Warner Bros. went through." Her name is Gloria Slopmire, Chief Content Officer at Netflix. "How are we going to operationalize and vertically integrate these newly acquired IP portfolios across a synergistic distribution platform?"
 

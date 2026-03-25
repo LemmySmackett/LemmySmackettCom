@@ -2,11 +2,10 @@
 title: "X-Men: The Mutant Cure"
 date: 2024-08-24
 genres: ["sci-fi","parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Hello, you’re watching NBC. I’m Ellen Skunt. For the past sixty years, 𝐻𝑛𝑔ℎ America has grappled with the Mutant Question. With the FDA’s recent approval of Trask Industries' so-called Mutant Cure, some now argue it should be administered alongside the Hepatitis B vaccine, a mandatory immunization given to all newborns. 𝑀𝑚𝑚. Tonight, we’re speaking with a panel of voters across the political spectrum, one of whom is secretly a mutant. We’ll reveal their identity at the end of the show. 𝑈𝑔ℎ. 𝑎ℎ𝑒𝑚𝑚. Let’s start with you, Ivanna."
 

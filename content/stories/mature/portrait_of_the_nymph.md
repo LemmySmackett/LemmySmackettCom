@@ -2,11 +2,10 @@
 title: "Portrait of the Nymph as a Young Disaster"
 date: 2025-03-21
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 The bombshell booby-trap blonde, Amora Throe, slumps on the couch, her sprawling locks a peroxide supernova. It's Thursday and she's at the therapist’s office. Again. Between the cascading strands of pale bleach-yellow, a cute throw pillow reads in cursive script: 𝐴 𝐿𝑖𝑡𝑡𝑙𝑒 𝐵𝑒𝑡𝑡𝑒𝑟, 𝐸𝑣𝑒𝑟𝑦 𝐷𝑎𝑦
 

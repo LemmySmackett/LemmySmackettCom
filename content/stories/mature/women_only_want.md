@@ -2,11 +2,10 @@
 title: "Women Only Want One Thing (A Shocking Capacity for Violence)"
 date: 2025-09-04
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 I recoil at the blood on my hands, horrified by my own strength. "Good God, it's 𝘦𝘷𝘦𝘳𝘺𝘸𝘩𝘦𝘳𝘦. I-I'm sorry. He was coming right at us! I-I-It was self-defense! You'll tell the cops it was self-defense, right??"
 

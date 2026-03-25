@@ -2,11 +2,10 @@
 title: "A Funny Story"
 date: 2025-07-07
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 This reminds me of a funny story. One time I was at Red Lobster with the boys, knocking back Cape Codders and Endless Shrimp, when my pal Roy started bragging about his girl being quote unquote Good-In-Bed.
 

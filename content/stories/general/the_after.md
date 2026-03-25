@@ -2,11 +2,10 @@
 title: "The After"
 date: 2024-10-06
 genres: ["fantasy","horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 One day, the Hero of Destiny defeated the Dark Lord, freeing the High Kingdom.
 

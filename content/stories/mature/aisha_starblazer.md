@@ -2,11 +2,10 @@
 title: "Aisha Starblazer: Space Racist"
 date: 2024-09-01
 genres: ["sci-fi"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce","bugs"]
 series: "HFY"
 mature: true
-extreme: false
 ---
 Aisha Starblazer stood in the packed spaceport elevator, struggling to not have any racist thoughts about the Mantidraxian in front of her.
 

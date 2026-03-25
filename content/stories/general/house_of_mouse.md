@@ -2,10 +2,9 @@
 title: "House of Mouse, Heart of Stone"
 date: 2024-08-21
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce","bleak"]
 mature: false
-extreme: false
 ---
 Do you intend to haunt my door all night?" Mickey bellowed. "To linger in these halls like some widowed spirit?" The mouse sat with his back to the entrance, at a mahogany desk adorned with gilded brass accents.
 

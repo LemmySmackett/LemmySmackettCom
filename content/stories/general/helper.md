@@ -2,11 +2,10 @@
 title: "Helper"
 date: 2024-10-06
 genres: ["fantasy","horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 layout: poem
 ---
 My love was lost in darkness  

@@ -2,10 +2,9 @@
 title: "Suicide Box"
 date: 2024-10-06
 genres: ["sci-fi"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["bleak"]
 mature: false
-extreme: false
 ---
 My editor asked me to do a piece on teleporters.
 

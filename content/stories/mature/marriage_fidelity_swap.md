@@ -2,11 +2,10 @@
 title: "Marriage Fidelity Swap"
 date: 2025-12-05
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Hey, man. Heard you finally proposed."

@@ -3,7 +3,9 @@
     <div class="taxonomy-list-title"><h1>Mature</h1></div>
 
     <div class="warning">
-        <strong>Warning:</strong> This section contains stories that feature mature themes. All characters depicted are 18+ unless otherwise noted. Reader discretion is advised.
+        <strong>WARNING:</strong> This section contains stories that feature mature themes.<br>
+        All characters depicted are 18+ unless otherwise noted.<br>
+        Reader discretion is advised.
       </div>
     
     
@@ -18,6 +20,7 @@
       {{ range .Pages }}
           <li>
               <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <span class="tag-box-mature">M</span>
               <!-- {{ with .Summary }}
                   <p>{{ . | truncate 100 }}</p>
               {{ end }} -->

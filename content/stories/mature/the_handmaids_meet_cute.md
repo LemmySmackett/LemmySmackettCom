@@ -2,11 +2,10 @@
 title: "The Handmaid's Meet Cute"
 date: 2025-09-04
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In the main hall at Union Station, a National Guardsman scratches his chin. "And this isn't a kink thing?"
 

@@ -2,11 +2,10 @@
 title: "Most Extreme Last Samurai Standing Challenge"
 date: 2025-02-12
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Welcome back to Last Samurai Standing. I'm your host Vic Romano."
 

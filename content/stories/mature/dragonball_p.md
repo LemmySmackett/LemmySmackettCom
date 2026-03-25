@@ -2,11 +2,10 @@
 title: "Dragonball P"
 date: 2025-01-31
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Goku saddles up to the urinal. "Hey Vegeta buddy. How's it hangin'?"
 

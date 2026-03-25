@@ -2,10 +2,9 @@
 title: "SEINFELD: Kramer vs. The Trolley"
 date: 2024-11-04
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Kramer bursts through the door. "Judge Doom solves the Trolley Problem!"
 

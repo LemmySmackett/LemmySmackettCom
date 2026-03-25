@@ -2,11 +2,10 @@
 title: "The Edge of Enlightenment"
 date: 2026-03-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Once in a secluded mountain temple, Zen master Onanji and his most devoted disciple, a young man named Shikō, meditated for ten days. At the end of the tenth day, the master opened his eyes and declared: "It is time."

@@ -2,11 +2,10 @@
 title: "Spider-Man: No Holes Barred"
 date: 2025-02-06
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In an abandoned fleshlight factory deep in Red Hook, Brooklyn, Venom's writhing tentacle snatches Spider-Man out of the air and slams him against a brick wall.
 

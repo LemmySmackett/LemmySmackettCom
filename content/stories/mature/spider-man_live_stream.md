@@ -2,11 +2,10 @@
 title: "SPIDER-MAN: Twitch and Torment"
 date: 2024-11-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Spider-man swings across the New York City skyline, holding his phone out.
 

@@ -2,11 +2,10 @@
 title: "Love at First Choke"
 date: 2025-07-10
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 At the end of a breathless first date brimming with drunken laughter, shameless teasing, and lingering glances of aching need, Calvin and Iris barely make it through the front door of her cluttered college apartment before clawing each other's clothes off.
 

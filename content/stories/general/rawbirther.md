@@ -2,11 +2,10 @@
 title: "Rawbirther"
 date: 2025-12-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 Mom, c'mon. I thought you'd be happy."

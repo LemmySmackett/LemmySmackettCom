@@ -4,7 +4,6 @@ date: 2024-11-09
 genres: ["fantasy"]
 length: "short-story"
 mature: false
-extreme: false
 ---
 Across the wildwoods and roaring rivers, from mountain to snow-capped mountain, the Wolf King reigned, and all the creatures that dwelled in the land, whether mighty elk or timid rabbit, swore fealty to him.
 

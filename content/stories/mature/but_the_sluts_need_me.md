@@ -2,11 +2,10 @@
 title: "But Honey, the Sluts Need Me!"
 date: 2025-09-14
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 "Hey, honey! Sweetheart!"

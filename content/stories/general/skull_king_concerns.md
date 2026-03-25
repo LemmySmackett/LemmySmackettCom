@@ -2,11 +2,10 @@
 title: "Skull King Concerns"
 date: 2025-07-30
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 The Skull King sits upon his Throne of Gore, fretting. "What if I'm not doing enough? I'm just here, day after day, sitting on my can. Does it even matter? Do people even care?"
 

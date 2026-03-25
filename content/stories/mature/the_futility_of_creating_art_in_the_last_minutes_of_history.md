@@ -2,11 +2,10 @@
 title: "The Futility of Creating Art in the Last Minutes of History"
 date: 2025-11-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Bro, bro. You gotta see this!"

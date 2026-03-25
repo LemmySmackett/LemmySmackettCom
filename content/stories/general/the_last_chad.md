@@ -2,11 +2,10 @@
 title: "The Last Chad"
 date: 2025-07-08
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 The spindly, broccoli-haired tribesman approached, hunching as he knuckle-walked. The Apple Vision Pro obscured his eyes, but they were certain to be sunken and listless—common for his people in their sordid, degraded condition.
 

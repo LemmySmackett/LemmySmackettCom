@@ -2,11 +2,10 @@
 title: "Can I Really Get The Chair for Killing a Goblin?"
 date: 2024-08-23
 genres: ["sci-fi","parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce","isekai"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 One moment, I was in my room cranking it to Twitter lewds of Brazilian Hatsune Miku; the next, a semi-truck fell out of the back of the cargo bay of  C-17 Globemaster III passing overhead and obliterated my apartment, sending me to Another World. (Consider this fate the next time you find cheap rent next to an army base.)
 

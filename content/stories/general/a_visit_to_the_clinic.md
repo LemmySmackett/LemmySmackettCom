@@ -6,7 +6,6 @@ length: "short-story"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 The temperature of the waiting room was precisely calibrated, as all waiting rooms are calibrated, to be just below comfortable, but not so low as to prompt a person to put on a sweater or jacket, even if they had brought one.
 

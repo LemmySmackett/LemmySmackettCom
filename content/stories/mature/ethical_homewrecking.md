@@ -2,11 +2,10 @@
 title: "Ethical Wireborn Home Wrecking"
 date: 2025-08-11
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Hey man, how was your weekend?"
 

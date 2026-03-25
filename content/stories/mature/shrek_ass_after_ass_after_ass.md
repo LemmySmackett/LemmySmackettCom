@@ -2,11 +2,10 @@
 title: "SHREK: Ass After Ass After Ass"
 date: 2025-09-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Shrek, you gotta help me!"

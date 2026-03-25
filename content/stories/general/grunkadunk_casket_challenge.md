@@ -2,11 +2,10 @@
 title: "Grunkadunk Casket Challenge"
 date: 2025-09-03
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 "Dude, what are you watching?"
 

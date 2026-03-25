@@ -4,7 +4,6 @@ date: 2024-10-10
 genres: ["fantasy"]
 length: "short-story"
 mature: false
-extreme: false
 ---
 The prophet died when I was twelve, and for a week after, the Elders kept the body in Ms.MacQuarie's bathtub, awaiting his resurrection. 
 

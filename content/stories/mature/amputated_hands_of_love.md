@@ -2,11 +2,10 @@
 title: "Amputated Hands of Love"
 date: 2025-08-19
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Two young men sit on a well-worn pleather couch, holding PlayStation controllers.
 

@@ -2,11 +2,10 @@
 title: "Canadian Zoom Interview"
 date: 2025-02-01
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Zoom call starts]
 

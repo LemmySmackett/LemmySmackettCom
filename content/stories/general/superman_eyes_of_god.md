@@ -2,11 +2,10 @@
 title: "SUPERMAN: The Eyes of God"
 date: 2025-09-11
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 "Oh, Clark. How can you stand it?" Lois Lane flicks the YouTube app away and sets her phone aside.
 

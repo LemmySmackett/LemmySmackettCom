@@ -2,11 +2,10 @@
 title: "AR Sports Bar"
 date: 2025-08-13
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In 2042, two men sit in a booth at their local sports bar, the Turing Test Tavern.
 

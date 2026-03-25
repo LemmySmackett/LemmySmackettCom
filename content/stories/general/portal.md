@@ -2,11 +2,10 @@
 title: "Portal"
 date: 2024-11-25
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 Deep within the old forest, a portal of golden, shimmering light opened at the base of a mighty oak.
 

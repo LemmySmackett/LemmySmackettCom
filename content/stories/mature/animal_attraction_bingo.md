@@ -1,11 +1,10 @@
 ---
 title: "Animal Attraction Bingo"
 date: 2024-08-23
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Hey Tony, HR asked me to host a team building event. I'm thinking Bingo."
 

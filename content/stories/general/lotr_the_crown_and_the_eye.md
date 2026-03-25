@@ -2,11 +2,10 @@
 title: "LOTR: The Crown and Eye Inn"
 date: 2023-08-14
 genres: ["fantasy", "parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 It's a signature dish!" The Dark Lord rasped. "The orcs want meat on the menu!"
 

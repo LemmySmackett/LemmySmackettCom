@@ -2,11 +2,10 @@
 title: "Grug Gooners"
 date: 2025-03-31
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Wearing the head of a great wolf as a hollow crown, an ape-shouldered caveman rises from his chopped log chair and bangs a crude wooden gavel on the misshapen stone slab. "Krog call community meeting to order," he growls. "First business: Kill Unk."
 

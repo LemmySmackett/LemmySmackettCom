@@ -2,11 +2,10 @@
 title: "Jurassic World: Redeath"
 date: 2025-02-05
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Trump at a press conference: "The U.S. will take over Isla Nublar and we will do a job with it too."
 

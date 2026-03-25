@@ -2,10 +2,9 @@
 title: "Cucked by Cthulhu"
 date: 2024-11-24
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 With a bloodcurdling scream, the honey-haired damsel throws herself into the archaeologist's broad, masculine arms. Trapped in the claustrophobic sepulcher, the pair can only watch in mounting horror—clinging desperately to reason as they cling to one another—while the fetid crypt air bubbles and bursts, the veil of reality rupturing like a rotting pustule, a gaping, seeping wound yawning wide into a twilight portal, a forsaken doorway, through which pushes, scrambles, claws, an indescribable monstrosity—a primordial evil, a celestial abortion—shapeless and ever-shifting, its pale, luminous skin bristling with writhing stalks, wandering eyes, and slithering tentacles riddled with insatiable, ravenous maws.
 

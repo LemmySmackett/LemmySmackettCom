@@ -2,11 +2,10 @@
 title: "Seduction"
 date: 2024-10-06
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: true
-extreme: false
 ---
 In a certain town, I knew a young man who longed for a girl from afar. He was the serious sort, not given to jests or flights of fancy. She was a budding rose, yet unblemished by life's trials.
 

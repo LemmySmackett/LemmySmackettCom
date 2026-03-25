@@ -2,11 +2,10 @@
 title: "Super Mario Bros. Movie: DELETED SCENE"
 date: 2025-02-17
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 EXT. FIRE FLOWER FIELD – NIGHT
 

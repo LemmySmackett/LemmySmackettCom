@@ -2,11 +2,10 @@
 title: "Kanye and Lindyman"
 date: 2025-02-08
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "I'M A NAZI" ye said.
 

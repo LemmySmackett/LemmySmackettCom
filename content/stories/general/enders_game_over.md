@@ -2,10 +2,9 @@
 title: "Ender's Game Over"
 date: 2024-08-28
 genres: ["sci-fi","parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Colonel Graff, this is Mazer Rackham reaching you via ansible. Do you read?"
 

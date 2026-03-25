@@ -2,11 +2,10 @@
 title: "At the Tesla Diner"
 date: 2025-07-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Parked in a drive-in stall at the Tesla Diner, Frederick "Finn" Fuchs turns to his friend in the passenger seat. "You know, before the Singularity, the Epic Bacon cost $12."
 

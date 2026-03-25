@@ -2,11 +2,10 @@
 title: "Binky Inksplat's New Tattoo"
 date: 2025-01-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Linda covers her mouth in horror. "Oh my God."
 

@@ -2,11 +2,10 @@
 title: "DRACULA: The Sailor's Apostle"
 date: 2024-11-17
 genres: ["horror","parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 series: "x/twitter"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Dr. Seward's Diary
 

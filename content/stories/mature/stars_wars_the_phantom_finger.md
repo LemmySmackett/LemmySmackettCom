@@ -2,11 +2,10 @@
 title: "Star Wars: The Phantom Finger"
 date: 2025-01-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 On the bustling city-world of Coruscant, Yoda and Obi-Wan stand side-by-side, gazing out a window on the highest floor of the Jedi Temple. 
 

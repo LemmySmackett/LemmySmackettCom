@@ -2,11 +2,10 @@
 title: "AMERICAN PSYCHO: You like Shindo L?"
 date: 2025-01-08
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 BATEMAN: You like Shindo L?
 

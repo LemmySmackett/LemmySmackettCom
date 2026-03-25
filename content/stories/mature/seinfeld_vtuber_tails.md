@@ -2,11 +2,10 @@
 title: "SEINFELD: Why VTubers Wear Tails"
 date: 2025-04-17
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Kramer bursts through the door. "What if the One Ring was a buttplug!?"
 

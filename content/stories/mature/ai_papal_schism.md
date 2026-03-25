@@ -2,11 +2,10 @@
 title: "AI Papal Schism"
 date: 2025-09-24
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Hey man, you going to the AI Papal Schism?"

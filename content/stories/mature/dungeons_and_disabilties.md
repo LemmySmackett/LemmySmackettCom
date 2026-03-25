@@ -4,7 +4,6 @@ date: 2025-08-17
 genres: ["sci-fi"]
 length: "short-story"
 mature: true
-extreme: false
 ---
 Deep in the heart of the stygian jungle, beyond the fog-laden hollows and twisted boughs, lies the Ziggurat of Xen'Thul, a blasphemous edifice to the Lord of Decay. The three hundred steps leading to the accursed entrance of this vile temple bear glyph inscriptions of lepers swathed in soiled gauze, of carrion fowl feasting on the rotted stump limbs of mottled-skin mendicants. No mortal who cherished reason would dare set foot upon these lurid steps, let alone ascend them. Yet the two figures at the base of this unhallowed ruin knew no such timidity—hardened by experience, unyielding in spirit, they were that rare breed, known throughout the bustling cities, revered across the wild, untamed lands, as Adventurers.
 

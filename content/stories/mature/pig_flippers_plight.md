@@ -2,11 +2,10 @@
 title: "Pig Flippers Plight"
 date: 2025-09-21
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Oh, Samuel. What a wonderful first date~♥️ I never knew pig flipping could be so fun. Or so competitive!"
 

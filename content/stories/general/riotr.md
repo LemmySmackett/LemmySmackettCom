@@ -5,7 +5,6 @@ genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce"]
 mature: false
-extreme: false
 layout: poem
 ---
 Podcast Transcript

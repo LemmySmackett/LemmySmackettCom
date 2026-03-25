@@ -2,11 +2,10 @@
 title: "Clanker Cockfights"
 date: 2025-09-16
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 "Bro, my weekend was sick. I placed third at the Clanker Cockfights!"
 

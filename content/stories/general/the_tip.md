@@ -2,11 +2,10 @@
 title: "The Tip"
 date: 2024-11-12
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 series: "x/twitter"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 R**IZZEDNUTLOV3R HAS TIPPED $5**
 

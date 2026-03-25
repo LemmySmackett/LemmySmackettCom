@@ -2,11 +2,10 @@
 title: "Milked and Liquidated"
 date: 2025-08-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Down at the barn office of Horned Glory Ranch & Creamery, three iron-thewed, broad-chested minotaur brothers sit around an Ikea conference table, clad in J. Crew chinos and moisture-wicking performance polos.
 

@@ -2,11 +2,10 @@
 title: "Payment Upfront"
 date: 2024-11-14
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 series: "x/twitter"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 As the ambulance siren blares, the battered cyclist howls in kind, writhing on the gurney in the back.
 

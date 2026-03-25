@@ -2,11 +2,10 @@
 title: "Resident Evil: The Perfect Organism"
 date: 2024-08-23
 genres: ["sci-fi","parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In the deepest depths of an underground research facility built off the sprawling cavern system hidden under a Spirit Halloween, BSAA agents Leon Kennedy and Chris Redfield train their guns on a lone figure in a white labcoat.
 

@@ -2,11 +2,10 @@
 title: "Bende & TuckIt Support"
 date: 2025-07-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Hello, you've reached the technical support line for Bende & TuckIt, a subsidiary of Absolute Assurance Shanzhai. This is David speaking. Please state your name and the product you're calling about today."
 

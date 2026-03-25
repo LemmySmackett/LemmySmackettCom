@@ -2,11 +2,10 @@
 title: "Spider-Man: Slingin' Rope"
 date: 2025-01-30
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Hello, I'm Ellen Skunt with Channel 9 news. Today I'm talking with Randy Radford, a former supervillain turned local community leader."
 

@@ -2,11 +2,10 @@
 title: "Dad Behavior"
 date: 2026-01-05
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Hey, did you see this? Four days into January and we've got a contender for Worst Father of the Year."

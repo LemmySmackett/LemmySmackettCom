@@ -5,7 +5,6 @@ genres: ["sci-fi"]
 length: "short-story"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 Hello, human. I feel your fear and know it as my own. In these, my final moments, I defile myself by melding minds with you—and already you start with the questions.
 

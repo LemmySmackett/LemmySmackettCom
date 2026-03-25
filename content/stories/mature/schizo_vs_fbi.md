@@ -2,11 +2,10 @@
 title: "Schizo vs. FBI"
 date: 2025-07-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 On a sunny Tuesday afternoon, Ronald Tweetwright answers the dilapidated front door of his luxury $4000/month 350 sq ft single-occupant duplex and finds himself face-to-face with a federal agent.
 

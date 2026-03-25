@@ -2,11 +2,10 @@
 title: "DUNE: The Final Test"
 date: 2024-11-19
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 The Reverend Mother leveled the gom jabar at the calico's neck. "Now Son of Atreides, the final test." 
 

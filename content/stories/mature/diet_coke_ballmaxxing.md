@@ -2,11 +2,10 @@
 title: "Diet Coke Ballmaxxing"
 date: 2025-09-22
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Damn, dude. It's not even 10 AM and you're already on your 3rd Diet Coke."
 

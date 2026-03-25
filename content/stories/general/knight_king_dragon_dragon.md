@@ -2,11 +2,10 @@
 title: "Knight King Dragon Dragon"
 date: 2026-02-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 As a knight," the king says, "it is your duty to kill dragons."

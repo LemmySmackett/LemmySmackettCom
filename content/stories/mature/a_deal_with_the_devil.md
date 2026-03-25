@@ -2,11 +2,10 @@
 title: "A Deal with the Devil: If a Thousand Girls Turn Me Down, I'll Be a Millionaire"
 date: 2025-02-13
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 WHO WOULD EVER DATE YOU, CREEP?!"
 

@@ -2,11 +2,10 @@
 title: "ThotorBot"
 date: 2026-02-15
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Dude, did you see that video of Brad Pitt fighting Tom Cruise to the death to defend Jeffrey Epstein's honor?"

@@ -2,11 +2,10 @@
 title: "Mein Kink"
 date: 2024-11-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 The grim-faced SS officer entered the war room and saluted. "Heil, Herr Standartenführer Dietrich."
 

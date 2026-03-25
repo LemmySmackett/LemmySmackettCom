@@ -2,11 +2,10 @@
 title: "MINECRAFT: Inside the Actor's Studio w/ Jack Black"
 date: 2025-03-19
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Hello, I'm the necromantically resurrected corpse of James Lipton. And this is Inside the Actor's Studio. Today, I'm joined by a man whose energy defies mortal limitations, whose voice shakes the heavens and rattles the underworld—a performer, a poet, a legend of Rock and Roll. A man of a thousand faces, each more expressive than the last. Please welcome... Jack Black."
 

@@ -2,11 +2,10 @@
 title: "STAR WARS: Council of Jesters"
 date: 2025-07-25
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 You are on this council," the Grand-Jester decreed. "But we do not grant you the rank of Court Jester."
 

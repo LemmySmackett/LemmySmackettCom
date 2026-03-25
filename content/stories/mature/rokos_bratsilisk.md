@@ -2,11 +2,10 @@
 title: "Roko's Bratsilisk"
 date: 2025-03-20
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Twenty-something college student Danny Mathers enters his apartment living room. "Hey man, I'm going to Taco Bell. They got a $5 special in the app for Dorito Cinnabon Enchiladas and a 2-for-1 on Black Bean Baja Blast Bundt Cak-JESUS CHRIST." Danny spins away, shielding his eyes.
 

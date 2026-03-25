@@ -2,11 +2,10 @@
 title: "Sexus Dimorphia"
 date: 2025-01-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 "Hello human and welcome to our world, Sexus Dimorphia."
 

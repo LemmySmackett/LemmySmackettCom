@@ -2,11 +2,10 @@
 title: "Lucky"
 date: 2024-10-06
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 There once was a son who lived alone with his mother.  
 

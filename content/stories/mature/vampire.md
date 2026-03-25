@@ -2,11 +2,10 @@
 title: "Vampire"
 date: 2024-10-06
 genres: ["fantasy","horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: true
-extreme: false
 ---
 People always ask me, "Why did you become a therapist?"
 

@@ -2,10 +2,9 @@
 title: "The Little Xeno-Maid"
 date: 2024-10-07
 genres: ["fantasy", "parody", "horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: true
-extreme: false
 ---
 The Little Xeno-maid perched on the weathered rock, holding her silent vigil. Her beloved, a handsome prince, lay on the shore nearby, seafoam waves lapping against his unconscious body. Mercifully, he had survived the battle with the Cecaelian sea witch. And yet there remained an impassible chasm between these two would-be lovers: for he was a human male who walked flat-footed on plantigrade legs and she was an endoparasitoid extraterrestrial with a wide caudal fin.
 

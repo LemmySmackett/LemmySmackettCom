@@ -2,11 +2,10 @@
 title: "That's a No on the Nose Ring"
 date: 2025-10-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Out past Drover's mill, over the old stone bridge, stands the Byre's Regret Inn. In the dim, lamp-lit interior, two hulking minotaurs sit at the bar, nursing tankards of Tough Buck Bourbon.

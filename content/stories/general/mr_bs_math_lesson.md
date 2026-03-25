@@ -3,11 +3,10 @@
 title: "Mr.B's Math Lesson"
 date: 2025-10-03
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 I pulled the yellow Mylar blanket tight around my shoulders, even though the shivers had mostly passed. The EMT was taking my vitals when a cop approached. An investigator, I guess.
 

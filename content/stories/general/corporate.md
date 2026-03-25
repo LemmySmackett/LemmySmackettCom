@@ -2,11 +2,10 @@
 title: "Corporate"
 date: 2024-10-06
 genres: ["horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 In every job in corporate America, I have been or will be obligated, to keep a certain set of knives.
 

@@ -4,7 +4,7 @@
 
 ## Features
 - **Static Site**: Built using Hugo, the site is pre-rendered for speed and performance.
-- **Custom Taxonomy**: Stories are categorized using a custom taxonomy for different lengths like micro-fiction, short stories, novellas, and novels.
+- **Custom Taxonomy**: Stories are categorized using a custom taxonomy for different lengths like five minute fiction, short stories, novellas, and novels.
 - **Dark Mode**: Toggleable dark mode for better reading experience.
 - **Reader Mode**: A clean, distraction-free reading mode for long-form content.
 - **Content Organization**: Stories are dynamically listed by popularity, recency, and length.

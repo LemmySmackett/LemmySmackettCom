@@ -2,10 +2,9 @@
 title: "RESIDENT EVIL: No Bullets, No Problem"
 date: 2025-04-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 mature: false
-extreme: false
 ---
 In a sprawling subterranean science complex hidden under an abandoned TJ Maxx just outside of a Tallahassee exurb, BSAA agent Leon Kennedy steps to the edge of a cliff and peers down into the yawning pitch-black abyss.
 

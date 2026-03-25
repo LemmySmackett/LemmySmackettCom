@@ -2,11 +2,10 @@
 title: "Post-Mortem AI Impact Statement"
 date: 2025-05-08
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 The prosecution stands. "Your honor, if it pleases the court, we'll begin by playing an Impact Statement from the deceased."
 

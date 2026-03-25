@@ -2,11 +2,10 @@
 title: "Scooby Doo and the Curse of the Algorithmic Overlords"
 date: 2025-03-28
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In a staid boardroom in Los Gatos, California, a brunette in a charcoal grey double-breasted skirt-suit rises from a  Hermon Miller chair and clasps her hands. "I want to start by thanking each and every one of you for coming out today. My name is Gloria Slopmire, Chief Content Officer here at Netflix. I know that I speak for everyone in the company when I say we've all worked hard to make this deal happen, we've all wanted it for a long, long time, and it is my immense pleasure to finally welcome Mystery Inc. to the Netflix family!"
 

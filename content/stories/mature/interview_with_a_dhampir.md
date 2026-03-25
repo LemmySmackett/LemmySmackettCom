@@ -2,11 +2,10 @@
 title: "Interview with a Dhampir"
 date: 2025-03-18
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Hello, I'm Ellen Skunt, disgraced NBC reporter turned big titty hot tub Twitch streamer. Today, I'm speaking with President Trump."
 

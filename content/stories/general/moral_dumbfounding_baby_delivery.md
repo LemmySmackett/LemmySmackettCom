@@ -2,11 +2,10 @@
 title: "Moral Dumbfounding Baby Delivery"
 date: 2025-08-01
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 In a sterile, fluorescent-lit delivery room, a husband grasps his wife's trembling hand. "One more push, honey. You're almost there!"
 

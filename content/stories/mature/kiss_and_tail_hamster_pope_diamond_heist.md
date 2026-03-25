@@ -2,11 +2,10 @@
 title: "Kiss & Tail in The Hamster Pope Diamond Heist"
 date: 2025-08-29
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 At the Smithsonian Museum of Natural History, in the pin-drop hush of the twilight hours, two sinuous shadows slither down a rope hanging from an open skylight. Clad in lace-up stiletto boots and matching skin-tight vinyl catsuits, they're the notorious cat-thief duo—Kiss & Tail!
 

@@ -2,11 +2,10 @@
 title: "A Modern Person"
 date: 2025-09-08
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Third-year college student Toby Greer walks into his apartment kitchen. "Dude this AI AutoReader garbage still blows my mind. Who the hell wants to sit around reading AI-generated summaries? You might as well let the damn thing eat for you to—" He freezes. "What is that?"
 

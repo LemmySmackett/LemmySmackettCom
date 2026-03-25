@@ -2,11 +2,10 @@
 title: "Debate Night with Hyena Harris"
 date: 2024-12-31
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Hyena-Kamala Harris, smiling at the debate: "I got that dawg in me, America. And soon that dawg will be in you too!"
 

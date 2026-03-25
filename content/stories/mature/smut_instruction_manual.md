@@ -2,11 +2,10 @@
 title: "Smut Instruction Manual"
 date: 2026-01-07
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Hey man, how's the smut?"

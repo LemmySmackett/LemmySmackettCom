@@ -2,11 +2,10 @@
 title: "Rawdogging"
 date: 2025-11-24
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Bro, you look so refreshed."

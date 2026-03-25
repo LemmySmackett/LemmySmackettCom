@@ -2,11 +2,10 @@
 title: "DRAGONBALL: YAMCHUMP"
 date: 2025-10-26
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Okay, Krillin. Goku, Vegeta, Gohan, Goten, Piccolo, regular Trunks, Future Trunks, Buu, and Oolong—"

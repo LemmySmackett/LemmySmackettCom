@@ -2,11 +2,10 @@
 title: "STAR WARS: Vader vs. Watto"
 date: 2025-01-25
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Watto raises his arms. "Annie! Is that you? All black, very slimming!"
 

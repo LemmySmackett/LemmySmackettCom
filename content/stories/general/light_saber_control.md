@@ -2,11 +2,10 @@
 title: "Light Saber Control"
 date: 2025-06-28
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Surrounded by the last remnants of the Resistance, a weary Poe Dameron takes a deep breath. "Somehow," he sighs. "Palpatine returned..."
 

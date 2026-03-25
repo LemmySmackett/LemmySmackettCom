@@ -2,11 +2,10 @@
 title: "The Shaggy Cat Story"
 date: 2026-01-18
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 
 Once, I had this boss. An absolute bastard of a man. I'm talking an unholy cross between Michael Scott and Terence Fletcher. You know, the guy from Whiplash? "Not my tempo." Anyway, my boss' name was Dan Dale, and working for him was the worst three months of my life. 

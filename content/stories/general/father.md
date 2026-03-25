@@ -2,11 +2,10 @@
 title: "Father's Fire"
 date: 2024-10-06
 genres: ["fantasy","horror"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 I used to know this kid from the Enders. The fire eye'd boy.
 

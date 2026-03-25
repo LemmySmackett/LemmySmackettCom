@@ -2,11 +2,10 @@
 title: "Not My Antichrist"
 date: 2025-09-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 
 Satan, my Lord!"

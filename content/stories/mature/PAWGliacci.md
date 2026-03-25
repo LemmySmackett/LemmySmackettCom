@@ -2,11 +2,10 @@
 title: "PAWGliacci"
 date: 2025-03-27
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Heard joke once: A woman in a short skirt with an absolute dump truck ass goes to the doctor. I'm talking certified, Grade A, top-shelf rump roast. A badonkadonk with its own area code. A real thunder-clapper. Anyway, she says she's depressed. Says life seems harsh and cruel. Says she feels all alone in a threatening world where what lies ahead is vague and uncertain. 
 

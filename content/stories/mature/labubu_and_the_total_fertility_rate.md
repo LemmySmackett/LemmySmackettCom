@@ -2,11 +2,10 @@
 title: "Labubu and the Total Fertility Rate"
 date: 2025-07-18
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Oh my God, Tiffany~~ It's been so long!" Outside a chic downtown café, two women in their late twenties—a blonde and a brunette—embrace.
 "I haven't seen you since high school!"

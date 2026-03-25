@@ -2,11 +2,10 @@
 title: "Development Hell is Other People"
 date: 2025-07-18
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 On a famous studio lot in Hollywood California, a lacquered-hair, flint-eyed Executive enters a packed meeting room and snaps his fingers. "Okay people. I need reboots and big-name directors. You know the criteria—I'm  looking for the worst of the worst. Pure dogshit pitches. Go."
 

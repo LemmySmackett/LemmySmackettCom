@@ -2,11 +2,10 @@
 title: "Bookaholic"
 date: 2024-08-23
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 In the back room of a YMCA, six people, varied in class and temperament, sit in a sharing circle. A lanky woman wearing horn-rimmed glasses and a wrinkled black T-shirt stands up. The shirt reads: 𝗠𝗬 𝗛𝗨𝗦𝗕𝗔𝗡𝗗 𝗜𝗦 𝙃𝙐𝙁𝙁𝙇𝙀𝙋𝙐𝙁𝙁 𝗕𝗨𝗧 𝗠𝗬 𝗕𝗢𝗬𝗙𝗥𝗜𝗘𝗡𝗗 𝗕𝗘 𝙎𝙇𝙔𝙏𝙃𝙀𝙍𝙄𝙉
 

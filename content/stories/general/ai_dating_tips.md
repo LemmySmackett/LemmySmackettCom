@@ -2,11 +2,10 @@
 title: "AI Dating Tips"
 date: 2025-07-12
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 Man, fuck AI!"
 

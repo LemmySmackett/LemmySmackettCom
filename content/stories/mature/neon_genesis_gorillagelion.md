@@ -2,11 +2,10 @@
 title: "Neon Genesis GorillaGelion"
 date: 2025-05-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 Congratulations, Shinji-kun! You used the Third Impact to bring everyone back 𝑎𝑛𝑑 turn yourself into a 600-pound gorilla."
 

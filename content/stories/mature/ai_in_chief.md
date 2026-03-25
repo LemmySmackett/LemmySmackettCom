@@ -2,11 +2,10 @@
 title: "AI in Chief"
 date: 2025-10-02
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
-extreme: false
 ---
 I can't believe it, Martha."
 

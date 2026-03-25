@@ -5,7 +5,6 @@ genres: ["fantasy"]
 length: "short-story"
 series: "Problem Solving Services"
 mature: true
-extreme: false
 ---
 There in the whisper-quiet woods, dried leaves crinkled under cautious boot. The fur-lined ears of the young Kynkin perked, twitching in apprehension.
 

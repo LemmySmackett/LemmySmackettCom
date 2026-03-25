@@ -2,11 +2,10 @@
 title: "Tattoo"
 date: 2024-10-06
 genres: ["fantasy"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["fable","bleak"]
 series: "fables and fairytales"
 mature: false
-extreme: false
 ---
 There once was a wrinkled body, covered in tattoos.
 

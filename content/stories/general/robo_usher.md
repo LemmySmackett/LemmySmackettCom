@@ -2,11 +2,10 @@
 title: "ROBO-USHER"
 date: 2025-09-10
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
-extreme: false
 ---
 In 2027, at the Sphere in Las Vegas, two rowdy teenagers, Jaxon and Zayden, approach the concession stand.
 
