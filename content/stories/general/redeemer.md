@@ -76,4 +76,4 @@ He smiles at me.
 
 I see myself in his warn eyes and learn anew the cherished secret that was kept from me all these tortured years.
 
-I learn that I am human, because he loves me. Ω
+I learn that I am human, because he loves me. ■

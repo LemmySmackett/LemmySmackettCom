@@ -71,4 +71,4 @@ The Blue blinked. "You do?"
 
 "How?" Yellow asked.
 
-"She used to wear them for me." Ω
+"She used to wear them for me." ■

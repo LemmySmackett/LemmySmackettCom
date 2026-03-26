@@ -125,4 +125,4 @@ Gwen turns to face a twenty foot tall Mary Jane fleshlight display. In capital l
 
 Gwen puzzles. "Paul? Who's Paul?"
 
-The light in Spider-Man's eyes fades, his gaze turning distant and hollow. "The last in a long line of men sent by God himself to cuck me." Ω
+The light in Spider-Man's eyes fades, his gaze turning distant and hollow. "The last in a long line of men sent by God himself to cuck me." ■

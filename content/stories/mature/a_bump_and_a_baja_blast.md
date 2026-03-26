@@ -69,5 +69,5 @@ A Taco Bell worker spots the men. “Yo! These crackers out here blowin’ snow!
 
 Tim snatches his chalupa. “No shit we gotta get out of here!”
 
-Jake frantically palms the powder into the baggy. “Quick! Where’s the nearest Chipotle?!” Ω[^1]
+Jake frantically palms the powder into the baggy. “Quick! Where’s the nearest Chipotle?!” ■[^1]
 [^1]: Based on [this tweet](https://x.com/CBSNews/status/1887496468283400570)

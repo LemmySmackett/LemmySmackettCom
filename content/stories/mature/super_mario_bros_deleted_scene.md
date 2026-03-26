@@ -161,4 +161,4 @@ Quick, Mario, we have to-
 
 (Mario sweeps Peach off her feet and kisses her. Deeply. Passionately. All at once, her defenses crumple. Clinging to her four foot nothing casanova, the Princess swoons, and the deep umami aroma of roasted mushroom fills the evening air.)
 
-END DELETED SCENE Ω
+END DELETED SCENE ■

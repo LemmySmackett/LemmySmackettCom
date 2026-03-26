@@ -15,4 +15,4 @@ I can't go on without it.
 Oh god, I found a love,  
 Oh god, I found a love,  
 And I know,  
-I won't get to keep it. Ω
+I won't get to keep it. ■

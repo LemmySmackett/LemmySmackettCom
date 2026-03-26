@@ -65,4 +65,4 @@ John Connor: Oh okay, you raise me around a gang of off-the-grid gun-slinging se
 
 [Sarah Connor turns her head, sickened]
 
-The Terminator snaps his head to John and says, in Arnold's thick Austrian accent: As an Italian-American, they're fantastic. Ω
+The Terminator snaps his head to John and says, in Arnold's thick Austrian accent: As an Italian-American, they're fantastic. ■

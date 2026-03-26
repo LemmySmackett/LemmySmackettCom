@@ -75,4 +75,4 @@ HAPPY HALLOWEEN, the electronic voice declared.
 
 "Happy Halloween," the children replied.
 
-And in spite of what had occurred, they went on to have a lovely evening. Ω
+And in spite of what had occurred, they went on to have a lovely evening. ■

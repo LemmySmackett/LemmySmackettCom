@@ -35,4 +35,4 @@ He is drowned out as the larger man raises his arms, gladius high, basking in th
 
 The smaller man breaks down, sobbing. "Bro, you don't even like this movie. You're a Blade Runner guy." Anguished, he buries his face in the sand.
 
-"Yes, but that was before." The larger man raises the sword, preparing for the decapitation. "Now I get it." Ω
+"Yes, but that was before." The larger man raises the sword, preparing for the decapitation. "Now I get it." ■

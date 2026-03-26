@@ -91,4 +91,4 @@ A third bill flares. "Tik Tok."
 
 Baphisto leans in. "Weren't you the one offering the prostate massage?"
 
-Hank grimaces. "I'm good." Ω
+Hank grimaces. "I'm good." ■

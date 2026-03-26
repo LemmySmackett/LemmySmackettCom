@@ -56,4 +56,4 @@ In the distance, he spotted his cherished friend, Samwise Gamgee, hopping down t
 
 "Sam!"
 
-"To hell with this, Mr. Frodo!" The horrified Harfoot shouted over his shoulder. "I'm going back to the shire!" Ω
+"To hell with this, Mr. Frodo!" The horrified Harfoot shouted over his shoulder. "I'm going back to the shire!" ■

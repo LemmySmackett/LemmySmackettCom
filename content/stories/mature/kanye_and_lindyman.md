@@ -37,4 +37,4 @@ Paul Skallas turned. "Yes?"
 
 YAYDOLF gave him a vulnerable look. "You think I'm ever gonna top Graduation?"
 
-"Anxiety over our past achievements." Paul smiled. "Very Lindy." Ω
+"Anxiety over our past achievements." Paul smiled. "Very Lindy." ■

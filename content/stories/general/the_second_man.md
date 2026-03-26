@@ -41,4 +41,4 @@ The First Man sailed on, kissed by the gentle breeze. Here above the sea of ston
 
 The wings shuddered once more, fraying in haste. Their limit had been reached. In the distance, just beyond the sea, a cliff waited.
 
-And on that cliff, a familiar grinning man, waving his hand high. Ω
+And on that cliff, a familiar grinning man, waving his hand high. ■

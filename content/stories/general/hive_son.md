@@ -277,4 +277,4 @@ A mechanical swarm, white and blue, came into view among the clouds.
 
 "Isn't that why you trust us, dear child?"
 
-Jonathon joined the formation and rose upward with his brothers and sisters, white trails streaking the azure sky, thrusters burning towards the endless dark—a future boundless and unknowable. Ω
+Jonathon joined the formation and rose upward with his brothers and sisters, white trails streaking the azure sky, thrusters burning towards the endless dark—a future boundless and unknowable. ■

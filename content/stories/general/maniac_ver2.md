@@ -81,4 +81,4 @@ Her assailant crumpled to the ground convulsing, arms curled, foam frothing on h
 
 She fled, her heart hammering with an exhilarating pride. But it didn't last. The further she went into the woods, the darker it got. She gripped her taser and spray, frantic eyes scanning the long shadows. 
 
-A maniac could be anywhere. Ω
+A maniac could be anywhere. ■

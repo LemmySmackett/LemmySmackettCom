@@ -44,4 +44,4 @@ And you know what he says to me?
 
 He says, "I want to kill myself but I don't want to hurt my family. I want to kill myself but I don't want to suffer the consequences."
 
-And that's when I knew I had a story. Ω
+And that's when I knew I had a story. ■

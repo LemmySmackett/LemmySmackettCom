@@ -71,4 +71,4 @@ Venom squints. "Is this a yellow fever thing? Like with you and Silk? The whole 
 
 "Right. And how does MJ feel about all that?"
 
-"I'm not allowed to watch my K-dramas on Netflix anymore." Ω
+"I'm not allowed to watch my K-dramas on Netflix anymore." ■

@@ -131,4 +131,4 @@ She crumples to the floor, sobbing. All gathered stare in awkward silence.
 
 "Hee hee. Rick Rirls."
 
-"Not now, Scoob." Ω
+"Not now, Scoob." ■

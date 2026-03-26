@@ -135,4 +135,4 @@ He snorts. "Amora..."
 
 She flutters her eyes innocently. "Yes?"
 
-Dr. Gideon Pinch glances at her and smack his lips. "You know what. The real therapy starts here." He rises, removes his belt, wraps it tight around his knuckle, and pulls the strap taut with a snap. "Buckle up."Ω
+Dr. Gideon Pinch glances at her and smack his lips. "You know what. The real therapy starts here." He rises, removes his belt, wraps it tight around his knuckle, and pulls the strap taut with a snap. "Buckle up."■

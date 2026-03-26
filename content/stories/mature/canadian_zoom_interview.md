@@ -67,4 +67,4 @@ Zoom call starts]
 
 "We're done."
 
-[Zoom call ended] Ω
+[Zoom call ended] ■

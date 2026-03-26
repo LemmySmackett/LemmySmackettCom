@@ -115,4 +115,4 @@ Vanessa smirked. “Had one ready to go huh?”
 
 Astrid shook her head. 
 
-The scribe offered her hand. “Then it’s a pleasure to make your acquaintance, Ms. Nightbloom.” Ω
+The scribe offered her hand. “Then it’s a pleasure to make your acquaintance, Ms. Nightbloom.” ■

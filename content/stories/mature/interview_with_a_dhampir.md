@@ -133,4 +133,4 @@ Hello, I'm Ellen Skunt, disgraced NBC reporter turned big titty hot tub Twitch s
 
 "It's a buttplug, Mr. President."
 
-[He grins] "Of course it is. Six inches?" Ω
+[He grins] "Of course it is. Six inches?" ■

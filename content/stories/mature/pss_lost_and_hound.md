@@ -141,7 +141,7 @@ Lemmy sighed. "I'm saying I can't go back with you, son. I can't do it."
 
 "No." Dash pointed at Remmy. "He's my dad."
 
-Remmy nodded along until he snapped his head, ears pinned back, snout twisted in panic. *"Bwuuuh?"* Ω
+Remmy nodded along until he snapped his head, ears pinned back, snout twisted in panic. *"Bwuuuh?"* ■
 
 
 

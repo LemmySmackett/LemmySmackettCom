@@ -69,4 +69,4 @@ Alex offers a contrite look. "I'm sorry, Daniel. It's just that the world is cha
 
 "I can see that."
 
-Alex turns to his room and taps his chin. "I'll have to buy a riding crop." Ω
+Alex turns to his room and taps his chin. "I'll have to buy a riding crop." ■

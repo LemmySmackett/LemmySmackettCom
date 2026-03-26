@@ -186,5 +186,5 @@ His supervisor appeared beside him. "You alright, Paul?"
 
 "Y-yeah."
 
-"Good." The supervisor gave his shoulder a brisk pat. "Clean yourself up and move to station R19. We're slammed today." Ω
+"Good." The supervisor gave his shoulder a brisk pat. "Clean yourself up and move to station R19. We're slammed today." ■
 

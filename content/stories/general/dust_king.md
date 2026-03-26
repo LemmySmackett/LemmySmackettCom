@@ -47,4 +47,4 @@ Oh well.
 
 Then the song stopped and there was a silence, long and terrible, followed by a jubilant roar.
 
-The cloud of rolling dust celebrated the death of the King. Then a broom came down and swept the dust away. Ω
+The cloud of rolling dust celebrated the death of the King. Then a broom came down and swept the dust away. ■

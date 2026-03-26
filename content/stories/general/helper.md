@@ -42,4 +42,4 @@ or ever why he stayed.
 My love has long departed  
 I didn't watch him go.  
 My eyes were dying embers  
-so many years ago. Ω
+so many years ago. ■

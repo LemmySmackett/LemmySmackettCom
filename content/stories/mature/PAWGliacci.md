@@ -47,4 +47,4 @@ The doctor is manic, nearly frothing. "Every other clown in the three rings was 
 
 "BUT DOCTOR!" The woman hops off the exam table, slaps a red ball on her nose, and bends over. "I am PAWGliacci!" she wails, twerking her sorrow out.
 
-The doctor slams his face between her callipygian carnival clappers. "GYATT!" Ω
+The doctor slams his face between her callipygian carnival clappers. "GYATT!" ■

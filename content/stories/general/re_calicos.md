@@ -40,5 +40,5 @@ She approached, hips swaying with a confident grace. "You the guy selling kitten
 
 The Merchant gulped and nodded. 
 
-She leaned in and took hold of his lapel, caressing the coarse fabric with her nimble fingers. "Got any calicos?" Ω [^1]
+She leaned in and took hold of his lapel, caressing the coarse fabric with her nimble fingers. "Got any calicos?" ■ [^1]
 [^1]:Inspired by [this painting. (Source: @Rythaze on X/Twitter)](/images/merchant_cats.jpg)

@@ -95,4 +95,4 @@ Rotneedle nods. "We keep giving them shitty boyfriends."
 
 "If my Terror Knights ride bare breasted into battle, so shall I!"
 
-"Right away, Sire!" Rotneedle scampers up. "The enemy will cower at your cum gutters!" Ω
+"Right away, Sire!" Rotneedle scampers up. "The enemy will cower at your cum gutters!" ■

@@ -68,4 +68,4 @@ Her face darkens. "Don't."
 
 "Richard, this isn't about that. You're enough." She lays a hand on his chest. "And you'll always be precious to me."
 
-"Yeah, but I'll never be *prehensile*." Ω
+"Yeah, but I'll never be *prehensile*." ■

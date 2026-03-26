@@ -77,4 +77,4 @@ The Demon King chuckles. "Easy, Rotneedle."
 
 "Yes Sire?"
 
-"Make him a beanbag chair." Ω
+"Make him a beanbag chair." ■

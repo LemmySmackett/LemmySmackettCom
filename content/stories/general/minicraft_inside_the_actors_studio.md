@@ -83,4 +83,4 @@ Jack Black shrugs. "Shit happens. Good news is, I just got cast in Babe 3."
 
 Lipton furrows his brow. "Why would-"
 
-Jack Black shrugs. "Hollywood." Ω
+Jack Black shrugs. "Hollywood." ■

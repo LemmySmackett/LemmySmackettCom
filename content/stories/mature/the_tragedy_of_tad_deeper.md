@@ -245,4 +245,4 @@ Tad lies down. "Put me back in the coma."
 
 Barry groans with relief. "I knew I could count on you, dad."
 
-"Wait." Tad bolts up. "Do you get Christina Hendricks on that thing?" Ω
+"Wait." Tad bolts up. "Do you get Christina Hendricks on that thing?" ■

@@ -129,4 +129,4 @@ The Canadians have gone too far!"
 
 "Fuckin' Canadians man."
 
-"God bless 'em." Ω
+"God bless 'em." ■

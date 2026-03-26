@@ -307,4 +307,4 @@ But she wasn't going to tell _him_ that.
 
 {"Unidentified object is cleared."}
 
-{"Thank you."} Ω
+{"Thank you."} ■

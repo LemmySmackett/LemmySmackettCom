@@ -60,7 +60,7 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-top: -10px;
+    margin-top: -18px;
     width: 100%;
 }
 
@@ -69,10 +69,19 @@ nav {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 10px;
+    gap: 2px;
     /*margin-bottom: 15px;*/
     width: 100%; /* Full width */
     padding: 5px 0; /* Add some vertical padding */
+}
+
+.nav-buttons {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    gap: 6px;
+    margin-left: -5px;
+    min-width: 0;
 }
 
 /* Ensure other nav items align with the Goudy L */
@@ -126,14 +135,28 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 2em;
+    margin-top: 0.35em;
+    margin-bottom: 5px;
+    padding: 0;
     width: 100%;
+}
+
+.story-single .pagination {
+    margin-top: -2px;
+}
+
+.story-single main {
+    padding-bottom: 20px;
+}
+
+.story-local-footer p {
+    margin: -6px 0 0.5em;
 }
 
 /* Styling for the buttons */
 .pagination a {
     padding: 10px 15px;
-    background: #f0f0f0;
+    background: #d8d8d8;
     border-radius: 5px;
     text-decoration: none;
     color: #333;
@@ -142,7 +165,7 @@ main {
 
 /* Change button background color on hover */
 .pagination a:hover {
-    background: #e0e0e0;
+    background: #c8c8c8;
 }
 
 /* Arrow before the "Previous" link */
@@ -160,11 +183,13 @@ a.next::after {
 /* Force "Previous" to always be on the left */
 a.prev {
     text-align: left;
+    margin-right: auto;
 }
 
 /* Force "Next" to always be on the right */
 a.next {
     text-align: right;
+    margin-left: auto;
 }
 
 section {
@@ -184,6 +209,10 @@ section {
     letter-spacing: -0.06em;
     margin-bottom: 0.2em;
     margin-top: .5em;
+}
+
+.content-container .section-heading {
+    min-height: 0;
 }
 
 .section-heading::first-letter {
@@ -363,7 +392,7 @@ section {
     border-radius: 0px;          /* Slightly rounded corners (optional) */
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4); /* Raised shadow effect */
     padding: 10px;
-    margin: 5px auto;
+    margin: 9px auto 5px;
     font-style: italic;
     max-width: 100%;
     width: fit-content;
@@ -374,6 +403,10 @@ section {
     padding-top: 8px !important;
     font-size: larger !important;
     font-weight: bold !important;
+}
+
+.latest-story span {
+    display: block;
 }
 
 /* Center container for all content */
@@ -401,16 +434,42 @@ header a, header button {
     margin-right: 10px;
 }
 
+.nav-buttons a,
+.nav-buttons button {
+    margin-right: 0;
+}
+
 /* Responsive Design */
 @media (min-width: 600px) {
     .content-container {
         width: 48%;
+    }
+
+    .content-container .section-heading {
+        min-height: 3.2em;
+        display: flex;
+        align-items: flex-end;
     }
 }
 
 @media (min-width: 1024px) {
     .content-container {
         width: 31%;
+    }
+
+    .content-container .section-heading {
+        min-height: 3.2em;
+    }
+}
+
+.reader-mode .content-wrapper {
+    margin-top: -40px;
+}
+
+@media (min-width: 600px) {
+    .reader-mode .content-container .section-heading {
+        min-height: 3.9em;
+        line-height: 0.95;
     }
 }
 
@@ -444,10 +503,15 @@ header a, header button {
 /* Reader Mode */
 body.reader-mode {
     font-size: 20px;
-    line-height: 1;
-    max-width: 700px;
+    line-height: 1.5;
     background-color: #f9f9f9;
     color: #333;
+}
+
+.reader-mode .global-wrapper {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 28px 32px;
 }
 
 .reader-mode .content-list li {
@@ -467,17 +531,16 @@ body.reader-mode {
 }
 
 .reader-mode h1 {
-    font-size: 2.5rem;
     margin-bottom: 0.2em;
 }
 
 .reader-mode h2 {
     font-size: 1.7em;
-    margin-top: .5em;
+    margin-top: .8em;
 }
 
 .reader-mode p {
-    margin-bottom: 1em;
+    margin-bottom: 0.95em;
 }
 
 /* Dark Mode */
@@ -514,48 +577,87 @@ body.reader-mode {
 
 /* Taxonomy */
 .taxonomy-box-container {
-    display: flex;
-    justify-content: flex-start;
+    display: block;
 }
 
 .taxonomy-box {
     background-color: #9e9e9e;
     border: 1px solid #4d1515;
-    padding: 5px;
+    padding: 8px 10px;
     margin: 0 0 25px 0;
     border-radius: 5px;
     font-size: 1em;
-    line-height: 1.4;
-    max-width: 1024px;
-    width: 100%;
+    line-height: 1.35;
+    max-width: 400px;
+    width: min(100%, 400px);
     box-sizing: border-box;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: flex-start;
+}
+
+.taxonomy-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 12px;
+    align-items: baseline;
+}
+
+.taxonomy-item-col1 {
+    min-width: 130px;
+}
+
+.taxonomy-item-col2 {
+    min-width: 190px;
+}
+
+.reader-mode .taxonomy-box {
+    font-size: 16px;
+    line-height: 1.35;
+    max-width: 400px;
+    width: min(100%, 400px);
+    margin-bottom: 8px;
+}
+
+@media (max-width: 599px) {
+    .taxonomy-box {
+        width: min(100%, 330px);
+        max-width: 330px;
+    }
 }
 
 /* Dark mode for taxonomy box */
 .dark-mode .taxonomy-box {
-    color: #333;
+    background-color: #5a5a5a;
+    border-color: #8c8c8c;
+    color: #f0f0f0;
 }
 
 .dark-mode .taxonomy-box a {
-    color: #333;     
+    color: #f0f0f0;     
 }
 
 .dark-mode .taxonomy-box a:hover {
-    color: var(--visited-link-color);    /* Using the visited link color for hover */
+    color: #d6d6d6;
 }
 
 .taxonomy-item {
-    display: inline-block;
-    margin-left:4px;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 4px;
+    margin-left: 0;
 }
 
-.taxonomy-item:first-child{
-    margin-left: 0px;
+.taxonomy-item strong {
+    white-space: nowrap;
 }
 
-.taxonomy-item:last-child {
-    margin-right: 0;
+.taxonomy-item a,
+.taxonomy-item span {
+    overflow-wrap: anywhere;
 }
+
 
 .taxonomy-box a {
     color: #000000;
@@ -581,6 +683,13 @@ body.reader-mode {
     border: 1px solid #f5c6cb;
 }
 
+.mature-warning a,
+.mature-warning a:visited,
+.mature-warning a:hover {
+    color: #000000 !important;
+    white-space: nowrap;
+}
+
 /* Story Content */
 .story-content {
     margin-top: -1.7em;
@@ -588,10 +697,27 @@ body.reader-mode {
     line-height: 1.3;
 }
 
+.reader-mode .story-content {
+    margin-top: -0.35em;
+    font-size: 1.08em;
+    line-height: 1.58;
+    max-width: 34em;
+}
+
+.reader-mode .story-content p {
+    margin-bottom: 0.9em;
+}
+
 .story-title h1{
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 2rem;
+}
+
+.reader-mode .story-title h1 {
+    font-size: 3rem;
+    line-height: 0.96;
+    margin-bottom: 0.18em;
 }
 
 @font-face {
@@ -608,7 +734,7 @@ body.reader-mode {
     font-size: 4em;
     float: left;
     line-height: 0.8;
-    padding-top: 0.1em;
+    padding-top: calc(0.1em - 4px);
     padding-right: 0.1em;
     margin-right: 0.05em;
     color: #000;
@@ -657,6 +783,18 @@ body.reader-mode {
     border-top: 3px dotted #ccc;   /* Dotted line with light color */
     margin: 20px 0;
     width: 100%;
+}
+
+.reader-mode .dotted-line {
+    margin: 28px 0 8px;
+}
+
+.reader-mode .pagination {
+    margin-top: 2px;
+}
+
+.reader-mode .pagination a {
+    padding: 4px 15px;
 }
 
 /* Icon button styling */
@@ -750,8 +888,8 @@ a[href*="patreon"] svg {
 
 /* Ensure icons are properly sized and aligned */
 .icon-button svg {
-    width: 25px;
-    height: 25px;
+    width: 28px;
+    height: 28px;
 }
 
 /* Buy the Book button */
@@ -764,6 +902,8 @@ a[href*="patreon"] svg {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
+    min-height: 41px;
     color: #90EE90;
     font-size: 0.95em;
     font-weight: 900;
@@ -771,8 +911,16 @@ a[href*="patreon"] svg {
     text-decoration: none;
     transition: background-color 0.2s, color 0.2s, border-color 0.2s;
     letter-spacing: 0.5px;
-    position: relative;
-    top: -7px;
+    white-space: nowrap;
+    margin-left: auto;
+}
+
+.buy-book-label-short {
+    display: none !important;
+}
+
+.buy-book-label-full {
+    display: inline !important;
 }
 
 .buy-book-button:hover {
@@ -809,4 +957,115 @@ a[href*="patreon"] svg {
 
 .dark-mode .buy-book-button:visited:hover {
     color: #1a3a0d;
+}
+
+.dark-mode .pagination a,
+.dark-mode .pagination a:visited {
+    color: #333;
+}
+
+@media (max-width: 599px) {
+    .global-wrapper,
+    .reader-mode .global-wrapper {
+        padding: 0 12px 24px 16px;
+    }
+
+    .taxonomy-box {
+        width: min(100%, 312px);
+        max-width: 312px;
+    }
+
+    .reader-mode .taxonomy-box {
+        width: min(100%, 312px);
+        max-width: 312px;
+    }
+
+    .taxonomy-row {
+        gap: 4px 8px;
+    }
+
+    .taxonomy-item-col1,
+    .taxonomy-item-col2 {
+        min-width: 0;
+    }
+
+    .story-content,
+    .story-content p {
+        overflow-wrap: anywhere;
+    }
+
+    .story-content {
+        font-size: 1.04em;
+    }
+
+    .story-content > p:first-of-type::first-letter {
+        font-size: 3.4em;
+    }
+
+    nav {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        align-items: center;
+        gap: 6px;
+        flex-wrap: nowrap;
+    }
+
+    .nav-buttons {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 4px;
+        min-width: 0;
+        align-items: center;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .icon-button {
+        padding: 6px;
+        flex: 0 0 auto;
+    }
+
+    .icon-button svg {
+        width: 28px;
+        height: 28px;
+    }
+
+    .buy-book-button {
+        padding: 7px 7px;
+        font-size: 0.88em;
+        margin-left: auto;
+        margin-right: -6px;
+        flex-shrink: 0;
+        justify-self: end;
+    }
+
+    .buy-book-label-full {
+        display: none !important;
+    }
+
+    .buy-book-label-short {
+        display: inline !important;
+    }
+
+    .pagination {
+        margin-top: 0;
+        margin-bottom: 4px;
+    }
+
+    .pagination a {
+        padding: 7px 12px;
+        font-size: 0.95em;
+    }
+
+    a.next {
+        margin-right: 2px;
+        transform: none;
+    }
+}
+
+@media (max-width: 599px) {
+    .reader-mode .story-title h1 {
+        font-size: 2.5rem;
+        line-height: 0.96;
+    }
 }

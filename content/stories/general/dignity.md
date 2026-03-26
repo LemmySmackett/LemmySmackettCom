@@ -16,4 +16,4 @@ At last, the man was old, the Elder of a noble people. They laid his burnt bones
 
 A thousand times the man died and, in each death, there was a certain dignity.
 
-Death with dignity was well and good, but life with dignity, ah, what a challenge. Ω
+Death with dignity was well and good, but life with dignity, ah, what a challenge. ■

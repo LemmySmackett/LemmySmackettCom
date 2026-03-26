@@ -103,4 +103,4 @@ Yoda watches the pair depart. "Hmm. Troubled by Skywalker, I am. Many omens. A d
 
 "N-nothing."
 
-Yoda squints. "Hmm." Ω
+Yoda squints. "Hmm." ■

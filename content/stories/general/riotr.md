@@ -232,4 +232,4 @@ Podcast Transcript
 
 "I'll let you have the last word, as long as it's not Nazoraeru."
 
-"I invite everyone to join us on Riotr, join the revolution, make your voice heard. Only when we all come together and speak out as one, can democracy succeed. Oh also, please look forward to our new app releasing next week—RaceSpace." Ω
+"I invite everyone to join us on Riotr, join the revolution, make your voice heard. Only when we all come together and speak out as one, can democracy succeed. Oh also, please look forward to our new app releasing next week—RaceSpace." ■

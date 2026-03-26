@@ -77,4 +77,4 @@ They found his half-folded head sticking out of a seven-sided wall and it was sc
 
 I guess what I'm trying to say is, some men ain't winning unless everyone else is losing.
 
-Even if the one's losing are his own flesh and blood. Ω
+Even if the one's losing are his own flesh and blood. ■

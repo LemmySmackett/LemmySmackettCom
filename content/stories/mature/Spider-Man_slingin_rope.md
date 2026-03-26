@@ -101,4 +101,4 @@ Ellen looks down at the rope in her hands and recoils in horror. "So it really i
 
 "Eh, probably not." The Chemist shrugs. "But I find the balm works better if I let the Jizzler rope in it."
 
-"𝐄𝐔𝐆𝐇!!!" Ω
+"𝐄𝐔𝐆𝐇!!!" ■

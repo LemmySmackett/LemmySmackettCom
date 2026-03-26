@@ -93,5 +93,5 @@ Vegeta staggers. 𝑈𝑛𝑏𝑒𝑙𝑖𝑒𝑣𝑎𝑏𝑙𝑒. 𝐴𝑙𝑙 
 
 "No, I don't believe it!" Vegeta turns, his little prince dangling. "Kakarot! Are you telling me you wet yourself for a whole year in the hyperbolic time chamber?!"
 
-"Oh yeah," Goku says. "And when I got home, Chi Chi was 𝒑𝒊𝒔𝒔𝒆𝒅." Ω[^1]
+"Oh yeah," Goku says. "And when I got home, Chi Chi was 𝒑𝒊𝒔𝒔𝒆𝒅." ■[^1]
 [^1]: Based on [this tweet](https://x.com/khyleri/status/1885372505331777638)

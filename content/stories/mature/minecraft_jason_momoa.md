@@ -57,4 +57,4 @@ Welcome back to Last Samurai Standing. I'm your host Vic Romano."
 
 *STOMP STOMP*
 
-"DO THIS!" Ω
+"DO THIS!" ■

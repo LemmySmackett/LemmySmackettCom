@@ -35,4 +35,4 @@ A ruddy red face with bright blue eyes and a bristly brown beard popped into vie
 𝗛𝗲𝘆! 𝗖𝗼𝗺𝗲 𝗺𝗲𝗿𝗿𝘆 𝗱𝗼! 𝗛𝗶𝗱𝗶𝗻𝗴 𝗱𝗼𝘄𝗻, 𝗵𝗲 𝗹𝗮𝘆. 
 𝗨𝗽 𝗵𝗲 𝗰𝗼𝗺𝗲, 𝘂𝗽 𝗵𝗲 𝗰𝗼𝗺𝗲, 𝘄𝗲 𝗺𝘂𝘀𝘁 𝗯𝗲 𝗮𝘄𝗮𝘆!
 
-A wave of relief washed over Sam. At last, the long night was at an end. The sun had risen. Tom Bombadill had been found. Ω
+A wave of relief washed over Sam. At last, the long night was at an end. The sun had risen. Tom Bombadill had been found. ■

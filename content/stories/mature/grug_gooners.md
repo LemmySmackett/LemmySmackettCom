@@ -83,4 +83,4 @@ The crowd thrums with murderous intent, aligned at last with Krog's dark will. H
 
 The crowd explodes in a jubilant roar. "HOORAH!"
 
-Krog slumps in his seat. "We dead." Ω
+Krog slumps in his seat. "We dead." ■

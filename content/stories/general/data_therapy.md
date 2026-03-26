@@ -39,4 +39,4 @@ Hey man, I heard you got a new FAANG job. Getting that sweet, sweet SWE money, h
 
 "Yeah."
 
-"Man, that shit's made up." Ω
+"Man, that shit's made up." ■

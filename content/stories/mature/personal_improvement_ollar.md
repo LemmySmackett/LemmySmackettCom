@@ -46,4 +46,4 @@ She slumped, a queer smile spreading across her blushing cheeks.
 
 "What makes you think I didn't vote for this?"
 
- *-BZZZT-* Ω
+ *-BZZZT-* ■

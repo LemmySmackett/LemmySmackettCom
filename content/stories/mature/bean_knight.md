@@ -115,4 +115,4 @@ The Knight levels his gaze. "So we have a deal then?"
 
 The Knight ducks and weaves, shadowboxing. "I've also been the reigning speed bag champion for six years running."
 
-The Fae Witch's eyes light up. "Pro𝙘𝙚𝙚𝙙." Ω
+The Fae Witch's eyes light up. "Pro𝙘𝙚𝙚𝙙." ■

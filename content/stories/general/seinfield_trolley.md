@@ -48,4 +48,4 @@ Kramer scoffs. "Come on, Jerry. That’s not even a choice."
 
 Seinfeld stands up and walks over to calm his friend. "Easy buddy, easy! It's just a hypothetical. A thought experiment. Nobody is tying Daffy Duck or anybody else to any trolley tracks. I promise."
 
-Constanza bursts through the door, drenched in blood and black feathers. "Hide me." Ω
+Constanza bursts through the door, drenched in blood and black feathers. "Hide me." ■

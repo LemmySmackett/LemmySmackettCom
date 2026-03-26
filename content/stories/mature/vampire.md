@@ -137,4 +137,4 @@ No, I am not in the business of cures. That may be other therapist's business, b
 
 You'll have to excuse me.
 
-The session is about to begin. Ω
+The session is about to begin. ■

@@ -94,4 +94,4 @@ The man throws his head back. "I'm dying! I'm dying!"
 "Anything," he says.
 
 She leans down and whispers in his ear. "Let me suck your dirty toes." 
-Ω
+■

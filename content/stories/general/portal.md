@@ -53,5 +53,5 @@ She asked the Bureaucrat at Station 7877 for help. The Bureaucrat took one look 
 
 Emma slumped, frazzled and defeated. "Well what does PF stand for?"
 
-The bureaucrat shrugged. "Pointless Farce." Ω
+The bureaucrat shrugged. "Pointless Farce." ■
 

@@ -89,4 +89,4 @@ Venom turns his head. "We are 𝒔𝒊𝒄𝒌𝒆𝒏𝒆𝒅."
 
 "Maybe the Marisa Tomei version, you know, but Rosemary Harris? No way."
 
-"We are 𝗟𝗘𝗔𝗩𝗜𝗡𝗚." Ω
+"We are 𝗟𝗘𝗔𝗩𝗜𝗡𝗚." ■

@@ -51,4 +51,4 @@ The blonde stands up. "Ellen Skunt, NBC news. Isn't it true that as of Jurassic 
 
 "Mr. President please."
 
-"It's gonna be a new Jurassic Park, bigger and better than anything you ever seen before. So many dinosaurs folks. They'll blanket the earth. A T-Rex in every stadium, a raptor in every grocery aisle. You'll never escape." Ω
+"It's gonna be a new Jurassic Park, bigger and better than anything you ever seen before. So many dinosaurs folks. They'll blanket the earth. A T-Rex in every stadium, a raptor in every grocery aisle. You'll never escape." ■

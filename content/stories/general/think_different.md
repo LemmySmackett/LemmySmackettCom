@@ -210,4 +210,4 @@ The hideous Glanshrak horde lunges at the other alien ships, tearing them to pie
 
 The man turns again. Now he's sitting in a chic, cozy living room.
 
-"And now you can have a piece of that humanity-saving technology safeguarding the comfort and security of your own home. No matter where you go, AppleSoft will be there protecting you and your loved ones. And don’t forget, implants are now covered by all major insurance providers." A stylish display case slides in front of the man. "The AppleSoft Maya Supreme. One little implant, a lifetime of peace of mind." Ω
+"And now you can have a piece of that humanity-saving technology safeguarding the comfort and security of your own home. No matter where you go, AppleSoft will be there protecting you and your loved ones. And don’t forget, implants are now covered by all major insurance providers." A stylish display case slides in front of the man. "The AppleSoft Maya Supreme. One little implant, a lifetime of peace of mind." ■

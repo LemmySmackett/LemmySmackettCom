@@ -35,5 +35,5 @@ Ringtail put his hands on his hip, visibly proud of his cleverness.
 
 "Well," Eldrasar said. "One certainly wouldn't question that well-kept compost is a boon to any groundskeeper, but I must say, Ringtail, it hardly seems like magic."
 
-"Ah, but that's where you're wrong," the raccoon beamed. "Transmogrification is always magic, no matter the humble beginnings or how long it takes." Ω [^1]
+"Ah, but that's where you're wrong," the raccoon beamed. "Transmogrification is always magic, no matter the humble beginnings or how long it takes." ■ [^1]
 [^1]:Inspired by [this character design. (Source: @TeeKetch on X/Twitter)](/images/trash_wizard.jpg)

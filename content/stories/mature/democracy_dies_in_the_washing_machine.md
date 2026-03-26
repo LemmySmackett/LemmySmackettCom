@@ -103,4 +103,4 @@ The government has been taken over by backwater fundie fascist prudes."
 
 "...I'm only doing this for democracy."
 
-"Mhm. Of course you are, Kitten." Ω
+"Mhm. Of course you are, Kitten." ■

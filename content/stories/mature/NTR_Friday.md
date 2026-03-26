@@ -123,4 +123,4 @@ A crimson sigil bleeds up through the cathedral floor, splitting open as a writh
 
 "Fuck this! I'm out of here!"
 
-𝑰 𝒇𝒊𝒍𝒍𝒆𝒅 𝒖𝒑 𝒐𝒏 𝑾𝒉𝒊𝒕𝒆 𝑪𝒍𝒂𝒘𝒔! Ω
+𝑰 𝒇𝒊𝒍𝒍𝒆𝒅 𝒖𝒑 𝒐𝒏 𝑾𝒉𝒊𝒕𝒆 𝑪𝒍𝒂𝒘𝒔! ■

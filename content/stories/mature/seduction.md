@@ -79,4 +79,4 @@ In one blow, I caved her forehead—with the wrench I kept behind a trash can.
 
 Her body fell limp, and I proceeded to bag it up, intending to dispose of it like all the others.
 
-I have never met a man or woman of virtue. Ω
+I have never met a man or woman of virtue. ■
