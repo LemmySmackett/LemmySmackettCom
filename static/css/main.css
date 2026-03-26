@@ -520,6 +520,16 @@ body.reader-mode {
     margin-bottom: .03em;  /* Add more space between list items */
 }
 
+.reader-mode .latest-story {
+    margin-bottom: 0;
+}
+
+.reader-mode .quote-box {
+    width: auto;
+    max-width: 34rem;
+    margin: 4px auto -18px;
+}
+
 .reader-mode #content-container {
     background-color: white;
     padding: 42px;
