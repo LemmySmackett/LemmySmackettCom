@@ -392,7 +392,7 @@ section {
     border-radius: 0px;          /* Slightly rounded corners (optional) */
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4); /* Raised shadow effect */
     padding: 10px;
-    margin: 9px auto 5px;
+    margin: -8px auto -26px;
     font-style: italic;
     max-width: 100%;
     width: fit-content;
@@ -403,6 +403,7 @@ section {
     padding-top: 8px !important;
     font-size: larger !important;
     font-weight: bold !important;
+    margin-bottom: -12px;
 }
 
 .latest-story span {
