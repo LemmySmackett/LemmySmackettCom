@@ -1,5 +1,5 @@
 ---
-title: "2030: Standup Act"
+title: "2060: Standup Act"
 date: 2025-05-21
 genres: ["parody"]
 length: "five-minute-fiction"
