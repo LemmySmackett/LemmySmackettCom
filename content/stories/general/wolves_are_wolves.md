@@ -2,7 +2,7 @@
 title: "Wolves are Wolves"
 date: 2026-06-28
 genres: ["parody"]
-length: "short story"
+length: "short-story"
 tags: ["farce"]
 series: "x/twitter"
 mature: false
