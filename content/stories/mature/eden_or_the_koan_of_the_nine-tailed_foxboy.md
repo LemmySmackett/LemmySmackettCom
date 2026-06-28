@@ -2,7 +2,7 @@
 title: "E.D.E.N., or The Koan of the Nine-Tailed Foxboy"
 date: 2026-05-14
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
