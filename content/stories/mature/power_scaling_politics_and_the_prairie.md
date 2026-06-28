@@ -2,7 +2,7 @@
 title: "Power Scaling, Politics, and the Prairie"
 date: 2026-05-20
 genres: ["parody"]
-length: "micro-fiction"
+length: "five-minute-fiction"
 tags: ["farce"]
 series: "x/twitter"
 mature: true
