@@ -15,7 +15,7 @@ As the sun sank below the horizon, and the long shadows stretched, two men leane
 
 Finch glanced over. "What's that?"
 
-"Strips clubs."
+"Strip clubs."
 
 Finch snorted, then, pondering this a bit, nodded in somber silence.
 
