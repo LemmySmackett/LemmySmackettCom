@@ -7,7 +7,9 @@ tags: ["farce"]
 series: "x/twitter"
 mature: false
 ---
-On the desert planet of Tatooine, an unexpected visitor enters the junkshop of a certain Toydarian. “Annie? Is that you?" Watto raises his arms. "All black, very slimming!"
+On the desert planet of Tatooine, an unexpected visitor enters the junkshop of a certain Toydarian. 
+
+“Annie? Is that you?" Watto raises his arms. "All black, very slimming!"
 
 Vader's lightsaber sparks red. "You enslaved my mother, Watto."
 
